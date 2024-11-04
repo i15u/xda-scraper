@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Microsoft Surface Duo 2",
+        "path": "/f/microsoft-surface-duo-2.12449/",
+        "threads": 41,
+        "messages": 167
+    },
+    {
+        "name": "Microsoft Surface",
+        "path": "/f/microsoft-surface.1624/",
+        "threads": 895,
+        "messages": 8300
+    },
+    {
+        "name": "Microsoft Surface Duo",
+        "path": "/c/microsoft-surface-duo.9341/",
+        "threads": 188,
+        "messages": 2100
+    },
+    {
+        "name": "Microsoft Lumia 950/950 XL",
+        "path": "/f/microsoft-lumia-950-950-xl.4846/",
+        "threads": 233,
+        "messages": 1500
+    }
+]

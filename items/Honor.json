@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Honor V40",
+        "path": "/f/honor-v40.12093/",
+        "threads": 5,
+        "messages": 5
+    },
+    {
+        "name": "Honor 50",
+        "path": "/f/honor-50.12309/",
+        "threads": 43,
+        "messages": 511
+    },
+    {
+        "name": "Honor 50 Pro",
+        "path": "/f/honor-50-pro.12361/",
+        "threads": 6,
+        "messages": 7
+    },
+    {
+        "name": "Honor 50 SE",
+        "path": "/f/honor-50-se.12363/",
+        "threads": 5,
+        "messages": 5
+    },
+    {
+        "name": "Honor Magic3",
+        "path": "/f/honor-magic3.12435/",
+        "threads": 8,
+        "messages": 8
+    },
+    {
+        "name": "Honor Magic3 Pro",
+        "path": "/f/honor-magic3-pro.12437/",
+        "threads": 23,
+        "messages": 372
+    },
+    {
+        "name": "Honor 60",
+        "path": "/f/honor-60.12477/",
+        "threads": 10,
+        "messages": 22
+    },
+    {
+        "name": "Honor Magic V",
+        "path": "/f/honor-magic-v.12495/",
+        "threads": 33,
+        "messages": 195
+    },
+    {
+        "name": "Honor Magic 4 Ultimate",
+        "path": "/f/honor-magic-4-ultimate.12577/",
+        "threads": 21,
+        "messages": 218
+    },
+    {
+        "name": "Honor Magic4 Pro",
+        "path": "/f/honor-magic4-pro.12631/",
+        "threads": 72,
+        "messages": 792
+    },
+    {
+        "name": "Honor X7a",
+        "path": "/f/honor-x7a.12735/",
+        "threads": 7,
+        "messages": 33
+    },
+    {
+        "name": "Honor Magic V2",
+        "path": "/f/honor-magic-v2.12821/",
+        "threads": 69,
+        "messages": 2500
+    },
+    {
+        "name": "Honor Magic6",
+        "path": "/f/honor-magic6.12824/",
+        "threads": 51,
+        "messages": 306
+    },
+    {
+        "name": "Honor Pad 9",
+        "path": "/f/honor-pad-9.12843/",
+        "threads": 11,
+        "messages": 14
+    },
+    {
+        "name": "Honor Magic V Flip",
+        "path": "/f/honor-magic-v-flip.12861/",
+        "threads": 2,
+        "messages": 2
+    },
+    {
+        "name": "Honor Magic V3",
+        "path": "/f/honor-magic-v3.12886/",
+        "threads": 42,
+        "messages": 285
+    },
+    {
+        "name": "Honor 9A",
+        "path": "/c/honor-9a.10391/",
+        "threads": 60,
+        "messages": 71
+    },
+    {
+        "name": "Honor 30S",
+        "path": "/c/honor-30s.10377/",
+        "threads": 40,
+        "messages": 42
+    },
+    {
+        "name": "Honor View 30 / V30",
+        "path": "/c/honor-view-30-v30.9697/",
+        "threads": 42,
+        "messages": 47
+    },
+    {
+        "name": "Honor 9X Pro",
+        "path": "/c/honor-9x-pro.9070/",
+        "threads": 70,
+        "messages": 117
+    },
+    {
+        "name": "Honor 9X",
+        "path": "/c/honor-9x.9063/",
+        "threads": 78,
+        "messages": 190
+    },
+    {
+        "name": "Honor 20 Lite",
+        "path": "/c/honor-20-lite.8925/",
+        "threads": 47,
+        "messages": 100
+    },
+    {
+        "name": "Honor 20 Pro",
+        "path": "/c/honor-20-pro.8896/",
+        "threads": 92,
+        "messages": 224
+    },
+    {
+        "name": "Honor 20",
+        "path": "/c/honor-20.8819/",
+        "threads": 126,
+        "messages": 832
+    },
+    {
+        "name": "Honor View 20",
+        "path": "/c/honor-view-20.8437/",
+        "threads": 351,
+        "messages": 3100
+    },
+    {
+        "name": "Honor 10 Lite",
+        "path": "/c/honor-10-lite.8392/",
+        "threads": 88,
+        "messages": 305
+    },
+    {
+        "name": "Honor 8X",
+        "path": "/c/honor-8x.8201/",
+        "threads": 430,
+        "messages": 4000
+    },
+    {
+        "name": "Honor Magic 2",
+        "path": "/c/honor-magic-2.8110/",
+        "threads": 98,
+        "messages": 374
+    },
+    {
+        "name": "Honor Play",
+        "path": "/c/honor-play.8082/",
+        "threads": 433,
+        "messages": 3900
+    },
+    {
+        "name": "Honor Note 10",
+        "path": "/c/honor-note-10.7991/",
+        "threads": 228,
+        "messages": 2200
+    },
+    {
+        "name": "Honor 9N",
+        "path": "/c/honor-9n.7970/",
+        "threads": 56,
+        "messages": 87
+    },
+    {
+        "name": "Honor 10",
+        "path": "/c/honor-10.7649/",
+        "threads": 583,
+        "messages": 5400
+    },
+    {
+        "name": "Honor 9 Lite",
+        "path": "/c/honor-9-lite.7285/",
+        "threads": 482,
+        "messages": 4800
+    },
+    {
+        "name": "Honor View 10",
+        "path": "/c/honor-view-10.7261/",
+        "threads": 734,
+        "messages": 13900
+    },
+    {
+        "name": "Honor 7X",
+        "path": "/c/honor-7x.7100/",
+        "threads": 1000,
+        "messages": 10400
+    },
+    {
+        "name": "Honor 9i",
+        "path": "/c/honor-9i.7060/",
+        "threads": 106,
+        "messages": 477
+    },
+    {
+        "name": "Honor 9",
+        "path": "/c/honor-9.6535/",
+        "threads": 855,
+        "messages": 12300
+    },
+    {
+        "name": "Honor 8 Lite",
+        "path": "/c/honor-8-lite.6473/",
+        "threads": 275,
+        "messages": 2700
+    },
+    {
+        "name": "Honor 8 Pro",
+        "path": "/c/honor-8-pro.6295/",
+        "threads": 579,
+        "messages": 8800
+    },
+    {
+        "name": "Honor V9",
+        "path": "/c/honor-v9.6173/",
+        "threads": 87,
+        "messages": 303
+    },
+    {
+        "name": "Honor 6X",
+        "path": "/c/honor-6x.6073/",
+        "threads": 1800,
+        "messages": 31700
+    },
+    {
+        "name": "Honor Magic",
+        "path": "/c/honor-magic.6055/",
+        "threads": 78,
+        "messages": 386
+    },
+    {
+        "name": "Honor 8",
+        "path": "/c/honor-8.5731/",
+        "threads": 3300,
+        "messages": 57900
+    },
+    {
+        "name": "Honor 4x",
+        "path": "/c/honor-4x.5587/",
+        "threads": 366,
+        "messages": 11900
+    },
+    {
+        "name": "Honor 5C",
+        "path": "/c/honor-5c.5548/",
+        "threads": 566,
+        "messages": 8400
+    },
+    {
+        "name": "Honor 3C",
+        "path": "/c/honor-3c.5499/",
+        "threads": 278,
+        "messages": 10500
+    },
+    {
+        "name": "Honor 4C",
+        "path": "/c/honor-4c.5362/",
+        "threads": 237,
+        "messages": 5900
+    },
+    {
+        "name": "Honor 5X",
+        "path": "/c/honor-5x.5021/",
+        "threads": 1800,
+        "messages": 44800
+    },
+    {
+        "name": "Honor 7",
+        "path": "/c/honor-7.4544/",
+        "threads": 1500,
+        "messages": 23700
+    },
+    {
+        "name": "Honor 6, Honor 6 Plus",
+        "path": "/c/honor-6-honor-6-plus.3825/",
+        "threads": 1300,
+        "messages": 22400
+    }
+]

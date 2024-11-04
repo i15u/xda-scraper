@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Build-a-PC",
+        "path": "/c/build-a-pc.12247/",
+        "threads": 137,
+        "messages": 560
+    },
+    {
+        "name": "PC peripherals",
+        "path": "/c/pc-peripherals.12253/",
+        "threads": 42,
+        "messages": 283
+    },
+    {
+        "name": "Hardware tech talk",
+        "path": "/c/hardware-tech-talk.12261/",
+        "threads": 82,
+        "messages": 322
+    },
+    {
+        "name": "Gaming",
+        "path": "/c/gaming.12271/",
+        "threads": 58,
+        "messages": 266
+    },
+    {
+        "name": "Non Android Operating Systems (OS)",
+        "path": "/c/non-android-operating-systems-os.12281/",
+        "threads": 1200,
+        "messages": 8400
+    },
+    {
+        "name": "3D Printers",
+        "path": "/f/3d-printers.12497/",
+        "threads": 47,
+        "messages": 350
+    }
+]

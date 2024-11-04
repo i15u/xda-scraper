@@ -1,0 +1,20 @@
+[
+    {
+        "name": "UMi Super",
+        "path": "/c/umi-super.6565/",
+        "threads": 106,
+        "messages": 2600
+    },
+    {
+        "name": "UMi Z",
+        "path": "/c/umi-z.6127/",
+        "threads": 141,
+        "messages": 1700
+    },
+    {
+        "name": "UMi ZERO",
+        "path": "/c/umi-zero.5743/",
+        "threads": 52,
+        "messages": 3900
+    }
+]

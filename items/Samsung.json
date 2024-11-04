@@ -1,0 +1,1784 @@
+[
+    {
+        "name": "Samsung Galaxy M02s",
+        "path": "/f/samsung-galaxy-m02s.12079/",
+        "threads": 26,
+        "messages": 161
+    },
+    {
+        "name": "Samsung Galaxy A12",
+        "path": "/f/samsung-galaxy-a12.12125/",
+        "threads": 613,
+        "messages": 5400
+    },
+    {
+        "name": "Samsung Galaxy A52 4G",
+        "path": "/f/samsung-galaxy-a52-4g.12131/",
+        "threads": 275,
+        "messages": 4100
+    },
+    {
+        "name": "Samsung Galaxy A52 5G",
+        "path": "/f/samsung-galaxy-a52-5g.12133/",
+        "threads": 295,
+        "messages": 1800
+    },
+    {
+        "name": "Samsung Galaxy M12",
+        "path": "/f/samsung-galaxy-m12.12181/",
+        "threads": 113,
+        "messages": 1300
+    },
+    {
+        "name": "Samsung Galaxy Tab S7 FE",
+        "path": "/f/samsung-galaxy-tab-s7-fe.12307/",
+        "threads": 97,
+        "messages": 756
+    },
+    {
+        "name": "Samsung Galaxy M42 5G",
+        "path": "/f/samsung-galaxy-m42-5g.12325/",
+        "threads": 8,
+        "messages": 18
+    },
+    {
+        "name": "Samsung Galaxy Tab A7 Lite",
+        "path": "/f/samsung-galaxy-tab-a7-lite.12329/",
+        "threads": 511,
+        "messages": 7000
+    },
+    {
+        "name": "Samsung Galaxy A22 4G",
+        "path": "/f/samsung-galaxy-a22-4g.12333/",
+        "threads": 108,
+        "messages": 806
+    },
+    {
+        "name": "Samsung Galaxy A22 5G",
+        "path": "/f/samsung-galaxy-a22-5g.12335/",
+        "threads": 154,
+        "messages": 1000
+    },
+    {
+        "name": "Samsung Galaxy Z Fold3",
+        "path": "/f/samsung-galaxy-z-fold3.12349/",
+        "threads": 615,
+        "messages": 9400
+    },
+    {
+        "name": "Samsung Galaxy Z Flip 3",
+        "path": "/f/samsung-galaxy-z-flip-3.12351/",
+        "threads": 366,
+        "messages": 5600
+    },
+    {
+        "name": "Samsung Galaxy F22",
+        "path": "/f/samsung-galaxy-f22.12385/",
+        "threads": 20,
+        "messages": 64
+    },
+    {
+        "name": "Samsung Galaxy M32",
+        "path": "/f/samsung-galaxy-m32.12387/",
+        "threads": 55,
+        "messages": 199
+    },
+    {
+        "name": "Samsung Galaxy S21 FE",
+        "path": "/f/samsung-galaxy-s21-fe.12389/",
+        "threads": 360,
+        "messages": 3600
+    },
+    {
+        "name": "Samsung Galaxy Tab A8 (2021)",
+        "path": "/f/samsung-galaxy-tab-a8-2021.12485/",
+        "threads": 220,
+        "messages": 3300
+    },
+    {
+        "name": "Samsung Galaxy S22",
+        "path": "/f/samsung-galaxy-s22.12511/",
+        "threads": 592,
+        "messages": 3900
+    },
+    {
+        "name": "Samsung Galaxy S22 Plus",
+        "path": "/f/samsung-galaxy-s22-plus.12513/",
+        "threads": 212,
+        "messages": 1600
+    },
+    {
+        "name": "Samsung Galaxy S22 Ultra",
+        "path": "/f/samsung-galaxy-s22-ultra.12515/",
+        "threads": 2000,
+        "messages": 43000
+    },
+    {
+        "name": "Samsung Galaxy Tab S8",
+        "path": "/f/samsung-galaxy-tab-s8.12521/",
+        "threads": 302,
+        "messages": 2700
+    },
+    {
+        "name": "Samsung Galaxy A33 5G",
+        "path": "/f/samsung-galaxy-a33-5g.12571/",
+        "threads": 105,
+        "messages": 862
+    },
+    {
+        "name": "Samsung Galaxy A53 5G",
+        "path": "/f/samsung-galaxy-a53-5g.12575/",
+        "threads": 347,
+        "messages": 2500
+    },
+    {
+        "name": "Samsung Galaxy A52s 5G",
+        "path": "/f/samsung-galaxy-a52s-5g.12587/",
+        "threads": 445,
+        "messages": 7200
+    },
+    {
+        "name": "Samsung Galaxy M33",
+        "path": "/f/samsung-galaxy-m33.12589/",
+        "threads": 17,
+        "messages": 150
+    },
+    {
+        "name": "Samsung Galaxy Z Flip 4",
+        "path": "/f/samsung-galaxy-z-flip-4.12655/",
+        "threads": 156,
+        "messages": 1100
+    },
+    {
+        "name": "Samsung Galaxy Z Fold 4",
+        "path": "/f/samsung-galaxy-z-fold-4.12657/",
+        "threads": 450,
+        "messages": 5900
+    },
+    {
+        "name": "Samsung Galaxy A73 5G",
+        "path": "/f/samsung-galaxy-a73-5g.12667/",
+        "threads": 59,
+        "messages": 466
+    },
+    {
+        "name": "Samsung Galaxy A23",
+        "path": "/f/samsung-galaxy-a23.12679/",
+        "threads": 86,
+        "messages": 481
+    },
+    {
+        "name": "Samsung Galaxy M52 5G",
+        "path": "/f/samsung-galaxy-m52-5g.12703/",
+        "threads": 49,
+        "messages": 552
+    },
+    {
+        "name": "Samsung Galaxy A54 5G",
+        "path": "/f/samsung-galaxy-a54-5g.12705/",
+        "threads": 291,
+        "messages": 2400
+    },
+    {
+        "name": "Samsung Galaxy S23",
+        "path": "/f/samsung-galaxy-s23.12707/",
+        "threads": 408,
+        "messages": 4600
+    },
+    {
+        "name": "Samsung Galaxy S23 Plus",
+        "path": "/f/samsung-galaxy-s23-plus.12709/",
+        "threads": 140,
+        "messages": 1000
+    },
+    {
+        "name": "Samsung Galaxy S23 Ultra",
+        "path": "/f/samsung-galaxy-s23-ultra.12713/",
+        "threads": 1400,
+        "messages": 36500
+    },
+    {
+        "name": "Samsung Galaxy A34",
+        "path": "/f/samsung-galaxy-a34.12725/",
+        "threads": 102,
+        "messages": 819
+    },
+    {
+        "name": "Samsung Galaxy Z Flip 5",
+        "path": "/f/samsung-galaxy-z-flip-5.12763/",
+        "threads": 101,
+        "messages": 1100
+    },
+    {
+        "name": "Samsung Galaxy Z Fold 5",
+        "path": "/f/samsung-galaxy-z-fold-5.12765/",
+        "threads": 169,
+        "messages": 2500
+    },
+    {
+        "name": "Samsung Galaxy A23 5G",
+        "path": "/f/samsung-galaxy-a23-5g.12767/",
+        "threads": 28,
+        "messages": 133
+    },
+    {
+        "name": "Samsung Galaxy Tab S9 series",
+        "path": "/f/samsung-galaxy-tab-s9-series.12785/",
+        "threads": 156,
+        "messages": 2100
+    },
+    {
+        "name": "Samsung Galaxy S24",
+        "path": "/f/samsung-galaxy-s24.12816/",
+        "threads": 94,
+        "messages": 567
+    },
+    {
+        "name": "Samsung Galaxy S24+",
+        "path": "/f/samsung-galaxy-s24.12817/",
+        "threads": 55,
+        "messages": 235
+    },
+    {
+        "name": "Samsung Galaxy S24 Ultra",
+        "path": "/f/samsung-galaxy-s24-ultra.12819/",
+        "threads": 582,
+        "messages": 11500
+    },
+    {
+        "name": "Samsung Galaxy A55",
+        "path": "/f/samsung-galaxy-a55.12842/",
+        "threads": 47,
+        "messages": 332
+    },
+    {
+        "name": "Samsung Galaxy M23 / F23",
+        "path": "/f/samsung-galaxy-m23-f23.12849/",
+        "threads": 11,
+        "messages": 59
+    },
+    {
+        "name": "Samsung Galaxy Z Flip6",
+        "path": "/f/samsung-galaxy-z-flip6.12868/",
+        "threads": 28,
+        "messages": 161
+    },
+    {
+        "name": "Samsung Galaxy Z Fold6",
+        "path": "/f/samsung-galaxy-z-fold6.12869/",
+        "threads": 44,
+        "messages": 551
+    },
+    {
+        "name": "Samsung Galaxy J8",
+        "path": "/f/samsung-galaxy-j8.12870/",
+        "threads": 69,
+        "messages": 570
+    },
+    {
+        "name": "Samsung Galaxy Tab S10+ / S10 Ultra",
+        "path": "/f/samsung-galaxy-tab-s10-s10-ultra.12890/",
+        "threads": 10,
+        "messages": 38
+    },
+    {
+        "name": "Samsung Galaxy F62 / M62",
+        "path": "/f/samsung-galaxy-f62-m62.12127/",
+        "threads": 98,
+        "messages": 627
+    },
+    {
+        "name": "Samsung Galaxy A72",
+        "path": "/f/samsung-galaxy-a72.12141/",
+        "threads": 83,
+        "messages": 499
+    },
+    {
+        "name": "Samsung Galaxy A32 4G",
+        "path": "/f/samsung-galaxy-a32-4g.12143/",
+        "threads": 338,
+        "messages": 4300
+    },
+    {
+        "name": "Samsung Galaxy A32 5G",
+        "path": "/f/samsung-galaxy-a32-5g.12145/",
+        "threads": 220,
+        "messages": 1700
+    },
+    {
+        "name": "Samsung Galaxy A02s",
+        "path": "/f/samsung-galaxy-a02s.12147/",
+        "threads": 161,
+        "messages": 1000
+    },
+    {
+        "name": "Samsung Galaxy S21+",
+        "path": "/f/samsung-galaxy-s21.12089/",
+        "threads": 396,
+        "messages": 2200
+    },
+    {
+        "name": "Samsung Galaxy S20 / S20+ / S20 Ultra",
+        "path": "/c/samsung-galaxy-s20-s20-s20-ultra.9711/",
+        "threads": 3200,
+        "messages": 47600
+    },
+    {
+        "name": "Samsung Galaxy Note 20",
+        "path": "/c/samsung-galaxy-note-20.11095/",
+        "threads": 272,
+        "messages": 1400
+    },
+    {
+        "name": "Samsung Galaxy Note 20 Ultra",
+        "path": "/c/samsung-galaxy-note-20-ultra.11203/",
+        "threads": 2200,
+        "messages": 41200
+    },
+    {
+        "name": "Samsung Galaxy S10+",
+        "path": "/c/samsung-galaxy-s10.8693/",
+        "threads": 3000,
+        "messages": 44500
+    },
+    {
+        "name": "Samsung Galaxy S10e",
+        "path": "/c/samsung-galaxy-s10e.8763/",
+        "threads": 906,
+        "messages": 5400
+    },
+    {
+        "name": "Samsung Galaxy Grand 2",
+        "path": "/c/samsung-galaxy-grand-2.2820/",
+        "threads": 2300,
+        "messages": 58000
+    },
+    {
+        "name": "Samsung Galaxy Apollo (Galaxy 3 i5800)",
+        "path": "/c/samsung-galaxy-apollo-galaxy-3-i5800.861/",
+        "threads": 4800,
+        "messages": 134400
+    },
+    {
+        "name": "Samsung Galaxy S I9000",
+        "path": "/c/samsung-galaxy-s-i9000.656/",
+        "threads": 39400,
+        "messages": 1300000
+    },
+    {
+        "name": "Samsung Galaxy S21 Ultra",
+        "path": "/f/samsung-galaxy-s21-ultra.12091/",
+        "threads": 2100,
+        "messages": 42600
+    },
+    {
+        "name": "Verizon Samsung Galaxy S III",
+        "path": "/f/verizon-samsung-galaxy-s-iii.1708/",
+        "threads": 15100,
+        "messages": 420400
+    },
+    {
+        "name": "Samsung Captivate Glide",
+        "path": "/f/samsung-captivate-glide.1487/",
+        "threads": 1400,
+        "messages": 24000
+    },
+    {
+        "name": "Samsung Omnia 7",
+        "path": "/c/samsung-omnia-7.817/",
+        "threads": 1200,
+        "messages": 13400
+    },
+    {
+        "name": "Samsung Galaxy S II I9100",
+        "path": "/c/samsung-galaxy-s-ii-i9100.1055/",
+        "threads": 56700,
+        "messages": 2000000
+    },
+    {
+        "name": "Samsung Galaxy Note 10",
+        "path": "/c/samsung-galaxy-note-10.9007/",
+        "threads": 999,
+        "messages": 8300
+    },
+    {
+        "name": "Samsung Galaxy Z Fold 2",
+        "path": "/c/samsung-galaxy-z-fold-2.11261/",
+        "threads": 478,
+        "messages": 5300
+    },
+    {
+        "name": "Samsung Galaxy Tab S7 / S7 Plus",
+        "path": "/c/samsung-galaxy-tab-s7-s7-plus.11247/",
+        "threads": 629,
+        "messages": 4800
+    },
+    {
+        "name": "Samsung Galaxy S21",
+        "path": "/c/samsung-galaxy-s21.11933/",
+        "threads": 797,
+        "messages": 6000
+    },
+    {
+        "name": "Samsung Galaxy M21",
+        "path": "/c/samsung-galaxy-m21.11849/",
+        "threads": 172,
+        "messages": 1300
+    },
+    {
+        "name": "Samsung Galaxy A42 5G",
+        "path": "/c/samsung-galaxy-a42-5g.11705/",
+        "threads": 84,
+        "messages": 315
+    },
+    {
+        "name": "Samsung Galaxy F41",
+        "path": "/c/samsung-galaxy-f41.11691/",
+        "threads": 77,
+        "messages": 201
+    },
+    {
+        "name": "Samsung Galaxy M51",
+        "path": "/c/samsung-galaxy-m51.11349/",
+        "threads": 184,
+        "messages": 1200
+    },
+    {
+        "name": "Samsung Galaxy Z Flip 5G",
+        "path": "/c/samsung-galaxy-z-flip-5g.11039/",
+        "threads": 70,
+        "messages": 123
+    },
+    {
+        "name": "Samsung Galaxy Tab S6 Lite",
+        "path": "/c/samsung-galaxy-tab-s6-lite.10969/",
+        "threads": 423,
+        "messages": 4500
+    },
+    {
+        "name": "Samsung Galaxy A71 5G",
+        "path": "/c/samsung-galaxy-a71-5g.10941/",
+        "threads": 167,
+        "messages": 683
+    },
+    {
+        "name": "Samsung Galaxy A51 5G",
+        "path": "/c/samsung-galaxy-a51-5g.10927/",
+        "threads": 82,
+        "messages": 194
+    },
+    {
+        "name": "Samsung Galaxy A21s",
+        "path": "/c/samsung-galaxy-a21s.10843/",
+        "threads": 267,
+        "messages": 2400
+    },
+    {
+        "name": "Samsung Galaxy J6",
+        "path": "/c/samsung-galaxy-j6.10689/",
+        "threads": 225,
+        "messages": 2300
+    },
+    {
+        "name": "Samsung Galaxy A40",
+        "path": "/c/samsung-galaxy-a40.10661/",
+        "threads": 333,
+        "messages": 3600
+    },
+    {
+        "name": "Samsung Galaxy M31",
+        "path": "/c/samsung-galaxy-m31.10449/",
+        "threads": 273,
+        "messages": 2200
+    },
+    {
+        "name": "Samsung Galaxy Z Flip",
+        "path": "/c/samsung-galaxy-z-flip.9907/",
+        "threads": 133,
+        "messages": 589
+    },
+    {
+        "name": "Samsung Galaxy A51",
+        "path": "/c/samsung-galaxy-a51.9851/",
+        "threads": 590,
+        "messages": 5600
+    },
+    {
+        "name": "Samsung Galaxy A71",
+        "path": "/c/samsung-galaxy-a71.9837/",
+        "threads": 484,
+        "messages": 5400
+    },
+    {
+        "name": "Samsung Galaxy S10 Lite",
+        "path": "/c/samsung-galaxy-s10-lite.9823/",
+        "threads": 184,
+        "messages": 1100
+    },
+    {
+        "name": "Samsung Galaxy Note 10 Lite",
+        "path": "/c/samsung-galaxy-note-10-lite.9795/",
+        "threads": 216,
+        "messages": 1100
+    },
+    {
+        "name": "Samsung Galaxy A20",
+        "path": "/c/samsung-galaxy-a20.9753/",
+        "threads": 725,
+        "messages": 11000
+    },
+    {
+        "name": "Samsung Galaxy M10s",
+        "path": "/c/samsung-galaxy-m10s.9505/",
+        "threads": 52,
+        "messages": 79
+    },
+    {
+        "name": "Samsung Galaxy A70s",
+        "path": "/c/samsung-galaxy-a70s.9477/",
+        "threads": 64,
+        "messages": 112
+    },
+    {
+        "name": "Samsung Galaxy M30s",
+        "path": "/c/samsung-galaxy-m30s.9491/",
+        "threads": 232,
+        "messages": 2100
+    },
+    {
+        "name": "Samsung Galaxy A30s",
+        "path": "/c/samsung-galaxy-a30s.9463/",
+        "threads": 217,
+        "messages": 1400
+    },
+    {
+        "name": "Samsung Galaxy A50s",
+        "path": "/c/samsung-galaxy-a50s.9449/",
+        "threads": 146,
+        "messages": 914
+    },
+    {
+        "name": "Samsung Galaxy A90 5G",
+        "path": "/c/samsung-galaxy-a90-5g.9256/",
+        "threads": 90,
+        "messages": 348
+    },
+    {
+        "name": "Samsung Galaxy Tab S5e",
+        "path": "/c/samsung-galaxy-tab-s5e.9164/",
+        "threads": 398,
+        "messages": 6600
+    },
+    {
+        "name": "Samsung Galaxy Note 10+",
+        "path": "/c/samsung-galaxy-note-10.9147/",
+        "threads": 3000,
+        "messages": 51900
+    },
+    {
+        "name": "Samsung Galaxy Tab S6",
+        "path": "/c/samsung-galaxy-tab-s6.9128/",
+        "threads": 560,
+        "messages": 5800
+    },
+    {
+        "name": "Samsung Galaxy M40",
+        "path": "/c/samsung-galaxy-m40.9091/",
+        "threads": 75,
+        "messages": 236
+    },
+    {
+        "name": "Samsung Galaxy S10 5G",
+        "path": "/c/samsung-galaxy-s10-5g.8861/",
+        "threads": 241,
+        "messages": 1900
+    },
+    {
+        "name": "Samsung Galaxy View 2",
+        "path": "/c/samsung-galaxy-view-2.8854/",
+        "threads": 48,
+        "messages": 66
+    },
+    {
+        "name": "Samsung Galaxy A80",
+        "path": "/c/samsung-galaxy-a80.8812/",
+        "threads": 99,
+        "messages": 379
+    },
+    {
+        "name": "Samsung Galaxy A70",
+        "path": "/c/samsung-galaxy-a70.8805/",
+        "threads": 790,
+        "messages": 10600
+    },
+    {
+        "name": "Samsung Galaxy M30",
+        "path": "/c/samsung-galaxy-m30.8721/",
+        "threads": 142,
+        "messages": 985
+    },
+    {
+        "name": "Samsung Galaxy M20",
+        "path": "/c/samsung-galaxy-m20.8714/",
+        "threads": 194,
+        "messages": 1500
+    },
+    {
+        "name": "Samsung Galaxy M10",
+        "path": "/c/samsung-galaxy-m10.8707/",
+        "threads": 71,
+        "messages": 200
+    },
+    {
+        "name": "Samsung Galaxy A10",
+        "path": "/c/samsung-galaxy-a10.8700/",
+        "threads": 566,
+        "messages": 3900
+    },
+    {
+        "name": "Samsung Galaxy A30",
+        "path": "/c/samsung-galaxy-a30.8686/",
+        "threads": 377,
+        "messages": 3400
+    },
+    {
+        "name": "Samsung Galaxy A50",
+        "path": "/c/samsung-galaxy-a50.8679/",
+        "threads": 1400,
+        "messages": 14000
+    },
+    {
+        "name": "Samsung Galaxy Fold",
+        "path": "/c/samsung-galaxy-fold.8602/",
+        "threads": 245,
+        "messages": 1700
+    },
+    {
+        "name": "Samsung Galaxy S10",
+        "path": "/c/samsung-galaxy-s10.8507/",
+        "threads": 3100,
+        "messages": 59200
+    },
+    {
+        "name": "Samsung Galaxy A8s",
+        "path": "/c/samsung-galaxy-a8s.8444/",
+        "threads": 52,
+        "messages": 66
+    },
+    {
+        "name": "Samsung Galaxy J4+",
+        "path": "/c/samsung-galaxy-j4.8283/",
+        "threads": 254,
+        "messages": 2300
+    },
+    {
+        "name": "Samsung Galaxy J6+",
+        "path": "/c/samsung-galaxy-j6.8276/",
+        "threads": 200,
+        "messages": 1900
+    },
+    {
+        "name": "Samsung Galaxy A7 (2018)",
+        "path": "/c/samsung-galaxy-a7-2018.8269/",
+        "threads": 411,
+        "messages": 3400
+    },
+    {
+        "name": "Samsung Galaxy J1 Ace",
+        "path": "/c/samsung-galaxy-j1-ace.8033/",
+        "threads": 128,
+        "messages": 770
+    },
+    {
+        "name": "Samsung Galaxy Note 9",
+        "path": "/c/samsung-galaxy-note-9.8012/",
+        "threads": 5400,
+        "messages": 110800
+    },
+    {
+        "name": "Samsung Galaxy Tab S4",
+        "path": "/c/samsung-galaxy-tab-s4.7998/",
+        "threads": 688,
+        "messages": 6800
+    },
+    {
+        "name": "Samsung Galaxy S4 VE",
+        "path": "/c/samsung-galaxy-s4-ve.7761/",
+        "threads": 108,
+        "messages": 2600
+    },
+    {
+        "name": "Samsung Galaxy On7",
+        "path": "/c/samsung-galaxy-on7.7726/",
+        "threads": 140,
+        "messages": 1200
+    },
+    {
+        "name": "Samsung Galaxy Tab E",
+        "path": "/c/samsung-galaxy-tab-e.7719/",
+        "threads": 394,
+        "messages": 4500
+    },
+    {
+        "name": "Samsung Galaxy A6",
+        "path": "/c/samsung-galaxy-a6.7663/",
+        "threads": 394,
+        "messages": 3900
+    },
+    {
+        "name": "Samsung Galaxy S9+",
+        "path": "/c/samsung-galaxy-s9.7530/",
+        "threads": 4000,
+        "messages": 51100
+    },
+    {
+        "name": "Samsung Galaxy S9",
+        "path": "/c/samsung-galaxy-s9.7408/",
+        "threads": 3500,
+        "messages": 73600
+    },
+    {
+        "name": "Samsung Galaxy Core Plus",
+        "path": "/c/samsung-galaxy-core-plus.7370/",
+        "threads": 109,
+        "messages": 3700
+    },
+    {
+        "name": "Samsung Galaxy J1",
+        "path": "/c/samsung-galaxy-j1.7321/",
+        "threads": 188,
+        "messages": 1900
+    },
+    {
+        "name": "Samsung Galaxy A8+ (2018)",
+        "path": "/c/samsung-galaxy-a8-2018.7278/",
+        "threads": 192,
+        "messages": 1800
+    },
+    {
+        "name": "Samsung Galaxy A8 (2018)",
+        "path": "/c/samsung-galaxy-a8-2018.7275/",
+        "threads": 523,
+        "messages": 6100
+    },
+    {
+        "name": "Sprint Samsung Galaxy Note 8",
+        "path": "/c/sprint-samsung-galaxy-note-8.7010/",
+        "threads": 295,
+        "messages": 2400
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy Note 8",
+        "path": "/c/t-mobile-samsung-galaxy-note-8.7005/",
+        "threads": 386,
+        "messages": 7300
+    },
+    {
+        "name": "AT&T Samsung Galaxy Note 8",
+        "path": "/c/at-t-samsung-galaxy-note-8.6997/",
+        "threads": 344,
+        "messages": 8200
+    },
+    {
+        "name": "Verizon Samsung Galaxy Note 8",
+        "path": "/c/verizon-samsung-galaxy-note-8.6991/",
+        "threads": 293,
+        "messages": 2700
+    },
+    {
+        "name": "Samsung Galaxy Core 2",
+        "path": "/c/samsung-galaxy-core-2.6984/",
+        "threads": 139,
+        "messages": 655
+    },
+    {
+        "name": "Samsung Galaxy Note 8",
+        "path": "/c/samsung-galaxy-note-8.6793/",
+        "threads": 5900,
+        "messages": 129600
+    },
+    {
+        "name": "Samsung Galaxy J7 (2017)",
+        "path": "/c/samsung-galaxy-j7-2017.6628/",
+        "threads": 906,
+        "messages": 14200
+    },
+    {
+        "name": "Samsung Galaxy J3 (2017)",
+        "path": "/c/samsung-galaxy-j3-2017.6622/",
+        "threads": 385,
+        "messages": 6500
+    },
+    {
+        "name": "Samsung Galaxy Note FE",
+        "path": "/c/samsung-galaxy-note-fe.6594/",
+        "threads": 359,
+        "messages": 4100
+    },
+    {
+        "name": "Samsung Galaxy Grand Neo Plus",
+        "path": "/c/samsung-galaxy-grand-neo-plus.6582/",
+        "threads": 146,
+        "messages": 1300
+    },
+    {
+        "name": "Samsung Galaxy On5",
+        "path": "/c/samsung-galaxy-on5.6577/",
+        "threads": 275,
+        "messages": 3500
+    },
+    {
+        "name": "Samsung Galaxy S5 Neo",
+        "path": "/c/samsung-galaxy-s5-neo.6571/",
+        "threads": 255,
+        "messages": 16900
+    },
+    {
+        "name": "Samsung Galaxy J3 (2016)",
+        "path": "/c/samsung-galaxy-j3-2016.6453/",
+        "threads": 774,
+        "messages": 19600
+    },
+    {
+        "name": "Samsung Galaxy J2",
+        "path": "/c/samsung-galaxy-j2.6447/",
+        "threads": 589,
+        "messages": 9600
+    },
+    {
+        "name": "Samsung Galaxy J",
+        "path": "/c/samsung-galaxy-j.6435/",
+        "threads": 181,
+        "messages": 832
+    },
+    {
+        "name": "AT&T Samsung Galaxy S8+",
+        "path": "/c/at-t-samsung-galaxy-s8.6380/",
+        "threads": 274,
+        "messages": 5100
+    },
+    {
+        "name": "Sprint Samsung Galaxy S8+",
+        "path": "/c/sprint-samsung-galaxy-s8.6374/",
+        "threads": 131,
+        "messages": 1100
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy S8+",
+        "path": "/c/t-mobile-samsung-galaxy-s8.6368/",
+        "threads": 239,
+        "messages": 2700
+    },
+    {
+        "name": "Verizon Samsung Galaxy S8+",
+        "path": "/c/verizon-samsung-galaxy-s8.6362/",
+        "threads": 265,
+        "messages": 6800
+    },
+    {
+        "name": "AT&T Samsung Galaxy S8",
+        "path": "/c/at-t-samsung-galaxy-s8.6356/",
+        "threads": 199,
+        "messages": 2200
+    },
+    {
+        "name": "Sprint Samsung Galaxy S8",
+        "path": "/c/sprint-samsung-galaxy-s8.6350/",
+        "threads": 138,
+        "messages": 1200
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy S8",
+        "path": "/c/t-mobile-samsung-galaxy-s8.6344/",
+        "threads": 263,
+        "messages": 8100
+    },
+    {
+        "name": "Verizon Samsung Galaxy S8",
+        "path": "/c/verizon-samsung-galaxy-s8.6338/",
+        "threads": 209,
+        "messages": 1300
+    },
+    {
+        "name": "Samsung Galaxy Tab S3",
+        "path": "/c/samsung-galaxy-tab-s3.6319/",
+        "threads": 813,
+        "messages": 11400
+    },
+    {
+        "name": "Samsung Galaxy S8+",
+        "path": "/c/samsung-galaxy-s8.6289/",
+        "threads": 5300,
+        "messages": 88700
+    },
+    {
+        "name": "Samsung Galaxy S20 FE",
+        "path": "/c/samsung-galaxy-s20-fe.11391/",
+        "threads": 1100,
+        "messages": 11000
+    },
+    {
+        "name": "Samsung Galaxy S8",
+        "path": "/c/samsung-galaxy-s8.6161/",
+        "threads": 8500,
+        "messages": 192600
+    },
+    {
+        "name": "Samsung C9 Pro",
+        "path": "/c/samsung-c9-pro.6121/",
+        "threads": 254,
+        "messages": 2500
+    },
+    {
+        "name": "Samsung Galaxy A Series 2017",
+        "path": "/c/samsung-galaxy-a-series-2017.6083/",
+        "threads": 1800,
+        "messages": 35400
+    },
+    {
+        "name": "Samsung Galaxy Tab A series",
+        "path": "/c/samsung-galaxy-tab-a-series.5865/",
+        "threads": 2400,
+        "messages": 46900
+    },
+    {
+        "name": "Samsung Galaxy Fresh/Trend",
+        "path": "/c/samsung-galaxy-fresh-trend.5725/",
+        "threads": 154,
+        "messages": 1600
+    },
+    {
+        "name": "Samsung Galaxy Xcover 2",
+        "path": "/c/samsung-galaxy-xcover-2.5719/",
+        "threads": 117,
+        "messages": 2900
+    },
+    {
+        "name": "Samsung Galaxy Express SGH-I437",
+        "path": "/c/samsung-galaxy-express-sgh-i437.5713/",
+        "threads": 86,
+        "messages": 940
+    },
+    {
+        "name": "Samsung Galaxy Express GT-I8730",
+        "path": "/c/samsung-galaxy-express-gt-i8730.5707/",
+        "threads": 101,
+        "messages": 5500
+    },
+    {
+        "name": "Samsung Galaxy J5",
+        "path": "/c/samsung-galaxy-j5.5701/",
+        "threads": 2700,
+        "messages": 81600
+    },
+    {
+        "name": "AT&T Samsung Galaxy Note 7",
+        "path": "/c/at-t-samsung-galaxy-note-7.5679/",
+        "threads": 220,
+        "messages": 4000
+    },
+    {
+        "name": "Verizon Samsung Galaxy Note 7",
+        "path": "/c/verizon-samsung-galaxy-note-7.5661/",
+        "threads": 369,
+        "messages": 7400
+    },
+    {
+        "name": "Sprint Samsung Galaxy Note 7",
+        "path": "/c/sprint-samsung-galaxy-note-7.5671/",
+        "threads": 226,
+        "messages": 3800
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy Note 7",
+        "path": "/c/t-mobile-samsung-galaxy-note-7.5667/",
+        "threads": 456,
+        "messages": 21000
+    },
+    {
+        "name": "Samsung Galaxy S7 Active",
+        "path": "/c/samsung-galaxy-s7-active.5624/",
+        "threads": 298,
+        "messages": 4100
+    },
+    {
+        "name": "Samsung Galaxy Note 7",
+        "path": "/c/samsung-galaxy-note-7.5575/",
+        "threads": 2000,
+        "messages": 45400
+    },
+    {
+        "name": "Samsung Galaxy Light",
+        "path": "/c/samsung-galaxy-light.5493/",
+        "threads": 132,
+        "messages": 4000
+    },
+    {
+        "name": "Samsung Galaxy Core Prime",
+        "path": "/c/samsung-galaxy-core-prime.5487/",
+        "threads": 713,
+        "messages": 12100
+    },
+    {
+        "name": "AT&T Samsung Galaxy S7 Edge",
+        "path": "/c/at-t-samsung-galaxy-s7-edge.5287/",
+        "threads": 654,
+        "messages": 10600
+    },
+    {
+        "name": "Sprint Samsung Galaxy S7 Edge",
+        "path": "/c/sprint-samsung-galaxy-s7-edge.5281/",
+        "threads": 463,
+        "messages": 9200
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy S7 Edge",
+        "path": "/c/t-mobile-samsung-galaxy-s7-edge.5275/",
+        "threads": 1200,
+        "messages": 28800
+    },
+    {
+        "name": "Verizon Samsung Galaxy S7 Edge",
+        "path": "/c/verizon-samsung-galaxy-s7-edge.5269/",
+        "threads": 790,
+        "messages": 19000
+    },
+    {
+        "name": "Samsung Galaxy J7",
+        "path": "/c/samsung-galaxy-j7.5263/",
+        "threads": 4200,
+        "messages": 79800
+    },
+    {
+        "name": "AT&T Samsung Galaxy S7",
+        "path": "/c/at-t-samsung-galaxy-s7.5251/",
+        "threads": 594,
+        "messages": 8600
+    },
+    {
+        "name": "Sprint Samsung Galaxy S7",
+        "path": "/c/sprint-samsung-galaxy-s7.5247/",
+        "threads": 547,
+        "messages": 7100
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy S7",
+        "path": "/c/t-mobile-samsung-galaxy-s7.5238/",
+        "threads": 666,
+        "messages": 6200
+    },
+    {
+        "name": "Verizon Samsung Galaxy S7",
+        "path": "/c/verizon-samsung-galaxy-s7.5235/",
+        "threads": 737,
+        "messages": 14500
+    },
+    {
+        "name": "Samsung Galaxy S7 Edge",
+        "path": "/c/samsung-galaxy-s7-edge.5183/",
+        "threads": 11800,
+        "messages": 305300
+    },
+    {
+        "name": "Samsung Galaxy S7",
+        "path": "/c/samsung-galaxy-s7.5122/",
+        "threads": 8500,
+        "messages": 148600
+    },
+    {
+        "name": "Samsung Galaxy E Series",
+        "path": "/c/samsung-galaxy-e-series.4930/",
+        "threads": 389,
+        "messages": 4400
+    },
+    {
+        "name": "Samsung Galaxy Chat",
+        "path": "/f/samsung-galaxy-chat.4897/",
+        "threads": 114,
+        "messages": 959
+    },
+    {
+        "name": "Samsung Galaxy View",
+        "path": "/c/samsung-galaxy-view.4883/",
+        "threads": 133,
+        "messages": 713
+    },
+    {
+        "name": "Samsung Galaxy A Series",
+        "path": "/c/samsung-galaxy-a-series.4853/",
+        "threads": 3100,
+        "messages": 71200
+    },
+    {
+        "name": "Samsung Galaxy Music",
+        "path": "/f/samsung-galaxy-music.4788/",
+        "threads": 80,
+        "messages": 939
+    },
+    {
+        "name": "Samsung Galaxy S Duos 2",
+        "path": "/f/samsung-galaxy-s-duos-2.4723/",
+        "threads": 379,
+        "messages": 13400
+    },
+    {
+        "name": "Samsung Galaxy 551 Callisto",
+        "path": "/f/samsung-galaxy-551-callisto.4730/",
+        "threads": 108,
+        "messages": 2400
+    },
+    {
+        "name": "Galaxy Note Edge",
+        "path": "/c/galaxy-note-edge.3515/",
+        "threads": 2700,
+        "messages": 40000
+    },
+    {
+        "name": "Samsung Galaxy Tab S2",
+        "path": "/c/samsung-galaxy-tab-s2.4702/",
+        "threads": 2100,
+        "messages": 38400
+    },
+    {
+        "name": "Samsung Galaxy S Duos",
+        "path": "/f/samsung-galaxy-s-duos.4674/",
+        "threads": 306,
+        "messages": 14400
+    },
+    {
+        "name": "Samsung Galaxy Pocket",
+        "path": "/f/samsung-galaxy-pocket.4660/",
+        "threads": 234,
+        "messages": 1900
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy S6 Edge+",
+        "path": "/f/t-mobile-samsung-galaxy-s6-edge.4499/",
+        "threads": 353,
+        "messages": 4400
+    },
+    {
+        "name": "Verizon Samsung Galaxy S6 Edge+",
+        "path": "/f/verizon-samsung-galaxy-s6-edge.4492/",
+        "threads": 121,
+        "messages": 735
+    },
+    {
+        "name": "Sprint Samsung Galaxy S6 Edge+",
+        "path": "/f/sprint-samsung-galaxy-s6-edge.4485/",
+        "threads": 201,
+        "messages": 1900
+    },
+    {
+        "name": "AT&T Samsung Galaxy S6 Edge+",
+        "path": "/f/at-t-samsung-galaxy-s6-edge.4478/",
+        "threads": 143,
+        "messages": 1500
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy Note5",
+        "path": "/f/t-mobile-samsung-galaxy-note5.4468/",
+        "threads": 1200,
+        "messages": 36400
+    },
+    {
+        "name": "Verizon Samsung Galaxy Note5",
+        "path": "/f/verizon-samsung-galaxy-note5.4464/",
+        "threads": 540,
+        "messages": 6400
+    },
+    {
+        "name": "Sprint Samsung Galaxy Note5",
+        "path": "/f/sprint-samsung-galaxy-note5.4457/",
+        "threads": 883,
+        "messages": 18200
+    },
+    {
+        "name": "AT&T Samsung Galaxy Note5",
+        "path": "/f/at-t-samsung-galaxy-note5.4450/",
+        "threads": 532,
+        "messages": 9300
+    },
+    {
+        "name": "Samsung Galaxy S6 Edge+",
+        "path": "/c/samsung-galaxy-s6-edge.4443/",
+        "threads": 2500,
+        "messages": 42100
+    },
+    {
+        "name": "Samsung Galaxy Note5",
+        "path": "/c/samsung-galaxy-note5.4429/",
+        "threads": 5400,
+        "messages": 158200
+    },
+    {
+        "name": "AT&T Samsung Galaxy S6 Edge",
+        "path": "/f/at-t-samsung-galaxy-s6-edge.4202/",
+        "threads": 521,
+        "messages": 5800
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy S6 Edge",
+        "path": "/f/t-mobile-samsung-galaxy-s6-edge.4195/",
+        "threads": 1000,
+        "messages": 17900
+    },
+    {
+        "name": "Sprint Samsung Galaxy S6 Edge",
+        "path": "/f/sprint-samsung-galaxy-s6-edge.4188/",
+        "threads": 429,
+        "messages": 9600
+    },
+    {
+        "name": "Verizon Droid Charge",
+        "path": "/f/verizon-droid-charge.1143/",
+        "threads": 4000,
+        "messages": 72800
+    },
+    {
+        "name": "Verizon Samsung Galaxy S6 Edge",
+        "path": "/f/verizon-samsung-galaxy-s6-edge.4181/",
+        "threads": 628,
+        "messages": 7800
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy S6",
+        "path": "/f/t-mobile-samsung-galaxy-s6.4174/",
+        "threads": 1200,
+        "messages": 30400
+    },
+    {
+        "name": "Sprint Samsung Galaxy S6",
+        "path": "/f/sprint-samsung-galaxy-s6.4167/",
+        "threads": 1100,
+        "messages": 16700
+    },
+    {
+        "name": "AT&T Samsung Galaxy S6",
+        "path": "/f/at-t-samsung-galaxy-s6.4160/",
+        "threads": 901,
+        "messages": 11200
+    },
+    {
+        "name": "Verizon Samsung Galaxy S6",
+        "path": "/f/verizon-samsung-galaxy-s6.4153/",
+        "threads": 1000,
+        "messages": 13400
+    },
+    {
+        "name": "Samsung Galaxy S6 Edge",
+        "path": "/c/samsung-galaxy-s6-edge.4064/",
+        "threads": 4900,
+        "messages": 99000
+    },
+    {
+        "name": "Samsung Galaxy Grand Prime",
+        "path": "/c/samsung-galaxy-grand-prime.4027/",
+        "threads": 2800,
+        "messages": 62800
+    },
+    {
+        "name": "Samsung Galaxy S6",
+        "path": "/c/samsung-galaxy-s6.4006/",
+        "threads": 10600,
+        "messages": 274900
+    },
+    {
+        "name": "Samsung Galaxy Ace 4",
+        "path": "/f/samsung-galaxy-ace-4.3845/",
+        "threads": 228,
+        "messages": 4400
+    },
+    {
+        "name": "Samsung Galaxy Ace 3",
+        "path": "/f/samsung-galaxy-ace-3.3838/",
+        "threads": 207,
+        "messages": 5100
+    },
+    {
+        "name": "Samsung Galaxy S3 Neo",
+        "path": "/c/samsung-galaxy-s3-neo.3727/",
+        "threads": 1700,
+        "messages": 47300
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy Note 4",
+        "path": "/c/t-mobile-samsung-galaxy-note-4.3667/",
+        "threads": 4300,
+        "messages": 199700
+    },
+    {
+        "name": "Sprint Samsung Galaxy Note 4",
+        "path": "/c/sprint-samsung-galaxy-note-4.3660/",
+        "threads": 2300,
+        "messages": 71100
+    },
+    {
+        "name": "Verizon Samsung Galaxy Note 4",
+        "path": "/c/verizon-samsung-galaxy-note-4.3674/",
+        "threads": 2800,
+        "messages": 68200
+    },
+    {
+        "name": "AT&T Samsung Galaxy Note 4",
+        "path": "/f/at-t-samsung-galaxy-note-4.3646/",
+        "threads": 1600,
+        "messages": 25300
+    },
+    {
+        "name": "Samsung Galaxy Note 4",
+        "path": "/c/samsung-galaxy-note-4.3508/",
+        "threads": 13000,
+        "messages": 433500
+    },
+    {
+        "name": "Samsung Galaxy Alpha",
+        "path": "/f/samsung-galaxy-alpha.3440/",
+        "threads": 1000,
+        "messages": 18400
+    },
+    {
+        "name": "Samsung Galaxy Pocket Neo S5310",
+        "path": "/f/samsung-galaxy-pocket-neo-s5310.3418/",
+        "threads": 173,
+        "messages": 1500
+    },
+    {
+        "name": "Samsung Galaxy Young S6310",
+        "path": "/f/samsung-galaxy-young-s6310.3352/",
+        "threads": 163,
+        "messages": 3600
+    },
+    {
+        "name": "Samsung Galaxy S5 Mini",
+        "path": "/c/samsung-galaxy-s5-mini.3296/",
+        "threads": 891,
+        "messages": 21900
+    },
+    {
+        "name": "Samsung Galaxy Tab S",
+        "path": "/c/samsung-galaxy-tab-s.3230/",
+        "threads": 4600,
+        "messages": 95900
+    },
+    {
+        "name": "Samsung Galaxy Tab 4",
+        "path": "/c/samsung-galaxy-tab-4.3223/",
+        "threads": 2100,
+        "messages": 32299
+    },
+    {
+        "name": "Sprint Samsung Galaxy S 5",
+        "path": "/c/sprint-samsung-galaxy-s-5.3015/",
+        "threads": 1900,
+        "messages": 55300
+    },
+    {
+        "name": "Verizon Samsung Galaxy S 5",
+        "path": "/c/verizon-samsung-galaxy-s-5.3008/",
+        "threads": 3300,
+        "messages": 69500
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy S 5",
+        "path": "/f/t-mobile-samsung-galaxy-s-5.3001/",
+        "threads": 2100,
+        "messages": 48300
+    },
+    {
+        "name": "AT&T Samsung Galaxy S 5",
+        "path": "/f/at-t-samsung-galaxy-s-5.2994/",
+        "threads": 2700,
+        "messages": 46500
+    },
+    {
+        "name": "Samsung Galaxy Note 3 Neo",
+        "path": "/c/samsung-galaxy-note-3-neo.2976/",
+        "threads": 1000,
+        "messages": 15500
+    },
+    {
+        "name": "Samsung Galaxy Fame",
+        "path": "/f/samsung-galaxy-fame.2905/",
+        "threads": 258,
+        "messages": 4400
+    },
+    {
+        "name": "Samsung Galaxy S 5",
+        "path": "/c/samsung-galaxy-s-5.2792/",
+        "threads": 15600,
+        "messages": 466200
+    },
+    {
+        "name": "Samsung Galaxy Note Pro 12.2",
+        "path": "/c/samsung-galaxy-note-pro-12-2.2785/",
+        "threads": 1700,
+        "messages": 23800
+    },
+    {
+        "name": "Samsung Galaxy Tab Pro 12.2, 10.1, 8.4",
+        "path": "/c/samsung-galaxy-tab-pro-12-2-10-1-8-4.2778/",
+        "threads": 2200,
+        "messages": 37000
+    },
+    {
+        "name": "AT&T Samsung Galaxy Note 3",
+        "path": "/c/at-t-samsung-galaxy-note-3.2582/",
+        "threads": 4100,
+        "messages": 135900
+    },
+    {
+        "name": "Sprint Samsung Galaxy Note 3",
+        "path": "/f/sprint-samsung-galaxy-note-3.2575/",
+        "threads": 2800,
+        "messages": 85300
+    },
+    {
+        "name": "Verizon Samsung Galaxy Note 3",
+        "path": "/c/verizon-samsung-galaxy-note-3.2568/",
+        "threads": 4700,
+        "messages": 112400
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy Note 3",
+        "path": "/f/t-mobile-samsung-galaxy-note-3.2561/",
+        "threads": 4500,
+        "messages": 158500
+    },
+    {
+        "name": "Samsung Galaxy Note 10.1 (2014 Edition)",
+        "path": "/c/samsung-galaxy-note-10-1-2014-edition.2500/",
+        "threads": 4600,
+        "messages": 72200
+    },
+    {
+        "name": "Samsung Galaxy Note 3",
+        "path": "/c/samsung-galaxy-note-3.2492/",
+        "threads": 22200,
+        "messages": 804600
+    },
+    {
+        "name": "Samsung Galaxy Tab 3",
+        "path": "/c/samsung-galaxy-tab-3.2397/",
+        "threads": 4200,
+        "messages": 67800
+    },
+    {
+        "name": "Samsung Galaxy S 4 Zoom",
+        "path": "/f/samsung-galaxy-s-4-zoom.2390/",
+        "threads": 219,
+        "messages": 1600
+    },
+    {
+        "name": "Samsung Galaxy S 4 Mini",
+        "path": "/c/samsung-galaxy-s-4-mini.2376/",
+        "threads": 4500,
+        "messages": 111800
+    },
+    {
+        "name": "Samsung Galaxy Mega",
+        "path": "/f/samsung-galaxy-mega.2351/",
+        "threads": 2200,
+        "messages": 43300
+    },
+    {
+        "name": "Verizon Samsung Galaxy S 4",
+        "path": "/f/verizon-samsung-galaxy-s-4.2314/",
+        "threads": 9800,
+        "messages": 229400
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy S 4",
+        "path": "/f/t-mobile-samsung-galaxy-s-4.2279/",
+        "threads": 6500,
+        "messages": 165500
+    },
+    {
+        "name": "Sprint Samsung Galaxy S 4",
+        "path": "/c/sprint-samsung-galaxy-s-4.2272/",
+        "threads": 5900,
+        "messages": 153000
+    },
+    {
+        "name": "AT&T, Canadian Bell, Rogers, Telus, Virgin Samsung",
+        "path": "/c/at-t-canadian-bell-rogers-telus-virgin-samsung.2257/",
+        "threads": 10500,
+        "messages": 235600
+    },
+    {
+        "name": "Samsung Galaxy Note 8.0 (TABLET)",
+        "path": "/c/samsung-galaxy-note-8-0-tablet.2243/",
+        "threads": 2900,
+        "messages": 41700
+    },
+    {
+        "name": "Samsung Galaxy S 4 Active",
+        "path": "/c/samsung-galaxy-s-4-active.2463/",
+        "threads": 1800,
+        "messages": 28200
+    },
+    {
+        "name": "Samsung Galaxy S 4 i9500, i9505, i9505G, i9506",
+        "path": "/c/samsung-galaxy-s-4-i9500-i9505-i9505g-i9506.2162/",
+        "threads": 31400,
+        "messages": 1100000
+    },
+    {
+        "name": "Samsung Galaxy Exhibit 4G",
+        "path": "/f/samsung-galaxy-exhibit-4g.2026/",
+        "threads": 630,
+        "messages": 34500
+    },
+    {
+        "name": "Samsung Galaxy Camera",
+        "path": "/c/samsung-galaxy-camera.1938/",
+        "threads": 439,
+        "messages": 3000
+    },
+    {
+        "name": "Sprint Samsung Galaxy Note II",
+        "path": "/f/sprint-samsung-galaxy-note-ii.1891/",
+        "threads": 5100,
+        "messages": 156300
+    },
+    {
+        "name": "Verizon Samsung Galaxy Note II",
+        "path": "/f/verizon-samsung-galaxy-note-ii.1884/",
+        "threads": 6500,
+        "messages": 184400
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy Note II",
+        "path": "/f/t-mobile-samsung-galaxy-note-ii.1877/",
+        "threads": 5400,
+        "messages": 128699
+    },
+    {
+        "name": "AT&T Samsung Galaxy Note II",
+        "path": "/f/at-t-samsung-galaxy-note-ii.1870/",
+        "threads": 7100,
+        "messages": 196600
+    },
+    {
+        "name": "Samsung Galaxy S III Mini",
+        "path": "/c/samsung-galaxy-s-iii-mini.1831/",
+        "threads": 5200,
+        "messages": 114400
+    },
+    {
+        "name": "Samsung Galaxy Note II GT-N7100, N7105",
+        "path": "/c/samsung-galaxy-note-ii-gt-n7100-n7105.1790/",
+        "threads": 24000,
+        "messages": 719100
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy Note",
+        "path": "/f/t-mobile-samsung-galaxy-note.1742/",
+        "threads": 295,
+        "messages": 3900
+    },
+    {
+        "name": "Samsung Galaxy Note 10.1",
+        "path": "/c/samsung-galaxy-note-10-1.1735/",
+        "threads": 7400,
+        "messages": 114200
+    },
+    {
+        "name": "Sprint Samsung Galaxy S III",
+        "path": "/f/sprint-samsung-galaxy-s-iii.1707/",
+        "threads": 11100,
+        "messages": 404300
+    },
+    {
+        "name": "T-Mobile, Samsung Galaxy SIII",
+        "path": "/f/t-mobile-samsung-galaxy-siii.1706/",
+        "threads": 10400,
+        "messages": 269200
+    },
+    {
+        "name": "AT&T, Rogers, Bell, Telus Samsung Galaxy S III",
+        "path": "/f/at-t-rogers-bell-telus-samsung-galaxy-s-iii.1705/",
+        "threads": 14900,
+        "messages": 405400
+    },
+    {
+        "name": "AT&T, T-Mob, Sprint, Verizon Samsung Galaxy S III",
+        "path": "/c/at-t-t-mob-sprint-verizon-samsung-galaxy-s-iii.1667/",
+        "threads": 4000,
+        "messages": 43800
+    },
+    {
+        "name": "Samsung Focus 2",
+        "path": "/f/samsung-focus-2.1609/",
+        "threads": 22,
+        "messages": 47
+    },
+    {
+        "name": "Samsung Galaxy Tab 2",
+        "path": "/c/samsung-galaxy-tab-2.1596/",
+        "threads": 8300,
+        "messages": 154500
+    },
+    {
+        "name": "Samsung Galaxy S III I9300, I9305",
+        "path": "/c/samsung-galaxy-s-iii-i9300-i9305.1563/",
+        "threads": 49300,
+        "messages": 1600000
+    },
+    {
+        "name": "AT&T Samsung Galaxy Note I717",
+        "path": "/f/at-t-samsung-galaxy-note-i717.1493/",
+        "threads": 10200,
+        "messages": 241400
+    },
+    {
+        "name": "Samsung Galaxy Tab 7.7",
+        "path": "/c/samsung-galaxy-tab-7-7.1482/",
+        "threads": 2600,
+        "messages": 41700
+    },
+    {
+        "name": "Samsung Focus S",
+        "path": "/f/samsung-focus-s.1451/",
+        "threads": 125,
+        "messages": 992
+    },
+    {
+        "name": "Samsung Galaxy Tab Plus",
+        "path": "/f/samsung-galaxy-tab-plus.1426/",
+        "threads": 1700,
+        "messages": 21800
+    },
+    {
+        "name": "Samsung Galaxy Player 4.0, 5.0",
+        "path": "/f/samsung-galaxy-player-4-0-5-0.1418/",
+        "threads": 2600,
+        "messages": 44800
+    },
+    {
+        "name": "AT&T Samsung Galaxy S II Skyrocket SGH-I727",
+        "path": "/f/at-t-samsung-galaxy-s-ii-skyrocket-sgh-i727.1399/",
+        "threads": 9200,
+        "messages": 233500
+    },
+    {
+        "name": "Samsung Galaxy Note GT-N7000",
+        "path": "/c/samsung-galaxy-note-gt-n7000.1346/",
+        "threads": 24000,
+        "messages": 643500
+    },
+    {
+        "name": "Samsung Galaxy Nexus",
+        "path": "/f/samsung-galaxy-nexus.1336/",
+        "threads": 39500,
+        "messages": 1200000
+    },
+    {
+        "name": "T-Mobile Samsung Galaxy S II SGH-T989",
+        "path": "/f/t-mobile-samsung-galaxy-s-ii-sgh-t989.1329/",
+        "threads": 13800,
+        "messages": 380200
+    },
+    {
+        "name": "Samsung Galaxy S Blaze 4G",
+        "path": "/f/samsung-galaxy-s-blaze-4g.1556/",
+        "threads": 1200,
+        "messages": 26900
+    },
+    {
+        "name": "AT&T Samsung Galaxy S II SGH-I777",
+        "path": "/f/at-t-samsung-galaxy-s-ii-sgh-i777.1301/",
+        "threads": 8300,
+        "messages": 258200
+    },
+    {
+        "name": "Samsung Epic 4G Touch",
+        "path": "/f/samsung-epic-4g-touch.1281/",
+        "threads": 17300,
+        "messages": 593000
+    },
+    {
+        "name": "Samsung Infuse 4G",
+        "path": "/f/samsung-infuse-4g.1158/",
+        "threads": 7700,
+        "messages": 176800
+    },
+    {
+        "name": "Samsung Galaxy S (4G Model)",
+        "path": "/f/samsung-galaxy-s-4g-model.1065/",
+        "threads": 6200,
+        "messages": 116100
+    },
+    {
+        "name": "Samsung Galaxy Tab 8.9",
+        "path": "/c/samsung-galaxy-tab-8-9.1438/",
+        "threads": 1600,
+        "messages": 31500
+    },
+    {
+        "name": "Samsung Galaxy Tab 10.1, 10.1v",
+        "path": "/c/samsung-galaxy-tab-10-1-10-1v.1050/",
+        "threads": 10700,
+        "messages": 166400
+    },
+    {
+        "name": "Samsung Nexus S",
+        "path": "/c/samsung-nexus-s.880/",
+        "threads": 19600,
+        "messages": 523500
+    },
+    {
+        "name": "Samsung Galaxy R i9103",
+        "path": "/f/samsung-galaxy-r-i9103.1456/",
+        "threads": 1500,
+        "messages": 49300
+    },
+    {
+        "name": "Samsung Focus",
+        "path": "/c/samsung-focus.780/",
+        "threads": 1400,
+        "messages": 13900
+    },
+    {
+        "name": "Samsung Galaxy Tab",
+        "path": "/c/samsung-galaxy-tab.752/",
+        "threads": 10900,
+        "messages": 158000
+    },
+    {
+        "name": "Samsung Galaxy S Advance I9070",
+        "path": "/c/samsung-galaxy-s-advance-i9070.2099/",
+        "threads": 3500,
+        "messages": 109500
+    },
+    {
+        "name": "Samsung Fascinate",
+        "path": "/c/samsung-fascinate.718/",
+        "threads": 9300,
+        "messages": 184300
+    },
+    {
+        "name": "Samsung Epic 4G",
+        "path": "/c/samsung-epic-4g.713/",
+        "threads": 17300,
+        "messages": 459600
+    },
+    {
+        "name": "Samsung Vibrant",
+        "path": "/c/samsung-vibrant.708/",
+        "threads": 22900,
+        "messages": 475400
+    },
+    {
+        "name": "Samsung Captivate",
+        "path": "/c/samsung-captivate.703/",
+        "threads": 19900,
+        "messages": 580100
+    },
+    {
+        "name": "Samsung Bada, Tizen Development and Hacking",
+        "path": "/c/samsung-bada-tizen-development-and-hacking.919/",
+        "threads": 1700,
+        "messages": 47700
+    }
+]

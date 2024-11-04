@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Elephone S8",
+        "path": "/c/elephone-s8.7400/",
+        "threads": 109,
+        "messages": 1300
+    },
+    {
+        "name": "Elephone R9",
+        "path": "/c/elephone-r9.5968/",
+        "threads": 38,
+        "messages": 46
+    },
+    {
+        "name": "Elephone S7",
+        "path": "/c/elephone-s7.5962/",
+        "threads": 152,
+        "messages": 1300
+    },
+    {
+        "name": "Elephone P9000",
+        "path": "/c/elephone-p9000.5325/",
+        "threads": 639,
+        "messages": 13400
+    },
+    {
+        "name": "Elephone Vowney",
+        "path": "/f/elephone-vowney.5091/",
+        "threads": 78,
+        "messages": 530
+    },
+    {
+        "name": "Elephone M2",
+        "path": "/f/elephone-m2.4946/",
+        "threads": 47,
+        "messages": 412
+    },
+    {
+        "name": "Elephone P8000",
+        "path": "/f/elephone-p8000.4414/",
+        "threads": 507,
+        "messages": 16300
+    },
+    {
+        "name": "Elephone P7000",
+        "path": "/f/elephone-p7000.4298/",
+        "threads": 82,
+        "messages": 930
+    }
+]

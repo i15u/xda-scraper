@@ -1,0 +1,14 @@
+[
+    {
+        "name": "YotaPhone 3",
+        "path": "/c/yotaphone-3.6898/",
+        "threads": 113,
+        "messages": 1000
+    },
+    {
+        "name": "YotaPhone",
+        "path": "/f/yotaphone.3784/",
+        "threads": 556,
+        "messages": 5200
+    }
+]

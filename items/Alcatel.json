@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Alcatel 1",
+        "path": "/c/alcatel-1.8103/",
+        "threads": 86,
+        "messages": 320
+    },
+    {
+        "name": "Alcatel 1X",
+        "path": "/c/alcatel-1x.7852/",
+        "threads": 45,
+        "messages": 147
+    },
+    {
+        "name": "Alcatel Pop C3",
+        "path": "/c/alcatel-pop-c3.7768/",
+        "threads": 81,
+        "messages": 255
+    },
+    {
+        "name": "Alcatel 5",
+        "path": "/c/alcatel-5.7512/",
+        "threads": 35,
+        "messages": 36
+    },
+    {
+        "name": "Alcatel Idol X",
+        "path": "/c/alcatel-idol-x.7201/",
+        "threads": 78,
+        "messages": 2100
+    },
+    {
+        "name": "Alcatel Idol 5",
+        "path": "/c/alcatel-idol-5.6600/",
+        "threads": 21,
+        "messages": 105
+    },
+    {
+        "name": "Alcatel OneTouch Pop C7",
+        "path": "/c/alcatel-onetouch-pop-c7.5934/",
+        "threads": 71,
+        "messages": 700
+    },
+    {
+        "name": "Alcatel Idol 4S",
+        "path": "/c/alcatel-idol-4s.5611/",
+        "threads": 213,
+        "messages": 2400
+    },
+    {
+        "name": "Alcatel Onetouch Idol 3",
+        "path": "/c/alcatel-onetouch-idol-3.4238/",
+        "threads": 1300,
+        "messages": 26600
+    }
+]

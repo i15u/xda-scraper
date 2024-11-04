@@ -1,0 +1,92 @@
+[
+    {
+        "name": "General Topics",
+        "path": "/f/general-topics.256/",
+        "threads": 36200,
+        "messages": 281300
+    },
+    {
+        "name": "Introductions",
+        "path": "/f/introductions.12157/",
+        "threads": 4700,
+        "messages": 13000
+    },
+    {
+        "name": "General Questions and Answers",
+        "path": "/f/general-questions-and-answers.456/",
+        "threads": 139800,
+        "messages": 588300
+    },
+    {
+        "name": "Off-topic",
+        "path": "/f/off-topic.261/",
+        "threads": 15000,
+        "messages": 845300
+    },
+    {
+        "name": "About XDA developers",
+        "path": "/f/about-xda-developers.263/",
+        "threads": 4700,
+        "messages": 143800
+    },
+    {
+        "name": "View all manufacturers",
+        "path": "/link-forums/view-all-manufacturers.12043/",
+        "threads": null,
+        "messages": null
+    },
+    {
+        "name": "XDA-University",
+        "path": "/f/xda-university.2060/",
+        "threads": 211,
+        "messages": 6900
+    },
+    {
+        "name": "XDA Developer TV",
+        "path": "/f/xda-developer-tv.1130/",
+        "threads": 54,
+        "messages": 1400
+    },
+    {
+        "name": "Networking",
+        "path": "/f/networking.262/",
+        "threads": 7000,
+        "messages": 34100
+    },
+    {
+        "name": "General Accessories",
+        "path": "/f/general-accessories.258/",
+        "threads": 4500,
+        "messages": 40600
+    },
+    {
+        "name": "Upgrading, Modifying and Unlocking",
+        "path": "/f/upgrading-modifying-and-unlocking.259/",
+        "threads": 19600,
+        "messages": 214000
+    },
+    {
+        "name": "Security Discussion",
+        "path": "/f/security-discussion.2366/",
+        "threads": 842,
+        "messages": 9800
+    },
+    {
+        "name": "Connected Car",
+        "path": "/f/connected-car.3835/",
+        "threads": 669,
+        "messages": 12700
+    },
+    {
+        "name": "Device Reviews and Information",
+        "path": "/f/device-reviews-and-information.5407/",
+        "threads": 998,
+        "messages": 61300
+    },
+    {
+        "name": "Paid Software Announcement and Discussion",
+        "path": "/f/paid-software-announcement-and-discussion.993/",
+        "threads": 646,
+        "messages": 97500
+    }
+]

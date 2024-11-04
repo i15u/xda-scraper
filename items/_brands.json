@@ -1,0 +1,446 @@
+[
+    {
+        "name": "Samsung",
+        "path": "/c/samsung.11975/",
+        "threads": 917300,
+        "messages": 24000000
+    },
+    {
+        "name": "Google",
+        "path": "/c/google.11976/",
+        "threads": 156800,
+        "messages": 4600000
+    },
+    {
+        "name": "Artificial Intelligence AI & Machine Learning ML",
+        "path": "/c/artificial-intelligence-ai-machine-learning-ml.12755/",
+        "threads": 25,
+        "messages": 237
+    },
+    {
+        "name": "OnePlus",
+        "path": "/c/oneplus.11993/",
+        "threads": 65600,
+        "messages": 2300000
+    },
+    {
+        "name": "XDA Computing",
+        "path": "/c/xda-computing.12289/",
+        "threads": 1600,
+        "messages": 10200
+    },
+    {
+        "name": "Huawei",
+        "path": "/c/huawei.11977/",
+        "threads": 62500,
+        "messages": 1200000
+    },
+    {
+        "name": "Advent",
+        "path": "/c/advent.12010/",
+        "threads": 642,
+        "messages": 7700
+    },
+    {
+        "name": "Alcatel",
+        "path": "/c/alcatel.11996/",
+        "threads": 1900,
+        "messages": 32700
+    },
+    {
+        "name": "Amazon",
+        "path": "/c/amazon.11998/",
+        "threads": 26100,
+        "messages": 387400
+    },
+    {
+        "name": "Apple",
+        "path": "/c/apple.12303/",
+        "threads": 67,
+        "messages": 266
+    },
+    {
+        "name": "Archos",
+        "path": "/c/archos.11999/",
+        "threads": 2900,
+        "messages": 43800
+    },
+    {
+        "name": "Asus",
+        "path": "/c/asus.12032/",
+        "threads": 56300,
+        "messages": 1100000
+    },
+    {
+        "name": "Barnes & Noble",
+        "path": "/c/barnes-noble.12033/",
+        "threads": 19400,
+        "messages": 270100
+    },
+    {
+        "name": "Blackberry",
+        "path": "/c/blackberry.11981/",
+        "threads": 629,
+        "messages": 3900
+    },
+    {
+        "name": "Blackview",
+        "path": "/c/blackview.11988/",
+        "threads": 94,
+        "messages": 131
+    },
+    {
+        "name": "BLU",
+        "path": "/c/blu.12036/",
+        "threads": 1400,
+        "messages": 16900
+    },
+    {
+        "name": "BQ",
+        "path": "/c/bq.12040/",
+        "threads": 83,
+        "messages": 737
+    },
+    {
+        "name": "Coolpad",
+        "path": "/c/coolpad.11995/",
+        "threads": 307,
+        "messages": 2600
+    },
+    {
+        "name": "Cricket",
+        "path": "/c/cricket.12619/",
+        "threads": 21,
+        "messages": 384
+    },
+    {
+        "name": "Dell",
+        "path": "/c/dell.12023/",
+        "threads": 7900,
+        "messages": 96800
+    },
+    {
+        "name": "Doogee",
+        "path": "/c/doogee.12007/",
+        "threads": 169,
+        "messages": 1700
+    },
+    {
+        "name": "Elephone",
+        "path": "/c/elephone.11985/",
+        "threads": 1700,
+        "messages": 34200
+    },
+    {
+        "name": "Epson",
+        "path": "/c/epson.12014/",
+        "threads": 26,
+        "messages": 459
+    },
+    {
+        "name": "Essential",
+        "path": "/c/essential.11984/",
+        "threads": 2200,
+        "messages": 50100
+    },
+    {
+        "name": "F(x)tec",
+        "path": "/c/f-x-tec.12101/",
+        "threads": 126,
+        "messages": 547
+    },
+    {
+        "name": "Reliance",
+        "path": "/c/reliance.12367/",
+        "threads": 6,
+        "messages": 7
+    },
+    {
+        "name": "Gemini",
+        "path": "/c/gemini.12008/",
+        "threads": 130,
+        "messages": 445
+    },
+    {
+        "name": "General Development",
+        "path": "/c/general-development.11974/",
+        "threads": 866500,
+        "messages": 15600000
+    },
+    {
+        "name": "General Discussion",
+        "path": "/c/general-discussion.240/",
+        "threads": 268000,
+        "messages": 2400000
+    },
+    {
+        "name": "Gionee",
+        "path": "/c/gionee.12000/",
+        "threads": 737,
+        "messages": 7600
+    },
+    {
+        "name": "Fairphone",
+        "path": "/c/fairphone.12401/",
+        "threads": 193,
+        "messages": 2600
+    },
+    {
+        "name": "Hisense",
+        "path": "/c/hisense.11997/",
+        "threads": 71,
+        "messages": 7600
+    },
+    {
+        "name": "Honor",
+        "path": "/c/honor.12016/",
+        "threads": 18700,
+        "messages": 297600
+    },
+    {
+        "name": "HP",
+        "path": "/c/hp.12041/",
+        "threads": 5300,
+        "messages": 102300
+    },
+    {
+        "name": "HTC",
+        "path": "/c/htc.12038/",
+        "threads": 472800,
+        "messages": 12400000
+    },
+    {
+        "name": "InnJoo",
+        "path": "/c/innjoo.12006/",
+        "threads": 76,
+        "messages": 751
+    },
+    {
+        "name": "Karbonn",
+        "path": "/c/karbonn.12001/",
+        "threads": 269,
+        "messages": 3100
+    },
+    {
+        "name": "Lava",
+        "path": "/c/lava.12021/",
+        "threads": 127,
+        "messages": 1100
+    },
+    {
+        "name": "Lava Iris",
+        "path": "/c/lava-iris.11980/",
+        "threads": 258,
+        "messages": 2800
+    },
+    {
+        "name": "LeEco",
+        "path": "/c/leeco.12019/",
+        "threads": 6200,
+        "messages": 195900
+    },
+    {
+        "name": "Lenovo",
+        "path": "/c/lenovo.12002/",
+        "threads": 17300,
+        "messages": 426400
+    },
+    {
+        "name": "LG",
+        "path": "/c/lg.12042/",
+        "threads": 168900,
+        "messages": 3800000
+    },
+    {
+        "name": "Maze",
+        "path": "/c/maze.12031/",
+        "threads": 144,
+        "messages": 1200
+    },
+    {
+        "name": "Meizu",
+        "path": "/c/meizu.12013/",
+        "threads": 1300,
+        "messages": 19700
+    },
+    {
+        "name": "Micromax",
+        "path": "/c/micromax.11989/",
+        "threads": 4300,
+        "messages": 62800
+    },
+    {
+        "name": "Microsoft",
+        "path": "/c/microsoft.11982/",
+        "threads": 1400,
+        "messages": 12100
+    },
+    {
+        "name": "Motorola",
+        "path": "/c/motorola.11990/",
+        "threads": 166200,
+        "messages": 3000000
+    },
+    {
+        "name": "Nokia",
+        "path": "/c/nokia.12020/",
+        "threads": 12400,
+        "messages": 135100
+    },
+    {
+        "name": "Nothing",
+        "path": "/c/nothing.12583/",
+        "threads": 884,
+        "messages": 15700
+    },
+    {
+        "name": "Nubia",
+        "path": "/c/nubia.12011/",
+        "threads": 2800,
+        "messages": 34400
+    },
+    {
+        "name": "NVidia",
+        "path": "/c/nvidia.12004/",
+        "threads": 5200,
+        "messages": 72600
+    },
+    {
+        "name": "Oppo",
+        "path": "/c/oppo.12024/",
+        "threads": 5800,
+        "messages": 82000
+    },
+    {
+        "name": "Osom",
+        "path": "/c/osom.12559/",
+        "threads": 6,
+        "messages": 9
+    },
+    {
+        "name": "Oukitel",
+        "path": "/c/oukitel.12811/",
+        "threads": 176,
+        "messages": 5200
+    },
+    {
+        "name": "Razer",
+        "path": "/c/razer.12017/",
+        "threads": 1100,
+        "messages": 13100
+    },
+    {
+        "name": "Realme",
+        "path": "/c/realme.12009/",
+        "threads": 8600,
+        "messages": 72500
+    },
+    {
+        "name": "RED",
+        "path": "/c/red.12035/",
+        "threads": 79,
+        "messages": 396
+    },
+    {
+        "name": "Sharp",
+        "path": "/c/sharp.12297/",
+        "threads": 348,
+        "messages": 4000
+    },
+    {
+        "name": "Smartisan",
+        "path": "/c/smartisan.11987/",
+        "threads": 71,
+        "messages": 207
+    },
+    {
+        "name": "Sony",
+        "path": "/c/sony.12026/",
+        "threads": 173100,
+        "messages": 3500000
+    },
+    {
+        "name": "Spice",
+        "path": "/c/spice.12015/",
+        "threads": 183,
+        "messages": 759
+    },
+    {
+        "name": "TCL",
+        "path": "/c/tcl.12099/",
+        "threads": 389,
+        "messages": 1800
+    },
+    {
+        "name": "Toshiba",
+        "path": "/c/toshiba.11994/",
+        "threads": 697,
+        "messages": 13600
+    },
+    {
+        "name": "UMi",
+        "path": "/c/umi.12037/",
+        "threads": 299,
+        "messages": 8200
+    },
+    {
+        "name": "Viewsonic",
+        "path": "/c/viewsonic.11983/",
+        "threads": 8200,
+        "messages": 105100
+    },
+    {
+        "name": "Vivo",
+        "path": "/c/vivo.12029/",
+        "threads": 2600,
+        "messages": 22000
+    },
+    {
+        "name": "Wiko",
+        "path": "/c/wiko.12027/",
+        "threads": 136,
+        "messages": 1800
+    },
+    {
+        "name": "Wileyfox",
+        "path": "/c/wileyfox.11986/",
+        "threads": 726,
+        "messages": 9300
+    },
+    {
+        "name": "Xiaomi",
+        "path": "/c/xiaomi.12005/",
+        "threads": 110000,
+        "messages": 2700000
+    },
+    {
+        "name": "Xolo",
+        "path": "/c/xolo.12028/",
+        "threads": 985,
+        "messages": 14100
+    },
+    {
+        "name": "Yota",
+        "path": "/c/yota.12030/",
+        "threads": 669,
+        "messages": 6200
+    },
+    {
+        "name": "Yu",
+        "path": "/c/yu.12039/",
+        "threads": 3100,
+        "messages": 68100
+    },
+    {
+        "name": "ZTE",
+        "path": "/c/zte.12034/",
+        "threads": 7700,
+        "messages": 142000
+    },
+    {
+        "name": "Solana",
+        "path": "/c/solana.12771/",
+        "threads": 6,
+        "messages": 45
+    }
+]

@@ -1,0 +1,656 @@
+[
+    {
+        "name": "HTC Incredible S",
+        "path": "/f/htc-incredible-s.1025/",
+        "threads": 4600,
+        "messages": 128300
+    },
+    {
+        "name": "HTC One SV",
+        "path": "/f/htc-one-sv.2368/",
+        "threads": 754,
+        "messages": 12600
+    },
+    {
+        "name": "HTC U20 5G",
+        "path": "/c/htc-u20-5g.10913/",
+        "threads": 49,
+        "messages": 114
+    },
+    {
+        "name": "HTC Desire 20 Pro",
+        "path": "/c/htc-desire-20-pro.10899/",
+        "threads": 49,
+        "messages": 198
+    },
+    {
+        "name": "HTC U19e",
+        "path": "/c/htc-u19e.8939/",
+        "threads": 43,
+        "messages": 64
+    },
+    {
+        "name": "HTC Desire 12s",
+        "path": "/c/htc-desire-12s.8458/",
+        "threads": 39,
+        "messages": 39
+    },
+    {
+        "name": "HTC U12 Life",
+        "path": "/c/htc-u12-life.8138/",
+        "threads": 40,
+        "messages": 105
+    },
+    {
+        "name": "HTC U12+",
+        "path": "/c/htc-u12.7803/",
+        "threads": 487,
+        "messages": 11200
+    },
+    {
+        "name": "HTC Desire 12+",
+        "path": "/c/htc-desire-12.7573/",
+        "threads": 58,
+        "messages": 152
+    },
+    {
+        "name": "HTC Desire 12",
+        "path": "/c/htc-desire-12.7566/",
+        "threads": 46,
+        "messages": 62
+    },
+    {
+        "name": "HTC U11 Eyes",
+        "path": "/c/htc-u11-eyes.7343/",
+        "threads": 56,
+        "messages": 225
+    },
+    {
+        "name": "HTC U11+",
+        "path": "/c/htc-u11.7234/",
+        "threads": 438,
+        "messages": 5600
+    },
+    {
+        "name": "HTC U11 Life",
+        "path": "/c/htc-u11-life.7231/",
+        "threads": 185,
+        "messages": 2100
+    },
+    {
+        "name": "HTC Desire 310",
+        "path": "/c/htc-desire-310.6838/",
+        "threads": 86,
+        "messages": 1700
+    },
+    {
+        "name": "HTC U11",
+        "path": "/c/htc-u11.6465/",
+        "threads": 1700,
+        "messages": 128600
+    },
+    {
+        "name": "HTC One (M9+, ME, E9+)",
+        "path": "/c/htc-one-m9-me-e9.6422/",
+        "threads": 554,
+        "messages": 5500
+    },
+    {
+        "name": "HTC One X10",
+        "path": "/c/htc-one-x10.6325/",
+        "threads": 47,
+        "messages": 71
+    },
+    {
+        "name": "HTC U Play",
+        "path": "/c/htc-u-play.6115/",
+        "threads": 71,
+        "messages": 197
+    },
+    {
+        "name": "HTC U Ultra",
+        "path": "/c/htc-u-ultra.6109/",
+        "threads": 415,
+        "messages": 6900
+    },
+    {
+        "name": "HTC Bolt / 10 Evo",
+        "path": "/c/htc-bolt-10-evo.6016/",
+        "threads": 175,
+        "messages": 2000
+    },
+    {
+        "name": "HTC Desire 10",
+        "path": "/c/htc-desire-10.5904/",
+        "threads": 88,
+        "messages": 449
+    },
+    {
+        "name": "HTC One A9s",
+        "path": "/c/htc-one-a9s.5811/",
+        "threads": 69,
+        "messages": 332
+    },
+    {
+        "name": "Sprint HTC 10",
+        "path": "/c/sprint-htc-10.5420/",
+        "threads": 182,
+        "messages": 5300
+    },
+    {
+        "name": "Verizon HTC 10",
+        "path": "/c/verizon-htc-10.5414/",
+        "threads": 327,
+        "messages": 8000
+    },
+    {
+        "name": "HTC One S9",
+        "path": "/c/htc-one-s9.5401/",
+        "threads": 16,
+        "messages": 45
+    },
+    {
+        "name": "HTC 10",
+        "path": "/c/htc-10.5307/",
+        "threads": 4300,
+        "messages": 187200
+    },
+    {
+        "name": "HTC Desire 825",
+        "path": "/c/htc-desire-825.5159/",
+        "threads": 34,
+        "messages": 111
+    },
+    {
+        "name": "HTC Desire 630",
+        "path": "/c/htc-desire-630.5153/",
+        "threads": 42,
+        "messages": 409
+    },
+    {
+        "name": "HTC Desire 530",
+        "path": "/c/htc-desire-530.5147/",
+        "threads": 105,
+        "messages": 957
+    },
+    {
+        "name": "HTC One X9",
+        "path": "/f/htc-one-x9.5037/",
+        "threads": 65,
+        "messages": 484
+    },
+    {
+        "name": "HTC One A9",
+        "path": "/f/htc-one-a9.4860/",
+        "threads": 912,
+        "messages": 13500
+    },
+    {
+        "name": "HTC Butterfly 3",
+        "path": "/f/htc-butterfly-3.4823/",
+        "threads": 49,
+        "messages": 497
+    },
+    {
+        "name": "HTC Desire 526",
+        "path": "/f/htc-desire-526.4422/",
+        "threads": 119,
+        "messages": 1100
+    },
+    {
+        "name": "T-Mobile HTC One (M9)",
+        "path": "/f/t-mobile-htc-one-m9.4146/",
+        "threads": 159,
+        "messages": 1900
+    },
+    {
+        "name": "Sprint HTC One (M9)",
+        "path": "/f/sprint-htc-one-m9.4139/",
+        "threads": 333,
+        "messages": 8600
+    },
+    {
+        "name": "AT&T HTC One (M9)",
+        "path": "/f/at-t-htc-one-m9.4132/",
+        "threads": 177,
+        "messages": 1600
+    },
+    {
+        "name": "Verizon HTC One (M9)",
+        "path": "/f/verizon-htc-one-m9.4125/",
+        "threads": 362,
+        "messages": 7700
+    },
+    {
+        "name": "HTC One (M9)",
+        "path": "/c/htc-one-m9.4020/",
+        "threads": 3800,
+        "messages": 106400
+    },
+    {
+        "name": "HTC Desire 626",
+        "path": "/c/htc-desire-626.3985/",
+        "threads": 501,
+        "messages": 4700
+    },
+    {
+        "name": "HTC Desire 616",
+        "path": "/f/htc-desire-616.3871/",
+        "threads": 121,
+        "messages": 834
+    },
+    {
+        "name": "HTC Desire Eye",
+        "path": "/f/htc-desire-eye.3691/",
+        "threads": 435,
+        "messages": 7400
+    },
+    {
+        "name": "HTC Desire 820",
+        "path": "/c/htc-desire-820.3565/",
+        "threads": 1100,
+        "messages": 9400
+    },
+    {
+        "name": "HTC Desire 510",
+        "path": "/f/htc-desire-510.3476/",
+        "threads": 663,
+        "messages": 10800
+    },
+    {
+        "name": "HTC One M8 for Windows",
+        "path": "/f/htc-one-m8-for-windows.3469/",
+        "threads": 99,
+        "messages": 1000
+    },
+    {
+        "name": "HTC Desire 610",
+        "path": "/f/htc-desire-610.3395/",
+        "threads": 360,
+        "messages": 3700
+    },
+    {
+        "name": "HTC Desire 601",
+        "path": "/f/htc-desire-601.3324/",
+        "threads": 283,
+        "messages": 5600
+    },
+    {
+        "name": "HTC Desire 500",
+        "path": "/f/htc-desire-500.3317/",
+        "threads": 222,
+        "messages": 4800
+    },
+    {
+        "name": "HTC Desire 300",
+        "path": "/f/htc-desire-300.3310/",
+        "threads": 93,
+        "messages": 878
+    },
+    {
+        "name": "HTC One Mini 2",
+        "path": "/f/htc-one-mini-2.3282/",
+        "threads": 375,
+        "messages": 5300
+    },
+    {
+        "name": "HTC One E8",
+        "path": "/f/htc-one-e8.3195/",
+        "threads": 576,
+        "messages": 9100
+    },
+    {
+        "name": "T-Mobile HTC One (M8)",
+        "path": "/f/t-mobile-htc-one-m8.3071/",
+        "threads": 805,
+        "messages": 8900
+    },
+    {
+        "name": "AT&T HTC One (M8)",
+        "path": "/f/at-t-htc-one-m8.3064/",
+        "threads": 1500,
+        "messages": 18600
+    },
+    {
+        "name": "Sprint HTC One (M8)",
+        "path": "/f/sprint-htc-one-m8.3057/",
+        "threads": 1700,
+        "messages": 40300
+    },
+    {
+        "name": "Verizon HTC One (M8)",
+        "path": "/f/verizon-htc-one-m8.3050/",
+        "threads": 3400,
+        "messages": 94000
+    },
+    {
+        "name": "HTC One (M8)",
+        "path": "/c/htc-one-m8.2969/",
+        "threads": 13900,
+        "messages": 455600
+    },
+    {
+        "name": "HTC Desire 816",
+        "path": "/c/htc-desire-816.2934/",
+        "threads": 2000,
+        "messages": 23300
+    },
+    {
+        "name": "HTC One Max",
+        "path": "/f/htc-one-max.2638/",
+        "threads": 1700,
+        "messages": 31300
+    },
+    {
+        "name": "HTC Butterfly S",
+        "path": "/f/htc-butterfly-s.2434/",
+        "threads": 438,
+        "messages": 8100
+    },
+    {
+        "name": "HTC One Mini",
+        "path": "/f/htc-one-mini.2383/",
+        "threads": 1000,
+        "messages": 12200
+    },
+    {
+        "name": "T-Mobile HTC One (M7)",
+        "path": "/f/t-mobile-htc-one-m7.2250/",
+        "threads": 1700,
+        "messages": 19200
+    },
+    {
+        "name": "HTC First",
+        "path": "/f/htc-first.2229/",
+        "threads": 287,
+        "messages": 3300
+    },
+    {
+        "name": "AT&T HTC One (M7)",
+        "path": "/f/at-t-htc-one-m7.2222/",
+        "threads": 3200,
+        "messages": 39600
+    },
+    {
+        "name": "Verizon HTC One (M7)",
+        "path": "/f/verizon-htc-one-m7.2471/",
+        "threads": 2600,
+        "messages": 68900
+    },
+    {
+        "name": "Sprint HTC One (M7)",
+        "path": "/f/sprint-htc-one-m7.2215/",
+        "threads": 5100,
+        "messages": 134700
+    },
+    {
+        "name": "HTC One (M7)",
+        "path": "/c/htc-one-m7.2115/",
+        "threads": 27600,
+        "messages": 793600
+    },
+    {
+        "name": "HTC Butterfly",
+        "path": "/f/htc-butterfly.2107/",
+        "threads": 715,
+        "messages": 11100
+    },
+    {
+        "name": "Windows Phone 8s by HTC",
+        "path": "/f/windows-phone-8s-by-htc.2010/",
+        "threads": 164,
+        "messages": 795
+    },
+    {
+        "name": "Windows Phone 8x by HTC",
+        "path": "/f/windows-phone-8x-by-htc.2003/",
+        "threads": 388,
+        "messages": 2300
+    },
+    {
+        "name": "HTC Desire V",
+        "path": "/f/htc-desire-v.1992/",
+        "threads": 265,
+        "messages": 1900
+    },
+    {
+        "name": "HTC Desire C",
+        "path": "/f/htc-desire-c.1985/",
+        "threads": 1300,
+        "messages": 24100
+    },
+    {
+        "name": "HTC Droid DNA",
+        "path": "/f/htc-droid-dna.1962/",
+        "threads": 5600,
+        "messages": 140800
+    },
+    {
+        "name": "HTC One VX",
+        "path": "/f/htc-one-vx.1853/",
+        "threads": 194,
+        "messages": 1800
+    },
+    {
+        "name": "HTC Desire X",
+        "path": "/f/htc-desire-x.1846/",
+        "threads": 2100,
+        "messages": 42600
+    },
+    {
+        "name": "HTC One X+",
+        "path": "/f/htc-one-x.1814/",
+        "threads": 3900,
+        "messages": 66700
+    },
+    {
+        "name": "Sprint HTC EVO 4G LTE",
+        "path": "/f/sprint-htc-evo-4g-lte.1590/",
+        "threads": 9700,
+        "messages": 320300
+    },
+    {
+        "name": "Verizon HTC Droid Incredible 4G LTE",
+        "path": "/f/verizon-htc-droid-incredible-4g-lte.1584/",
+        "threads": 982,
+        "messages": 17300
+    },
+    {
+        "name": "HTC One V",
+        "path": "/f/htc-one-v.1551/",
+        "threads": 4000,
+        "messages": 81900
+    },
+    {
+        "name": "HTC One X",
+        "path": "/f/htc-one-x.1533/",
+        "threads": 21700,
+        "messages": 672900
+    },
+    {
+        "name": "AT&T, Rogers HTC One X, Telstra One XL",
+        "path": "/f/at-t-rogers-htc-one-x-telstra-one-xl.1538/",
+        "threads": 11500,
+        "messages": 285300
+    },
+    {
+        "name": "HTC One S",
+        "path": "/f/htc-one-s.1528/",
+        "threads": 9800,
+        "messages": 250000
+    },
+    {
+        "name": "HTC Rezound",
+        "path": "/f/htc-rezound.1389/",
+        "threads": 8300,
+        "messages": 290000
+    },
+    {
+        "name": "HTC Vivid, Raider, Velocity",
+        "path": "/f/htc-vivid-raider-velocity.1384/",
+        "threads": 3000,
+        "messages": 52800
+    },
+    {
+        "name": "HTC Titan",
+        "path": "/f/htc-titan.1356/",
+        "threads": 794,
+        "messages": 9800
+    },
+    {
+        "name": "HTC Radar",
+        "path": "/f/htc-radar.1352/",
+        "threads": 347,
+        "messages": 2200
+    },
+    {
+        "name": "HTC Sensation XL",
+        "path": "/f/htc-sensation-xl.1341/",
+        "threads": 1600,
+        "messages": 26000
+    },
+    {
+        "name": "HTC Amaze 4G",
+        "path": "/f/htc-amaze-4g.1316/",
+        "threads": 5000,
+        "messages": 118600
+    },
+    {
+        "name": "HTC Jetstream",
+        "path": "/f/htc-jetstream.1271/",
+        "threads": 373,
+        "messages": 3800
+    },
+    {
+        "name": "HTC Sensation",
+        "path": "/f/htc-sensation.1109/",
+        "threads": 26800,
+        "messages": 854700
+    },
+    {
+        "name": "HTC EVO 3D",
+        "path": "/f/htc-evo-3d.1095/",
+        "threads": 20400,
+        "messages": 681800
+    },
+    {
+        "name": "HTC Wildfire S",
+        "path": "/f/htc-wildfire-s.1035/",
+        "threads": 6300,
+        "messages": 95800
+    },
+    {
+        "name": "HTC Desire S",
+        "path": "/f/htc-desire-s.1030/",
+        "threads": 6500,
+        "messages": 155300
+    },
+    {
+        "name": "HTC Flyer, EVO View 4G",
+        "path": "/f/htc-flyer-evo-view-4g.1020/",
+        "threads": 3400,
+        "messages": 53300
+    },
+    {
+        "name": "HTC Inspire 4G",
+        "path": "/f/htc-inspire-4g.1015/",
+        "threads": 7600,
+        "messages": 164500
+    },
+    {
+        "name": "HTC Thunderbolt",
+        "path": "/c/htc-thunderbolt.940/",
+        "threads": 10800,
+        "messages": 250000
+    },
+    {
+        "name": "HTC EVO Shift 4G",
+        "path": "/c/htc-evo-shift-4g.935/",
+        "threads": 2900,
+        "messages": 68400
+    },
+    {
+        "name": "HTC Glacier: myTouch 4G",
+        "path": "/c/htc-glacier-mytouch-4g.793/",
+        "threads": 9300,
+        "messages": 243200
+    },
+    {
+        "name": "HTC 7 Mozart",
+        "path": "/c/htc-7-mozart.779/",
+        "threads": 1100,
+        "messages": 9400
+    },
+    {
+        "name": "HTC HD7",
+        "path": "/c/htc-hd7.778/",
+        "threads": 3200,
+        "messages": 32800
+    },
+    {
+        "name": "HTC Desire HD",
+        "path": "/c/htc-desire-hd.754/",
+        "threads": 17700,
+        "messages": 655200
+    },
+    {
+        "name": "HTC Buzz: Wildfire",
+        "path": "/c/htc-buzz-wildfire.678/",
+        "threads": 7000,
+        "messages": 111900
+    },
+    {
+        "name": "HTC Aria",
+        "path": "/c/htc-aria.680/",
+        "threads": 2600,
+        "messages": 43000
+    },
+    {
+        "name": "HTC Droid Incredible",
+        "path": "/c/htc-droid-incredible.635/",
+        "threads": 12200,
+        "messages": 337100
+    },
+    {
+        "name": "HTC Supersonic: EVO 4G",
+        "path": "/c/htc-supersonic-evo-4g.619/",
+        "threads": 41400,
+        "messages": 1200000
+    },
+    {
+        "name": "HTC Desire",
+        "path": "/c/htc-desire.594/",
+        "threads": 29800,
+        "messages": 776900
+    },
+    {
+        "name": "HTC Legend",
+        "path": "/c/htc-legend.593/",
+        "threads": 3000,
+        "messages": 51200
+    },
+    {
+        "name": "HTC Leo: HD2",
+        "path": "/c/htc-leo-hd2.531/",
+        "threads": 56600,
+        "messages": 1400000
+    },
+    {
+        "name": "T-Mobile myTouch 4G Slide",
+        "path": "/f/t-mobile-mytouch-4g-slide.1206/",
+        "threads": 2000,
+        "messages": 45200
+    },
+    {
+        "name": "Verizon Droid Incredible 2",
+        "path": "/f/verizon-droid-incredible-2.1138/",
+        "threads": 4300,
+        "messages": 106600
+    },
+    {
+        "name": "G2 and Desire Z",
+        "path": "/c/g2-and-desire-z.750/",
+        "threads": 13300,
+        "messages": 269700
+    }
+]

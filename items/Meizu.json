@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Meizu 16s",
+        "path": "/c/meizu-16s.8840/",
+        "threads": 43,
+        "messages": 254
+    },
+    {
+        "name": "Meizu M3 Note",
+        "path": "/c/meizu-m3-note.8560/",
+        "threads": 89,
+        "messages": 358
+    },
+    {
+        "name": "Meizu M2 Note",
+        "path": "/c/meizu-m2-note.7023/",
+        "threads": 74,
+        "messages": 4500
+    },
+    {
+        "name": "Meizu Pro 7",
+        "path": "/c/meizu-pro-7.6783/",
+        "threads": 87,
+        "messages": 447
+    },
+    {
+        "name": "Meizu M2 / M2 Mini",
+        "path": "/c/meizu-m2-m2-mini.6553/",
+        "threads": 165,
+        "messages": 2000
+    },
+    {
+        "name": "Meizu Pro 6 Plus",
+        "path": "/c/meizu-pro-6-plus.6030/",
+        "threads": 91,
+        "messages": 395
+    },
+    {
+        "name": "Meizu MX6",
+        "path": "/c/meizu-mx6.5581/",
+        "threads": 60,
+        "messages": 124
+    },
+    {
+        "name": "Meizu Pro 5",
+        "path": "/c/meizu-pro-5.5395/",
+        "threads": 162,
+        "messages": 2900
+    },
+    {
+        "name": "Meizu MX",
+        "path": "/f/meizu-mx.1899/",
+        "threads": 496,
+        "messages": 8700
+    }
+]

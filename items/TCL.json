@@ -1,0 +1,62 @@
+[
+    {
+        "name": "TCL 20 5G",
+        "path": "/f/tcl-20-5g.12083/",
+        "threads": 16,
+        "messages": 75
+    },
+    {
+        "name": "TCL 20 SE",
+        "path": "/f/tcl-20-se.12085/",
+        "threads": 17,
+        "messages": 65
+    },
+    {
+        "name": "TCL 20 Pro 5G",
+        "path": "/f/tcl-20-pro-5g.12221/",
+        "threads": 36,
+        "messages": 289
+    },
+    {
+        "name": "TCL 20L/20L+",
+        "path": "/f/tcl-20l-20l.12223/",
+        "threads": 7,
+        "messages": 10
+    },
+    {
+        "name": "T-Mobile REVVL V+ 5G",
+        "path": "/f/t-mobile-revvl-v-5g.12393/",
+        "threads": 72,
+        "messages": 588
+    },
+    {
+        "name": "TCL 20S",
+        "path": "/f/tcl-20s.12405/",
+        "threads": 8,
+        "messages": 15
+    },
+    {
+        "name": "TCL 10 5G",
+        "path": "/c/tcl-10-5g.10433/",
+        "threads": 47,
+        "messages": 184
+    },
+    {
+        "name": "TCL 10 Pro",
+        "path": "/c/tcl-10-pro.10419/",
+        "threads": 83,
+        "messages": 344
+    },
+    {
+        "name": "TCL 10L",
+        "path": "/c/tcl-10l.10405/",
+        "threads": 55,
+        "messages": 169
+    },
+    {
+        "name": "TCL Plex",
+        "path": "/c/tcl-plex.9221/",
+        "threads": 48,
+        "messages": 85
+    }
+]

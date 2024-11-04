@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Blu Bold N1",
+        "path": "/c/blu-bold-n1.9277/",
+        "threads": 83,
+        "messages": 323
+    },
+    {
+        "name": "Blu Pure XR",
+        "path": "/c/blu-pure-xr.5787/",
+        "threads": 40,
+        "messages": 108
+    },
+    {
+        "name": "Blu Pure XL",
+        "path": "/f/blu-pure-xl.4637/",
+        "threads": 215,
+        "messages": 2500
+    },
+    {
+        "name": "Blu Studio 5",
+        "path": "/f/blu-studio-5.3908/",
+        "threads": 111,
+        "messages": 1100
+    },
+    {
+        "name": "Blu Vivo 5R",
+        "path": "/c/blu-vivo-5r.5896/",
+        "threads": 82,
+        "messages": 272
+    },
+    {
+        "name": "Blu Vivo XL",
+        "path": "/f/blu-vivo-xl.5085/",
+        "threads": 145,
+        "messages": 1100
+    },
+    {
+        "name": "Blu Vivo 5",
+        "path": "/f/blu-vivo-5.5079/",
+        "threads": 119,
+        "messages": 757
+    },
+    {
+        "name": "Blu Vivo Air",
+        "path": "/f/blu-vivo-air.3901/",
+        "threads": 92,
+        "messages": 811
+    },
+    {
+        "name": "BLU VIVO 8L",
+        "path": "/c/blu-vivo-8l.7151/",
+        "threads": 38,
+        "messages": 79
+    },
+    {
+        "name": "BLU R1 HD",
+        "path": "/c/blu-r1-hd.5618/",
+        "threads": 459,
+        "messages": 9800
+    }
+]

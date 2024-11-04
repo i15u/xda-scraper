@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Gionee M2017",
+        "path": "/c/gionee-m2017.6067/",
+        "threads": 43,
+        "messages": 91
+    },
+    {
+        "name": "Gionee M2",
+        "path": "/f/gionee-m2.4767/",
+        "threads": 166,
+        "messages": 2300
+    },
+    {
+        "name": "Gionee Marathon M4",
+        "path": "/f/gionee-marathon-m4.4407/",
+        "threads": 15,
+        "messages": 82
+    },
+    {
+        "name": "GiONEE Elife E7",
+        "path": "/f/gionee-elife-e7.2891/",
+        "threads": 513,
+        "messages": 5200
+    }
+]

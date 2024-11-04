@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Nvidia Shield TV & Shield TV Pro (2019)",
+        "path": "/c/nvidia-shield-tv-shield-tv-pro-2019.9577/",
+        "threads": 144,
+        "messages": 1400
+    },
+    {
+        "name": "nVidia Shield Android TV",
+        "path": "/c/nvidia-shield-android-tv.4644/",
+        "threads": 2200,
+        "messages": 28600
+    },
+    {
+        "name": "Nvidia Shield Tablet",
+        "path": "/c/nvidia-shield-tablet.3454/",
+        "threads": 2400,
+        "messages": 37000
+    },
+    {
+        "name": "Nvidia Tegra Note 7",
+        "path": "/f/nvidia-tegra-note-7.2744/",
+        "threads": 473,
+        "messages": 5500
+    }
+]

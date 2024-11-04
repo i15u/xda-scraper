@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Xolo Q3000",
+        "path": "/f/xolo-q3000.3345/",
+        "threads": 376,
+        "messages": 4600
+    },
+    {
+        "name": "Xolo Q1010i",
+        "path": "/f/xolo-q1010i.3338/",
+        "threads": 152,
+        "messages": 1000
+    },
+    {
+        "name": "Xolo Q1000",
+        "path": "/f/xolo-q1000.2813/",
+        "threads": 102,
+        "messages": 1400
+    },
+    {
+        "name": "Xolo Q700, Q700i",
+        "path": "/f/xolo-q700-q700i.2912/",
+        "threads": 178,
+        "messages": 3200
+    },
+    {
+        "name": "XOLO Play 8X-1000/1100",
+        "path": "/c/xolo-play-8x-1000-1100.5749/",
+        "threads": 65,
+        "messages": 2600
+    },
+    {
+        "name": "XOLO A500S",
+        "path": "/f/xolo-a500s.4774/",
+        "threads": 112,
+        "messages": 1300
+    }
+]

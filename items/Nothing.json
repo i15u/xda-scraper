@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Nothing Phone 1",
+        "path": "/f/nothing-phone-1.12585/",
+        "threads": 519,
+        "messages": 9200
+    },
+    {
+        "name": "Nothing Phone 2",
+        "path": "/f/nothing-phone-2.12739/",
+        "threads": 303,
+        "messages": 6100
+    },
+    {
+        "name": "Nothing Phone (2a)",
+        "path": "/f/nothing-phone-2a.12838/",
+        "threads": 45,
+        "messages": 325
+    },
+    {
+        "name": "Nothing CMF Phone 1",
+        "path": "/f/nothing-cmf-phone-1.12867/",
+        "threads": 17,
+        "messages": 140
+    }
+]

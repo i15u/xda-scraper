@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Nokia 5.4",
+        "path": "/f/nokia-5-4.12053/",
+        "threads": 38,
+        "messages": 191
+    },
+    {
+        "name": "Nokia X10 / X20",
+        "path": "/f/nokia-x10-x20.12215/",
+        "threads": 55,
+        "messages": 282
+    },
+    {
+        "name": "Nokia G10 / G20 / G21",
+        "path": "/f/nokia-g10-g20-g21.12217/",
+        "threads": 98,
+        "messages": 1000
+    },
+    {
+        "name": "Nokia C10 / C20",
+        "path": "/f/nokia-c10-c20.12219/",
+        "threads": 25,
+        "messages": 61
+    },
+    {
+        "name": "Nokia XR20",
+        "path": "/f/nokia-xr20.12407/",
+        "threads": 19,
+        "messages": 122
+    },
+    {
+        "name": "Nokia C30",
+        "path": "/f/nokia-c30.12409/",
+        "threads": 8,
+        "messages": 24
+    },
+    {
+        "name": "Nokia 2.2",
+        "path": "/f/nokia-2-2.12507/",
+        "threads": 45,
+        "messages": 801
+    },
+    {
+        "name": "Nokia 8.3 5G (8V 5G UW)",
+        "path": "/c/nokia-8-3-5g-8v-5g-uw.11219/",
+        "threads": 82,
+        "messages": 437
+    },
+    {
+        "name": "Nokia 6.2",
+        "path": "/c/nokia-6-2.9242/",
+        "threads": 70,
+        "messages": 172
+    },
+    {
+        "name": "Nokia 7.2",
+        "path": "/c/nokia-7-2.9235/",
+        "threads": 162,
+        "messages": 2200
+    },
+    {
+        "name": "Nokia X71",
+        "path": "/c/nokia-x71.8798/",
+        "threads": 39,
+        "messages": 40
+    },
+    {
+        "name": "Nokia 4.2",
+        "path": "/c/nokia-4-2.8644/",
+        "threads": 93,
+        "messages": 421
+    },
+    {
+        "name": "Nokia 3.2",
+        "path": "/c/nokia-3-2.8637/",
+        "threads": 91,
+        "messages": 327
+    },
+    {
+        "name": "Nokia 1 Plus",
+        "path": "/c/nokia-1-plus.8616/",
+        "threads": 43,
+        "messages": 58
+    },
+    {
+        "name": "Nokia 9 PureView",
+        "path": "/c/nokia-9-pureview.8609/",
+        "threads": 121,
+        "messages": 922
+    },
+    {
+        "name": "Nokia 8.1",
+        "path": "/c/nokia-8-1.8430/",
+        "threads": 199,
+        "messages": 1400
+    },
+    {
+        "name": "Nokia 6.1 Plus (Aka Nokia X6)",
+        "path": "/c/nokia-6-1-plus-aka-nokia-x6.8423/",
+        "threads": 419,
+        "messages": 4800
+    },
+    {
+        "name": "Nokia 7.1",
+        "path": "/c/nokia-7-1.8311/",
+        "threads": 230,
+        "messages": 1400
+    },
+    {
+        "name": "Nokia X5 (Nokia 5.1 Plus)",
+        "path": "/c/nokia-x5-nokia-5-1-plus.7947/",
+        "threads": 92,
+        "messages": 719
+    },
+    {
+        "name": "Nokia 2.1",
+        "path": "/c/nokia-2-1.7838/",
+        "threads": 87,
+        "messages": 267
+    },
+    {
+        "name": "Nokia 3.1",
+        "path": "/c/nokia-3-1.7831/",
+        "threads": 75,
+        "messages": 278
+    },
+    {
+        "name": "Nokia 5.1",
+        "path": "/c/nokia-5-1.7824/",
+        "threads": 62,
+        "messages": 157
+    },
+    {
+        "name": "Nokia 8 Sirocco",
+        "path": "/c/nokia-8-sirocco.7487/",
+        "threads": 96,
+        "messages": 509
+    },
+    {
+        "name": "Nokia 7 Plus",
+        "path": "/c/nokia-7-plus.7483/",
+        "threads": 808,
+        "messages": 15800
+    },
+    {
+        "name": "Nokia 6.1 (2018)",
+        "path": "/c/nokia-6-1-2018.7479/",
+        "threads": 477,
+        "messages": 4400
+    },
+    {
+        "name": "Nokia 1",
+        "path": "/c/nokia-1.7474/",
+        "threads": 135,
+        "messages": 487
+    },
+    {
+        "name": "Nokia 7",
+        "path": "/c/nokia-7.7129/",
+        "threads": 81,
+        "messages": 388
+    },
+    {
+        "name": "Nokia 8",
+        "path": "/c/nokia-8.6855/",
+        "threads": 820,
+        "messages": 11800
+    },
+    {
+        "name": "Nokia Lumia 520",
+        "path": "/c/nokia-lumia-520.6429/",
+        "threads": 132,
+        "messages": 1700
+    },
+    {
+        "name": "Nokia 3",
+        "path": "/c/nokia-3.6227/",
+        "threads": 298,
+        "messages": 3000
+    },
+    {
+        "name": "Nokia 5",
+        "path": "/c/nokia-5.6221/",
+        "threads": 326,
+        "messages": 2500
+    },
+    {
+        "name": "Nokia 6",
+        "path": "/c/nokia-6.6103/",
+        "threads": 735,
+        "messages": 8500
+    },
+    {
+        "name": "Nokia N1",
+        "path": "/f/nokia-n1.4092/",
+        "threads": 134,
+        "messages": 1100
+    },
+    {
+        "name": "Nokia X2",
+        "path": "/c/nokia-x2.3247/",
+        "threads": 665,
+        "messages": 10900
+    },
+    {
+        "name": "Nokia X",
+        "path": "/f/nokia-x.2941/",
+        "threads": 1300,
+        "messages": 18100
+    },
+    {
+        "name": "Nokia Lumia 1020",
+        "path": "/f/nokia-lumia-1020.2421/",
+        "threads": 298,
+        "messages": 1600
+    },
+    {
+        "name": "Nokia Lumia 920",
+        "path": "/f/nokia-lumia-920.1809/",
+        "threads": 1400,
+        "messages": 11200
+    },
+    {
+        "name": "Nokia Lumia 820",
+        "path": "/f/nokia-lumia-820.1804/",
+        "threads": 191,
+        "messages": 812
+    },
+    {
+        "name": "Nokia Lumia 900",
+        "path": "/f/nokia-lumia-900.1498/",
+        "threads": 768,
+        "messages": 9500
+    },
+    {
+        "name": "Nokia Lumia 800",
+        "path": "/f/nokia-lumia-800.1378/",
+        "threads": 1600,
+        "messages": 16700
+    }
+]

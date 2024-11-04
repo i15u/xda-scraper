@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Wileyfox Swift 2",
+        "path": "/c/wileyfox-swift-2.6036/",
+        "threads": 243,
+        "messages": 3200
+    },
+    {
+        "name": "Wileyfox Swift",
+        "path": "/f/wileyfox-swift.4960/",
+        "threads": 373,
+        "messages": 5100
+    },
+    {
+        "name": "Wileyfox Storm",
+        "path": "/f/wileyfox-storm.4953/",
+        "threads": 110,
+        "messages": 990
+    }
+]

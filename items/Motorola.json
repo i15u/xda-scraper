@@ -1,0 +1,734 @@
+[
+    {
+        "name": "Moto G Play (2021)",
+        "path": "/f/moto-g-play-2021.12067/",
+        "threads": 90,
+        "messages": 623
+    },
+    {
+        "name": "Moto G Power (2021)",
+        "path": "/f/moto-g-power-2021.12069/",
+        "threads": 167,
+        "messages": 1500
+    },
+    {
+        "name": "Moto G Stylus (2021)",
+        "path": "/f/moto-g-stylus-2021.12073/",
+        "threads": 126,
+        "messages": 576
+    },
+    {
+        "name": "Moto E (2020)",
+        "path": "/f/moto-e-2020.12097/",
+        "threads": 81,
+        "messages": 454
+    },
+    {
+        "name": "Moto G10",
+        "path": "/f/moto-g10.12105/",
+        "threads": 46,
+        "messages": 211
+    },
+    {
+        "name": "Moto G30",
+        "path": "/f/moto-g30.12107/",
+        "threads": 110,
+        "messages": 807
+    },
+    {
+        "name": "Motorola Moto G100 / Edge S",
+        "path": "/f/motorola-moto-g100-edge-s.12173/",
+        "threads": 207,
+        "messages": 2600
+    },
+    {
+        "name": "Moto G50",
+        "path": "/f/moto-g50.12195/",
+        "threads": 54,
+        "messages": 294
+    },
+    {
+        "name": "Moto G40 / G60",
+        "path": "/f/moto-g40-g60.12237/",
+        "threads": 238,
+        "messages": 2700
+    },
+    {
+        "name": "Motorola Moto G20",
+        "path": "/f/motorola-moto-g20.12327/",
+        "threads": 40,
+        "messages": 295
+    },
+    {
+        "name": "Motorola Defy (2021)",
+        "path": "/f/motorola-defy-2021.12369/",
+        "threads": 6,
+        "messages": 39
+    },
+    {
+        "name": "Moto G Stylus 5G",
+        "path": "/f/moto-g-stylus-5g.12373/",
+        "threads": 250,
+        "messages": 2900
+    },
+    {
+        "name": "Motorola Edge 20",
+        "path": "/f/motorola-edge-20.12419/",
+        "threads": 100,
+        "messages": 777
+    },
+    {
+        "name": "Motorola Edge 20 Pro",
+        "path": "/f/motorola-edge-20-pro.12421/",
+        "threads": 120,
+        "messages": 1600
+    },
+    {
+        "name": "Motorola Edge 20 Lite",
+        "path": "/f/motorola-edge-20-lite.12423/",
+        "threads": 39,
+        "messages": 249
+    },
+    {
+        "name": "Motorola Edge (2021)",
+        "path": "/f/motorola-edge-2021.12441/",
+        "threads": 66,
+        "messages": 400
+    },
+    {
+        "name": "Moto Edge X30",
+        "path": "/f/moto-edge-x30.12479/",
+        "threads": 90,
+        "messages": 832
+    },
+    {
+        "name": "Moto Edge 30 Pro",
+        "path": "/f/moto-edge-30-pro.12543/",
+        "threads": 72,
+        "messages": 601
+    },
+    {
+        "name": "Motorola Edge+ (2022)",
+        "path": "/f/motorola-edge-2022.12581/",
+        "threads": 54,
+        "messages": 257
+    },
+    {
+        "name": "Moto G62 5G",
+        "path": "/f/moto-g62-5g.12627/",
+        "threads": 25,
+        "messages": 177
+    },
+    {
+        "name": "Moto G42",
+        "path": "/f/moto-g42.12629/",
+        "threads": 23,
+        "messages": 112
+    },
+    {
+        "name": "Motorola Edge 30 Ultra / Motorola Moto X30 Pro",
+        "path": "/f/motorola-edge-30-ultra-motorola-moto-x30-pro.12663/",
+        "threads": 153,
+        "messages": 1500
+    },
+    {
+        "name": "Motorola Edge 30",
+        "path": "/f/motorola-edge-30.12697/",
+        "threads": 73,
+        "messages": 1000
+    },
+    {
+        "name": "Motorola Edge 40 Pro  / Moto X40 (China)",
+        "path": "/f/motorola-edge-40-pro-moto-x40-china.12731/",
+        "threads": 171,
+        "messages": 2700
+    },
+    {
+        "name": "Motorola Moto G71 5G",
+        "path": "/f/motorola-moto-g71-5g.12769/",
+        "threads": 33,
+        "messages": 139
+    },
+    {
+        "name": "Motorola Razr 40 Ultra / Razr+ / Razr 2023",
+        "path": "/f/motorola-razr-40-ultra-razr-razr-2023.12779/",
+        "threads": 87,
+        "messages": 725
+    },
+    {
+        "name": "Motorola Moto G52",
+        "path": "/f/motorola-moto-g52.12797/",
+        "threads": 45,
+        "messages": 451
+    },
+    {
+        "name": "Motorola Moto G32",
+        "path": "/f/motorola-moto-g32.12803/",
+        "threads": 48,
+        "messages": 296
+    },
+    {
+        "name": "Motorola Moto G24 / G24 Power",
+        "path": "/f/motorola-moto-g24-g24-power.12831/",
+        "threads": 10,
+        "messages": 43
+    },
+    {
+        "name": "Motorola Edge 50 Pro",
+        "path": "/f/motorola-edge-50-pro.12855/",
+        "threads": 16,
+        "messages": 46
+    },
+    {
+        "name": "Motorola Edge 50 Ultra",
+        "path": "/f/motorola-edge-50-ultra.12857/",
+        "threads": 10,
+        "messages": 39
+    },
+    {
+        "name": "Motorola Moto G04 / G04s",
+        "path": "/f/motorola-moto-g04-g04s.12862/",
+        "threads": 10,
+        "messages": 89
+    },
+    {
+        "name": "Motorola Razr 50 (AKA Razr 2024) / 50 Ultra",
+        "path": "/f/motorola-razr-50-aka-razr-2024-50-ultra.12863/",
+        "threads": 31,
+        "messages": 252
+    },
+    {
+        "name": "Motorola Moto G51 5G",
+        "path": "/f/motorola-moto-g51-5g.12892/",
+        "threads": 14,
+        "messages": 69
+    },
+    {
+        "name": "Motorola Droid Maxx",
+        "path": "/f/motorola-droid-maxx.4802/",
+        "threads": 100,
+        "messages": 2000
+    },
+    {
+        "name": "Motorola Razr 5G",
+        "path": "/c/motorola-razr-5g.11537/",
+        "threads": 127,
+        "messages": 486
+    },
+    {
+        "name": "Moto G 5G Plus (AKA Motorola One 5G)",
+        "path": "/c/moto-g-5g-plus-aka-motorola-one-5g.11139/",
+        "threads": 153,
+        "messages": 784
+    },
+    {
+        "name": "Motorola One Fusion",
+        "path": "/c/motorola-one-fusion.11109/",
+        "threads": 97,
+        "messages": 296
+    },
+    {
+        "name": "Motorola One Fusion+",
+        "path": "/c/motorola-one-fusion.10857/",
+        "threads": 118,
+        "messages": 474
+    },
+    {
+        "name": "Motorola Edge",
+        "path": "/c/motorola-edge.10491/",
+        "threads": 165,
+        "messages": 1300
+    },
+    {
+        "name": "Motorola Edge + (2020)",
+        "path": "/c/motorola-edge-2020.10463/",
+        "threads": 116,
+        "messages": 591
+    },
+    {
+        "name": "Moto E7",
+        "path": "/c/moto-e7.11947/",
+        "threads": 57,
+        "messages": 149
+    },
+    {
+        "name": "Motorola One Hyper",
+        "path": "/c/motorola-one-hyper.9767/",
+        "threads": 94,
+        "messages": 499
+    },
+    {
+        "name": "Moto G9 Power",
+        "path": "/c/moto-g9-power.11877/",
+        "threads": 96,
+        "messages": 489
+    },
+    {
+        "name": "Motorola Razr (2019)",
+        "path": "/c/motorola-razr-2019.9637/",
+        "threads": 69,
+        "messages": 157
+    },
+    {
+        "name": "Moto G 5G (Motorola One 5G Ace)",
+        "path": "/c/moto-g-5g-motorola-one-5g-ace.11863/",
+        "threads": 251,
+        "messages": 2200
+    },
+    {
+        "name": "Motorola One Action",
+        "path": "/c/motorola-one-action.9186/",
+        "threads": 193,
+        "messages": 2200
+    },
+    {
+        "name": "Motorola One Zoom (aka Pro)",
+        "path": "/c/motorola-one-zoom-aka-pro.9140/",
+        "threads": 96,
+        "messages": 575
+    },
+    {
+        "name": "Motorola One Vision",
+        "path": "/c/motorola-one-vision.8889/",
+        "threads": 223,
+        "messages": 2000
+    },
+    {
+        "name": "Motorola One Power",
+        "path": "/c/motorola-one-power.8159/",
+        "threads": 256,
+        "messages": 2000
+    },
+    {
+        "name": "Motorola One",
+        "path": "/c/motorola-one.8152/",
+        "threads": 223,
+        "messages": 1800
+    },
+    {
+        "name": "Moto G9 Plus",
+        "path": "/c/moto-g9-plus.11607/",
+        "threads": 144,
+        "messages": 1100
+    },
+    {
+        "name": "Motorola Droid Maxx 2",
+        "path": "/c/motorola-droid-maxx-2.4868/",
+        "threads": 45,
+        "messages": 223
+    },
+    {
+        "name": "Moto E7 Plus",
+        "path": "/c/moto-e7-plus.11593/",
+        "threads": 74,
+        "messages": 173
+    },
+    {
+        "name": "Motorola Droid Turbo 2",
+        "path": "/c/motorola-droid-turbo-2.4873/",
+        "threads": 699,
+        "messages": 9200
+    },
+    {
+        "name": "Motorola Moto Maxx",
+        "path": "/c/motorola-moto-maxx.4809/",
+        "threads": 362,
+        "messages": 25800
+    },
+    {
+        "name": "Verizon Motorola Droid Turbo",
+        "path": "/c/verizon-motorola-droid-turbo.3713/",
+        "threads": 2500,
+        "messages": 47400
+    },
+    {
+        "name": "Motorola Moto E",
+        "path": "/c/motorola-moto-e.3140/",
+        "threads": 3200,
+        "messages": 65099
+    },
+    {
+        "name": "Moto G9 Play (G9 India)",
+        "path": "/c/moto-g9-play-g9-india.11307/",
+        "threads": 123,
+        "messages": 549
+    },
+    {
+        "name": "Motorola Droid Ultra",
+        "path": "/c/motorola-droid-ultra.2478/",
+        "threads": 1700,
+        "messages": 24300
+    },
+    {
+        "name": "Motorola Droid RAZR HD",
+        "path": "/c/motorola-droid-razr-hd.1861/",
+        "threads": 3300,
+        "messages": 56900
+    },
+    {
+        "name": "Motorola RAZR i",
+        "path": "/c/motorola-razr-i.1823/",
+        "threads": 2000,
+        "messages": 28300
+    },
+    {
+        "name": "Motorola Droid RAZR M",
+        "path": "/c/motorola-droid-razr-m.1775/",
+        "threads": 2800,
+        "messages": 37800
+    },
+    {
+        "name": "Motorola Photon Q 4G LTE",
+        "path": "/f/motorola-photon-q-4g-lte.1757/",
+        "threads": 1100,
+        "messages": 18800
+    },
+    {
+        "name": "Motorola Atrix HD",
+        "path": "/f/motorola-atrix-hd.1693/",
+        "threads": 2400,
+        "messages": 42000
+    },
+    {
+        "name": "Motorola Droid 4",
+        "path": "/f/motorola-droid-4.1502/",
+        "threads": 1500,
+        "messages": 20400
+    },
+    {
+        "name": "Motorola Atrix 2",
+        "path": "/f/motorola-atrix-2.1373/",
+        "threads": 3600,
+        "messages": 67600
+    },
+    {
+        "name": "Motorola Droid RAZR",
+        "path": "/f/motorola-droid-razr.1360/",
+        "threads": 10300,
+        "messages": 159800
+    },
+    {
+        "name": "Motorola Photon 4G",
+        "path": "/f/motorola-photon-4g.1220/",
+        "threads": 4900,
+        "messages": 90500
+    },
+    {
+        "name": "Moto C Plus",
+        "path": "/c/moto-c-plus.10745/",
+        "threads": 92,
+        "messages": 1100
+    },
+    {
+        "name": "Motorola Droid 3",
+        "path": "/f/motorola-droid-3.1193/",
+        "threads": 2700,
+        "messages": 41400
+    },
+    {
+        "name": "Motorola Droid X2",
+        "path": "/f/motorola-droid-x2.1172/",
+        "threads": 3100,
+        "messages": 68200
+    },
+    {
+        "name": "Motorola Droid Bionic",
+        "path": "/f/motorola-droid-bionic.1004/",
+        "threads": 3600,
+        "messages": 46100
+    },
+    {
+        "name": "Motorola Atrix 4G",
+        "path": "/c/motorola-atrix-4g.994/",
+        "threads": 18300,
+        "messages": 317600
+    },
+    {
+        "name": "Motorola Xoom",
+        "path": "/c/motorola-xoom.945/",
+        "threads": 10500,
+        "messages": 163000
+    },
+    {
+        "name": "Motorola Defy",
+        "path": "/c/motorola-defy.852/",
+        "threads": 10900,
+        "messages": 219000
+    },
+    {
+        "name": "Motorola Droid X",
+        "path": "/c/motorola-droid-x.687/",
+        "threads": 5000,
+        "messages": 53400
+    },
+    {
+        "name": "Motorola Droid 2",
+        "path": "/c/motorola-droid-2.738/",
+        "threads": 2500,
+        "messages": 27400
+    },
+    {
+        "name": "Moto E6s",
+        "path": "/c/moto-e6s.10277/",
+        "threads": 53,
+        "messages": 239
+    },
+    {
+        "name": "Moto G8 (Moto G Fast)",
+        "path": "/c/moto-g8-moto-g-fast.10133/",
+        "threads": 130,
+        "messages": 1000
+    },
+    {
+        "name": "Moto G Power",
+        "path": "/c/moto-g-power.9935/",
+        "threads": 449,
+        "messages": 4600
+    },
+    {
+        "name": "Moto G Stylus (Moto G Pro)",
+        "path": "/c/moto-g-stylus-moto-g-pro.9921/",
+        "threads": 213,
+        "messages": 2100
+    },
+    {
+        "name": "Moto G8 Plus",
+        "path": "/c/moto-g8-plus.9533/",
+        "threads": 189,
+        "messages": 1500
+    },
+    {
+        "name": "Moto G8 Play",
+        "path": "/c/moto-g8-play.9561/",
+        "threads": 72,
+        "messages": 303
+    },
+    {
+        "name": "Moto E6 Play",
+        "path": "/c/moto-e6-play.9547/",
+        "threads": 57,
+        "messages": 136
+    },
+    {
+        "name": "Moto E6 Plus",
+        "path": "/c/moto-e6-plus.9270/",
+        "threads": 83,
+        "messages": 454
+    },
+    {
+        "name": "Moto E6",
+        "path": "/c/moto-e6.9119/",
+        "threads": 95,
+        "messages": 692
+    },
+    {
+        "name": "Moto Z4",
+        "path": "/c/moto-z4.8932/",
+        "threads": 170,
+        "messages": 1000
+    },
+    {
+        "name": "Moto G6 Play",
+        "path": "/c/moto-g6-play.8553/",
+        "threads": 295,
+        "messages": 3700
+    },
+    {
+        "name": "Moto G7 Plus",
+        "path": "/c/moto-g7-plus.8544/",
+        "threads": 287,
+        "messages": 3900
+    },
+    {
+        "name": "Moto G7 Power",
+        "path": "/c/moto-g7-power.8537/",
+        "threads": 554,
+        "messages": 7000
+    },
+    {
+        "name": "Moto G7 Play",
+        "path": "/c/moto-g7-play.8530/",
+        "threads": 307,
+        "messages": 2900
+    },
+    {
+        "name": "Moto G7",
+        "path": "/c/moto-g7.8523/",
+        "threads": 388,
+        "messages": 4100
+    },
+    {
+        "name": "Moto G6 Plus",
+        "path": "/c/moto-g6-plus.8326/",
+        "threads": 374,
+        "messages": 4100
+    },
+    {
+        "name": "Moto Z3 Play",
+        "path": "/c/moto-z3-play.7789/",
+        "threads": 337,
+        "messages": 3400
+    },
+    {
+        "name": "Moto E5",
+        "path": "/c/moto-e5.7642/",
+        "threads": 537,
+        "messages": 5900
+    },
+    {
+        "name": "Moto G6",
+        "path": "/c/moto-g6.7635/",
+        "threads": 731,
+        "messages": 9200
+    },
+    {
+        "name": "Moto X4",
+        "path": "/c/moto-x4.6912/",
+        "threads": 1200,
+        "messages": 16900
+    },
+    {
+        "name": "Moto G5S Plus",
+        "path": "/c/moto-g5s-plus.6811/",
+        "threads": 1300,
+        "messages": 23900
+    },
+    {
+        "name": "Moto G5S",
+        "path": "/c/moto-g5s.6804/",
+        "threads": 452,
+        "messages": 8600
+    },
+    {
+        "name": "Moto Z2 Force",
+        "path": "/c/moto-z2-force.6776/",
+        "threads": 1100,
+        "messages": 14900
+    },
+    {
+        "name": "Moto E4 Plus",
+        "path": "/c/moto-e4-plus.6528/",
+        "threads": 454,
+        "messages": 4700
+    },
+    {
+        "name": "Moto E4",
+        "path": "/c/moto-e4.6523/",
+        "threads": 595,
+        "messages": 8800
+    },
+    {
+        "name": "Moto Z2 Play",
+        "path": "/c/moto-z2-play.6504/",
+        "threads": 754,
+        "messages": 8700
+    },
+    {
+        "name": "Moto G5 Plus",
+        "path": "/c/moto-g5-plus.6209/",
+        "threads": 2600,
+        "messages": 56500
+    },
+    {
+        "name": "Moto G5",
+        "path": "/c/moto-g5.6203/",
+        "threads": 1100,
+        "messages": 19900
+    },
+    {
+        "name": "Moto M",
+        "path": "/c/moto-m.6043/",
+        "threads": 97,
+        "messages": 443
+    },
+    {
+        "name": "Moto Z Play",
+        "path": "/c/moto-z-play.5805/",
+        "threads": 1700,
+        "messages": 37000
+    },
+    {
+        "name": "Moto G4 Play",
+        "path": "/c/moto-g4-play.5569/",
+        "threads": 774,
+        "messages": 14000
+    },
+    {
+        "name": "Moto E3",
+        "path": "/c/moto-e3.5563/",
+        "threads": 215,
+        "messages": 1600
+    },
+    {
+        "name": "Moto Z",
+        "path": "/c/moto-z.5523/",
+        "threads": 1100,
+        "messages": 19400
+    },
+    {
+        "name": "Moto Z Force",
+        "path": "/c/moto-z-force.5517/",
+        "threads": 391,
+        "messages": 3500
+    },
+    {
+        "name": "Moto G4 Plus",
+        "path": "/c/moto-g4-plus.5438/",
+        "threads": 3400,
+        "messages": 88100
+    },
+    {
+        "name": "Moto G4",
+        "path": "/c/moto-g4.5432/",
+        "threads": 750,
+        "messages": 5800
+    },
+    {
+        "name": "Moto G 2015",
+        "path": "/c/moto-g-2015.4379/",
+        "threads": 3200,
+        "messages": 87000
+    },
+    {
+        "name": "Moto X Style (Pure)",
+        "path": "/c/moto-x-style-pure.4365/",
+        "threads": 3700,
+        "messages": 90400
+    },
+    {
+        "name": "Moto X Play",
+        "path": "/c/moto-x-play.4372/",
+        "threads": 2000,
+        "messages": 50400
+    },
+    {
+        "name": "Moto E 2015",
+        "path": "/c/moto-e-2015.4071/",
+        "threads": 1900,
+        "messages": 43100
+    },
+    {
+        "name": "Moto G (2014)",
+        "path": "/c/moto-g-2014.3593/",
+        "threads": 4700,
+        "messages": 122900
+    },
+    {
+        "name": "Moto X (2014)",
+        "path": "/c/moto-x-2014.3586/",
+        "threads": 3800,
+        "messages": 67600
+    },
+    {
+        "name": "Moto G",
+        "path": "/c/moto-g.2684/",
+        "threads": 11700,
+        "messages": 270200
+    },
+    {
+        "name": "Moto X",
+        "path": "/c/moto-x.2449/",
+        "threads": 9000,
+        "messages": 151300
+    }
+]

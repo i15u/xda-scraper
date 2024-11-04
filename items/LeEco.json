@@ -1,0 +1,38 @@
+[
+    {
+        "name": "LeEco Le S3",
+        "path": "/c/leeco-le-s3.8993/",
+        "threads": 113,
+        "messages": 557
+    },
+    {
+        "name": "LeEco Le Pro3",
+        "path": "/c/leeco-le-pro3.5922/",
+        "threads": 1800,
+        "messages": 61400
+    },
+    {
+        "name": "LeEco Le 2",
+        "path": "/c/leeco-le-2.5630/",
+        "threads": 1500,
+        "messages": 42200
+    },
+    {
+        "name": "LeEco Le Max 2",
+        "path": "/c/leeco-le-max-2.5375/",
+        "threads": 2100,
+        "messages": 78200
+    },
+    {
+        "name": "LeEco Le1 Pro",
+        "path": "/c/leeco-le1-pro.5337/",
+        "threads": 211,
+        "messages": 4600
+    },
+    {
+        "name": "LeEco Le 1S",
+        "path": "/c/leeco-le-1s.5331/",
+        "threads": 462,
+        "messages": 8900
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Fairphone 3 / 3+",
+        "path": "/f/fairphone-3-3.12787/",
+        "threads": 20,
+        "messages": 130
+    },
+    {
+        "name": "Fairphone 4",
+        "path": "/f/fairphone-4.12789/",
+        "threads": 32,
+        "messages": 349
+    },
+    {
+        "name": "Fairphone 5",
+        "path": "/f/fairphone-5.12791/",
+        "threads": 28,
+        "messages": 438
+    },
+    {
+        "name": "Fairphone 2",
+        "path": "/f/fairphone-2.4281/",
+        "threads": 27,
+        "messages": 88
+    },
+    {
+        "name": "Fairphone 1",
+        "path": "/f/fairphone-1.2756/",
+        "threads": 86,
+        "messages": 1600
+    }
+]

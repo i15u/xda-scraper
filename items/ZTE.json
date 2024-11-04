@@ -1,0 +1,140 @@
+[
+    {
+        "name": "ZTE Axon 30 Ultra",
+        "path": "/f/zte-axon-30-ultra.12231/",
+        "threads": 32,
+        "messages": 148
+    },
+    {
+        "name": "ZTE Axon 30 Pro",
+        "path": "/f/zte-axon-30-pro.12235/",
+        "threads": 1,
+        "messages": 1
+    },
+    {
+        "name": "ZTE Axon 30",
+        "path": "/f/zte-axon-30.12413/",
+        "threads": 12,
+        "messages": 125
+    },
+    {
+        "name": "ZTE nubia Z60 Ultra",
+        "path": "/f/zte-nubia-z60-ultra.12823/",
+        "threads": 73,
+        "messages": 1200
+    },
+    {
+        "name": "ZTE Axon 20 5G",
+        "path": "/c/zte-axon-20-5g.11461/",
+        "threads": 49,
+        "messages": 99
+    },
+    {
+        "name": "ZTE Axon 11 5G",
+        "path": "/c/zte-axon-11-5g.10817/",
+        "threads": 39,
+        "messages": 41
+    },
+    {
+        "name": "ZTE Axon 11 4G",
+        "path": "/c/zte-axon-11-4g.10815/",
+        "threads": 39,
+        "messages": 45
+    },
+    {
+        "name": "ZTE Zmax Pro",
+        "path": "/c/zte-zmax-pro.10759/",
+        "threads": 106,
+        "messages": 563
+    },
+    {
+        "name": "ZTE Axon 10 Pro",
+        "path": "/c/zte-axon-10-pro.8672/",
+        "threads": 210,
+        "messages": 1700
+    },
+    {
+        "name": "ZTE Axon 9",
+        "path": "/c/zte-axon-9.8124/",
+        "threads": 49,
+        "messages": 123
+    },
+    {
+        "name": "ZTE Blade S6",
+        "path": "/c/zte-blade-s6.8040/",
+        "threads": 87,
+        "messages": 2300
+    },
+    {
+        "name": "ZTE Trek 2",
+        "path": "/c/zte-trek-2.7984/",
+        "threads": 87,
+        "messages": 1600
+    },
+    {
+        "name": "ZTE Maven 3",
+        "path": "/c/zte-maven-3.7817/",
+        "threads": 66,
+        "messages": 402
+    },
+    {
+        "name": "ZTE Blade V9",
+        "path": "/c/zte-blade-v9.7501/",
+        "threads": 41,
+        "messages": 50
+    },
+    {
+        "name": "ZTE Axon M",
+        "path": "/c/zte-axon-m.7136/",
+        "threads": 124,
+        "messages": 720
+    },
+    {
+        "name": "ZTE Blade V8 Pro",
+        "path": "/c/zte-blade-v8-pro.6095/",
+        "threads": 68,
+        "messages": 232
+    },
+    {
+        "name": "ZTE Axon 7 Mini",
+        "path": "/c/zte-axon-7-mini.5841/",
+        "threads": 280,
+        "messages": 4400
+    },
+    {
+        "name": "ZTE ZMAX",
+        "path": "/c/zte-zmax.5761/",
+        "threads": 105,
+        "messages": 4300
+    },
+    {
+        "name": "ZTE Axon 7",
+        "path": "/c/zte-axon-7.5445/",
+        "threads": 3800,
+        "messages": 90100
+    },
+    {
+        "name": "ZTE Grand X V970",
+        "path": "/f/zte-grand-x-v970.4794/",
+        "threads": 101,
+        "messages": 5100
+    },
+    {
+        "name": "ZTE Axon Pro",
+        "path": "/f/zte-axon-pro.4386/",
+        "threads": 145,
+        "messages": 3800
+    },
+    {
+        "name": "ZTE Z7, Z7 Max, Z7 Mini",
+        "path": "/f/zte-z7-z7-max-z7-mini.3818/",
+        "threads": 269,
+        "messages": 5900
+    },
+    {
+        "name": "ZTE Blade",
+        "path": "/c/zte-blade.906/",
+        "threads": 1900,
+        "messages": 19100
+    }
+]

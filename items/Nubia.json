@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Nubia Red Magic 6",
+        "path": "/f/nubia-red-magic-6.12159/",
+        "threads": 177,
+        "messages": 1100
+    },
+    {
+        "name": "Red Magic 6R",
+        "path": "/f/red-magic-6r.12383/",
+        "threads": 37,
+        "messages": 232
+    },
+    {
+        "name": "Nubia Red Magic 6S Pro",
+        "path": "/f/nubia-red-magic-6s-pro.12465/",
+        "threads": 49,
+        "messages": 297
+    },
+    {
+        "name": "Nubia Red Magic 7",
+        "path": "/f/nubia-red-magic-7.12563/",
+        "threads": 63,
+        "messages": 299
+    },
+    {
+        "name": "Nubia Red Magic 7 Pro",
+        "path": "/f/nubia-red-magic-7-pro.12593/",
+        "threads": 53,
+        "messages": 342
+    },
+    {
+        "name": "Red Magic 8 pro",
+        "path": "/f/red-magic-8-pro.12715/",
+        "threads": 288,
+        "messages": 3200
+    },
+    {
+        "name": "Nubia Red Magic 9 Pro",
+        "path": "/f/nubia-red-magic-9-pro.12848/",
+        "threads": 90,
+        "messages": 1000
+    },
+    {
+        "name": "Nubia Red Magic 9S Pro / Pro+",
+        "path": "/f/nubia-red-magic-9s-pro-pro.12878/",
+        "threads": 14,
+        "messages": 120
+    },
+    {
+        "name": "Nubia Red Magic 5G Lite",
+        "path": "/c/nubia-red-magic-5g-lite.10801/",
+        "threads": 54,
+        "messages": 217
+    },
+    {
+        "name": "Nubia Red Magic 5G / 5S",
+        "path": "/c/nubia-red-magic-5g-5s.10235/",
+        "threads": 363,
+        "messages": 3600
+    },
+    {
+        "name": "ZTE Nubia Z20",
+        "path": "/c/zte-nubia-z20.9675/",
+        "threads": 98,
+        "messages": 792
+    },
+    {
+        "name": "Nubia Red Magic 3",
+        "path": "/c/nubia-red-magic-3.8882/",
+        "threads": 583,
+        "messages": 5300
+    },
+    {
+        "name": "Nubia Red Magic Mars",
+        "path": "/c/nubia-red-magic-mars.8574/",
+        "threads": 57,
+        "messages": 189
+    },
+    {
+        "name": "Nubia Z11",
+        "path": "/c/nubia-z11.8567/",
+        "threads": 82,
+        "messages": 2100
+    },
+    {
+        "name": "ZTE Nubia X",
+        "path": "/c/zte-nubia-x.8377/",
+        "threads": 109,
+        "messages": 1100
+    },
+    {
+        "name": "ZTE Nubia Z18",
+        "path": "/c/zte-nubia-z18.8215/",
+        "threads": 65,
+        "messages": 202
+    },
+    {
+        "name": "Nubia Red Magic",
+        "path": "/c/nubia-red-magic.7925/",
+        "threads": 113,
+        "messages": 760
+    },
+    {
+        "name": "ZTE Nubia Z9 Mini",
+        "path": "/c/zte-nubia-z9-mini.7740/",
+        "threads": 84,
+        "messages": 2700
+    },
+    {
+        "name": "ZTE Nubia Z17 Mini",
+        "path": "/c/zte-nubia-z17-mini.6891/",
+        "threads": 134,
+        "messages": 1900
+    },
+    {
+        "name": "ZTE Nubia Z17",
+        "path": "/c/zte-nubia-z17.6510/",
+        "threads": 329,
+        "messages": 9000
+    }
+]

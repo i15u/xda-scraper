@@ -1,0 +1,254 @@
+[
+    {
+        "name": "Lenovo P11",
+        "path": "/f/lenovo-p11.12077/",
+        "threads": 616,
+        "messages": 9600
+    },
+    {
+        "name": "Lenovo Legion Phone Duel 2",
+        "path": "/f/lenovo-legion-phone-duel-2.12213/",
+        "threads": 121,
+        "messages": 1400
+    },
+    {
+        "name": "Lenovo Phab Plus",
+        "path": "/f/lenovo-phab-plus.12579/",
+        "threads": 51,
+        "messages": 434
+    },
+    {
+        "name": "Lenovo ThinkPhone (by Motorola)",
+        "path": "/f/lenovo-thinkphone-by-motorola.12693/",
+        "threads": 27,
+        "messages": 200
+    },
+    {
+        "name": "Lenovo Legion Y700",
+        "path": "/f/lenovo-legion-y700.12737/",
+        "threads": 251,
+        "messages": 5400
+    },
+    {
+        "name": "Lenovo Legion Duel",
+        "path": "/c/lenovo-legion-duel.11733/",
+        "threads": 102,
+        "messages": 585
+    },
+    {
+        "name": "Lenovo Z6 Pro",
+        "path": "/c/lenovo-z6-pro.10647/",
+        "threads": 139,
+        "messages": 1700
+    },
+    {
+        "name": "Lenovo Vibe P1m",
+        "path": "/c/lenovo-vibe-p1m.8986/",
+        "threads": 86,
+        "messages": 649
+    },
+    {
+        "name": "Lenovo Yoga Tab 3 Plus",
+        "path": "/c/lenovo-yoga-tab-3-plus.8972/",
+        "threads": 125,
+        "messages": 3700
+    },
+    {
+        "name": "Lenovo Z5 Pro GT",
+        "path": "/c/lenovo-z5-pro-gt.8479/",
+        "threads": 198,
+        "messages": 2000
+    },
+    {
+        "name": "Lenovo K8 Note",
+        "path": "/c/lenovo-k8-note.7754/",
+        "threads": 155,
+        "messages": 1800
+    },
+    {
+        "name": "Lenovo Vibe X3",
+        "path": "/c/lenovo-vibe-x3.7733/",
+        "threads": 96,
+        "messages": 1800
+    },
+    {
+        "name": "Lenovo A3500",
+        "path": "/c/lenovo-a3500.7328/",
+        "threads": 138,
+        "messages": 850
+    },
+    {
+        "name": "Lenovo A1000",
+        "path": "/c/lenovo-a1000.7314/",
+        "threads": 93,
+        "messages": 298
+    },
+    {
+        "name": "Lenovo Yoga Tab 2",
+        "path": "/c/lenovo-yoga-tab-2.7166/",
+        "threads": 157,
+        "messages": 812
+    },
+    {
+        "name": "Lenovo Vibe Shot",
+        "path": "/c/lenovo-vibe-shot.7122/",
+        "threads": 126,
+        "messages": 2800
+    },
+    {
+        "name": "Lenovo K6 / K6 Power / K6 Note",
+        "path": "/c/lenovo-k6-k6-power-k6-note.7053/",
+        "threads": 387,
+        "messages": 9900
+    },
+    {
+        "name": "Lenovo K5 Note",
+        "path": "/c/lenovo-k5-note.6970/",
+        "threads": 129,
+        "messages": 1000
+    },
+    {
+        "name": "Lenovo Vibe K5",
+        "path": "/c/lenovo-vibe-k5.6559/",
+        "threads": 133,
+        "messages": 2100
+    },
+    {
+        "name": "Lenovo ZUK Z2 (Plus)",
+        "path": "/c/lenovo-zuk-z2-plus.6264/",
+        "threads": 2100,
+        "messages": 115400
+    },
+    {
+        "name": "Lenovo P2",
+        "path": "/c/lenovo-p2.6149/",
+        "threads": 1700,
+        "messages": 46000
+    },
+    {
+        "name": "Lenovo Zuk Edge",
+        "path": "/c/lenovo-zuk-edge.6061/",
+        "threads": 110,
+        "messages": 539
+    },
+    {
+        "name": "Lenovo Vibe K5 Plus",
+        "path": "/c/lenovo-vibe-k5-plus.6049/",
+        "threads": 582,
+        "messages": 22700
+    },
+    {
+        "name": "Lenovo Vibe Z",
+        "path": "/c/lenovo-vibe-z.5847/",
+        "threads": 65,
+        "messages": 2300
+    },
+    {
+        "name": "Lenovo Vibe Z2 Pro",
+        "path": "/c/lenovo-vibe-z2-pro.5859/",
+        "threads": 155,
+        "messages": 5800
+    },
+    {
+        "name": "Lenovo Vibe K4 Note",
+        "path": "/c/lenovo-vibe-k4-note.5853/",
+        "threads": 490,
+        "messages": 15200
+    },
+    {
+        "name": "Lenovo Yoga Book",
+        "path": "/c/lenovo-yoga-book.5835/",
+        "threads": 364,
+        "messages": 2900
+    },
+    {
+        "name": "Lenovo A328",
+        "path": "/c/lenovo-a328.5773/",
+        "threads": 68,
+        "messages": 601
+    },
+    {
+        "name": "Lenovo Phab 2 Plus",
+        "path": "/c/lenovo-phab-2-plus.5541/",
+        "threads": 56,
+        "messages": 194
+    },
+    {
+        "name": "Lenovo Phab 2",
+        "path": "/c/lenovo-phab-2.5535/",
+        "threads": 79,
+        "messages": 387
+    },
+    {
+        "name": "Lenovo Phab 2 Pro",
+        "path": "/c/lenovo-phab-2-pro.5529/",
+        "threads": 155,
+        "messages": 1000
+    },
+    {
+        "name": "Lenovo A7000",
+        "path": "/c/lenovo-a7000.5408/",
+        "threads": 541,
+        "messages": 11200
+    },
+    {
+        "name": "Lenovo Vibe P1",
+        "path": "/c/lenovo-vibe-p1.5389/",
+        "threads": 301,
+        "messages": 5800
+    },
+    {
+        "name": "Lenovo Zuk Z2 Pro",
+        "path": "/c/lenovo-zuk-z2-pro.5381/",
+        "threads": 617,
+        "messages": 14800
+    },
+    {
+        "name": "Lenovo A6000/Plus",
+        "path": "/c/lenovo-a6000-plus.5201/",
+        "threads": 1500,
+        "messages": 32700
+    },
+    {
+        "name": "Lenovo K3 Note",
+        "path": "/c/lenovo-k3-note.4939/",
+        "threads": 792,
+        "messages": 19700
+    },
+    {
+        "name": "Lenovo Zuk Z1",
+        "path": "/c/lenovo-zuk-z1.4558/",
+        "threads": 1400,
+        "messages": 35200
+    },
+    {
+        "name": "Lenovo K900",
+        "path": "/f/lenovo-k900.2848/",
+        "threads": 264,
+        "messages": 6100
+    },
+    {
+        "name": "Lenovo A850",
+        "path": "/f/lenovo-a850.2841/",
+        "threads": 240,
+        "messages": 1100
+    },
+    {
+        "name": "Lenovo A3000",
+        "path": "/c/lenovo-a3000.2834/",
+        "threads": 282,
+        "messages": 3000
+    },
+    {
+        "name": "Lenovo P780",
+        "path": "/f/lenovo-p780.2827/",
+        "threads": 591,
+        "messages": 7700
+    },
+    {
+        "name": "Lenovo Thinkpad Tablet",
+        "path": "/c/lenovo-thinkpad-tablet.1432/",
+        "threads": 1700,
+        "messages": 29200
+    }
+]

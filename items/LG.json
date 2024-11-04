@@ -1,0 +1,560 @@
+[
+    {
+        "name": "LG Stylo 7 5G",
+        "path": "/f/lg-stylo-7-5g.12059/",
+        "threads": 4,
+        "messages": 13
+    },
+    {
+        "name": "AT&T LG G6",
+        "path": "/c/at-t-lg-g6.6404/",
+        "threads": 53,
+        "messages": 511
+    },
+    {
+        "name": "LG K92 5G",
+        "path": "/c/lg-k92-5g.11919/",
+        "threads": 43,
+        "messages": 59
+    },
+    {
+        "name": "LG Wing",
+        "path": "/c/lg-wing.11447/",
+        "threads": 169,
+        "messages": 1200
+    },
+    {
+        "name": "LG Velvet",
+        "path": "/c/lg-velvet.10477/",
+        "threads": 265,
+        "messages": 1500
+    },
+    {
+        "name": "LG V60 ThinQ",
+        "path": "/c/lg-v60-thinq.10061/",
+        "threads": 832,
+        "messages": 8000
+    },
+    {
+        "name": "LG G8X ThinQ",
+        "path": "/c/lg-g8x-thinq.9263/",
+        "threads": 553,
+        "messages": 4100
+    },
+    {
+        "name": "LG G Pad 7",
+        "path": "/c/lg-g-pad-7.9000/",
+        "threads": 133,
+        "messages": 4100
+    },
+    {
+        "name": "LG Stylo 3",
+        "path": "/c/lg-stylo-3.8979/",
+        "threads": 99,
+        "messages": 673
+    },
+    {
+        "name": "LG V35",
+        "path": "/c/lg-v35.8742/",
+        "threads": 326,
+        "messages": 3400
+    },
+    {
+        "name": "LG V50 ThinQ",
+        "path": "/c/lg-v50-thinq.8623/",
+        "threads": 546,
+        "messages": 4100
+    },
+    {
+        "name": "LG G8",
+        "path": "/c/lg-g8.8515/",
+        "threads": 701,
+        "messages": 10200
+    },
+    {
+        "name": "LG G7 Fit",
+        "path": "/c/lg-g7-fit.8173/",
+        "threads": 51,
+        "messages": 103
+    },
+    {
+        "name": "LG G7 One",
+        "path": "/c/lg-g7-one.8166/",
+        "threads": 96,
+        "messages": 441
+    },
+    {
+        "name": "LG K20 Plus",
+        "path": "/c/lg-k20-plus.8054/",
+        "threads": 141,
+        "messages": 3000
+    },
+    {
+        "name": "LG V40",
+        "path": "/c/lg-v40.7911/",
+        "threads": 871,
+        "messages": 8700
+    },
+    {
+        "name": "LG Q7",
+        "path": "/c/lg-q7.7782/",
+        "threads": 92,
+        "messages": 274
+    },
+    {
+        "name": "LG G4c",
+        "path": "/c/lg-g4c.7698/",
+        "threads": 88,
+        "messages": 1100
+    },
+    {
+        "name": "LG G7 ThinQ",
+        "path": "/c/lg-g7-thinq.7670/",
+        "threads": 1600,
+        "messages": 17800
+    },
+    {
+        "name": "LG V30S",
+        "path": "/c/lg-v30s.7498/",
+        "threads": 48,
+        "messages": 71
+    },
+    {
+        "name": "LG K10 (2018)",
+        "path": "/c/lg-k10-2018.7452/",
+        "threads": 45,
+        "messages": 57
+    },
+    {
+        "name": "LG K8 (2018)",
+        "path": "/c/lg-k8-2018.7446/",
+        "threads": 46,
+        "messages": 258
+    },
+    {
+        "name": "LG Stylo 2 Plus",
+        "path": "/c/lg-stylo-2-plus.7307/",
+        "threads": 149,
+        "messages": 3500
+    },
+    {
+        "name": "LG G Pad X 8.0",
+        "path": "/c/lg-g-pad-x-8-0.7208/",
+        "threads": 165,
+        "messages": 2800
+    },
+    {
+        "name": "LG L Bello",
+        "path": "/c/lg-l-bello.7194/",
+        "threads": 93,
+        "messages": 520
+    },
+    {
+        "name": "LG Stylo 2",
+        "path": "/c/lg-stylo-2.7115/",
+        "threads": 118,
+        "messages": 773
+    },
+    {
+        "name": "LG V30",
+        "path": "/c/lg-v30.6905/",
+        "threads": 3300,
+        "messages": 78500
+    },
+    {
+        "name": "LG Q8",
+        "path": "/c/lg-q8.6613/",
+        "threads": 11,
+        "messages": 30
+    },
+    {
+        "name": "LG Q6",
+        "path": "/c/lg-q6.6588/",
+        "threads": 164,
+        "messages": 1300
+    },
+    {
+        "name": "LG Magna",
+        "path": "/c/lg-magna.6441/",
+        "threads": 97,
+        "messages": 839
+    },
+    {
+        "name": "Sprint LG G6",
+        "path": "/c/sprint-lg-g6.6398/",
+        "threads": 87,
+        "messages": 904
+    },
+    {
+        "name": "T-Mobile LG G6",
+        "path": "/c/t-mobile-lg-g6.6392/",
+        "threads": 203,
+        "messages": 4300
+    },
+    {
+        "name": "Verizon LG G6",
+        "path": "/c/verizon-lg-g6.6386/",
+        "threads": 66,
+        "messages": 434
+    },
+    {
+        "name": "LG G6",
+        "path": "/c/lg-g6.6167/",
+        "threads": 3100,
+        "messages": 52700
+    },
+    {
+        "name": "LG K8",
+        "path": "/c/lg-k8.6139/",
+        "threads": 149,
+        "messages": 542
+    },
+    {
+        "name": "LG K7",
+        "path": "/c/lg-k7.6133/",
+        "threads": 166,
+        "messages": 2700
+    },
+    {
+        "name": "LG V20",
+        "path": "/c/lg-v20.5871/",
+        "threads": 5300,
+        "messages": 128600
+    },
+    {
+        "name": "LG L Fino",
+        "path": "/c/lg-l-fino.5755/",
+        "threads": 144,
+        "messages": 3900
+    },
+    {
+        "name": "LG Spirit",
+        "path": "/c/lg-spirit.5689/",
+        "threads": 205,
+        "messages": 7000
+    },
+    {
+        "name": "LG G Stylo",
+        "path": "/c/lg-g-stylo.5313/",
+        "threads": 526,
+        "messages": 9600
+    },
+    {
+        "name": "AT&T LG G5",
+        "path": "/c/at-t-lg-g5.5219/",
+        "threads": 146,
+        "messages": 1100
+    },
+    {
+        "name": "Sprint LG G5",
+        "path": "/c/sprint-lg-g5.5222/",
+        "threads": 270,
+        "messages": 3500
+    },
+    {
+        "name": "T-Mobile LG G5",
+        "path": "/c/t-mobile-lg-g5.5210/",
+        "threads": 502,
+        "messages": 7000
+    },
+    {
+        "name": "Verizon LG G5",
+        "path": "/c/verizon-lg-g5.5207/",
+        "threads": 142,
+        "messages": 802
+    },
+    {
+        "name": "LG X cam",
+        "path": "/c/lg-x-cam.5140/",
+        "threads": 17,
+        "messages": 37
+    },
+    {
+        "name": "LG X screen",
+        "path": "/c/lg-x-screen.5134/",
+        "threads": 33,
+        "messages": 215
+    },
+    {
+        "name": "LG G5",
+        "path": "/c/lg-g5.5128/",
+        "threads": 3600,
+        "messages": 63300
+    },
+    {
+        "name": "LG Leon",
+        "path": "/c/lg-leon.5116/",
+        "threads": 266,
+        "messages": 1900
+    },
+    {
+        "name": "LG K10",
+        "path": "/c/lg-k10.5073/",
+        "threads": 491,
+        "messages": 5900
+    },
+    {
+        "name": "AT&T LG V10",
+        "path": "/f/at-t-lg-v10.4988/",
+        "threads": 244,
+        "messages": 2700
+    },
+    {
+        "name": "T-Mobile LG V10",
+        "path": "/c/t-mobile-lg-v10.4981/",
+        "threads": 805,
+        "messages": 20300
+    },
+    {
+        "name": "Verizon LG V10",
+        "path": "/f/verizon-lg-v10.4974/",
+        "threads": 304,
+        "messages": 4000
+    },
+    {
+        "name": "LG V10",
+        "path": "/c/lg-v10.4839/",
+        "threads": 2000,
+        "messages": 27400
+    },
+    {
+        "name": "LG Nexus 5X",
+        "path": "/c/lg-nexus-5x.4737/",
+        "threads": 5200,
+        "messages": 145400
+    },
+    {
+        "name": "Sprint LG G4",
+        "path": "/f/sprint-lg-g4.4326/",
+        "threads": 474,
+        "messages": 6400
+    },
+    {
+        "name": "T-Mobile LG G4",
+        "path": "/f/t-mobile-lg-g4.4333/",
+        "threads": 906,
+        "messages": 18500
+    },
+    {
+        "name": "Verizon LG G4",
+        "path": "/f/verizon-lg-g4.4319/",
+        "threads": 678,
+        "messages": 7700
+    },
+    {
+        "name": "AT&T LG G4",
+        "path": "/f/at-t-lg-g4.4312/",
+        "threads": 331,
+        "messages": 3400
+    },
+    {
+        "name": "LG G4",
+        "path": "/c/lg-g4.4231/",
+        "threads": 8100,
+        "messages": 182500
+    },
+    {
+        "name": "LG G Flex 2",
+        "path": "/f/lg-g-flex-2.3878/",
+        "threads": 1400,
+        "messages": 18000
+    },
+    {
+        "name": "T-Mobile LG G3",
+        "path": "/f/t-mobile-lg-g3.3388/",
+        "threads": 1800,
+        "messages": 47400
+    },
+    {
+        "name": "AT&T LG G3",
+        "path": "/f/at-t-lg-g3.3381/",
+        "threads": 1500,
+        "messages": 35100
+    },
+    {
+        "name": "Sprint LG G3",
+        "path": "/f/sprint-lg-g3.3374/",
+        "threads": 1400,
+        "messages": 33400
+    },
+    {
+        "name": "Verizon LG G3",
+        "path": "/f/verizon-lg-g3.3367/",
+        "threads": 2700,
+        "messages": 73600
+    },
+    {
+        "name": "LG G Pad 10.1",
+        "path": "/c/lg-g-pad-10-1.3331/",
+        "threads": 213,
+        "messages": 2800
+    },
+    {
+        "name": "LG Optimus L90",
+        "path": "/f/lg-optimus-l90.3275/",
+        "threads": 1300,
+        "messages": 34300
+    },
+    {
+        "name": "LG Optimus L3 II, L5 II, L7 II, L9 II",
+        "path": "/f/lg-optimus-l3-ii-l5-ii-l7-ii-l9-ii.3154/",
+        "threads": 873,
+        "messages": 19000
+    },
+    {
+        "name": "LG G3",
+        "path": "/c/lg-g3.3147/",
+        "threads": 15200,
+        "messages": 400700
+    },
+    {
+        "name": "LG G2 Mini",
+        "path": "/f/lg-g2-mini.2955/",
+        "threads": 1000,
+        "messages": 19300
+    },
+    {
+        "name": "LG G Pro 2",
+        "path": "/f/lg-g-pro-2.2948/",
+        "threads": 752,
+        "messages": 8600
+    },
+    {
+        "name": "LG G Flex",
+        "path": "/f/lg-g-flex.2701/",
+        "threads": 1400,
+        "messages": 16800
+    },
+    {
+        "name": "LG G Pad 8.3",
+        "path": "/c/lg-g-pad-8-3.2669/",
+        "threads": 2500,
+        "messages": 45100
+    },
+    {
+        "name": "Verizon LG G2",
+        "path": "/f/verizon-lg-g2.3043/",
+        "threads": 1400,
+        "messages": 65800
+    },
+    {
+        "name": "Sprint LG G2",
+        "path": "/f/sprint-lg-g2.3036/",
+        "threads": 1200,
+        "messages": 28000
+    },
+    {
+        "name": "T-Mobile LG G2",
+        "path": "/f/t-mobile-lg-g2.3029/",
+        "threads": 465,
+        "messages": 9500
+    },
+    {
+        "name": "AT&T LG G2",
+        "path": "/f/at-t-lg-g2.3022/",
+        "threads": 743,
+        "messages": 14800
+    },
+    {
+        "name": "LG G2",
+        "path": "/c/lg-g2.2456/",
+        "threads": 21600,
+        "messages": 556000
+    },
+    {
+        "name": "LG Optimus G Pro",
+        "path": "/f/lg-optimus-g-pro.2297/",
+        "threads": 4100,
+        "messages": 73600
+    },
+    {
+        "name": "Sprint LG Optimus G",
+        "path": "/f/sprint-lg-optimus-g.1928/",
+        "threads": 2500,
+        "messages": 61300
+    },
+    {
+        "name": "AT&T LG Optimus G",
+        "path": "/f/at-t-lg-optimus-g.1921/",
+        "threads": 2600,
+        "messages": 57600
+    },
+    {
+        "name": "LG Optimus L9 P760, P765, P768, P769",
+        "path": "/f/lg-optimus-l9-p760-p765-p768-p769.2072/",
+        "threads": 3200,
+        "messages": 57400
+    },
+    {
+        "name": "LG Optimus L3, L5, L7",
+        "path": "/c/lg-optimus-l3-l5-l7.2131/",
+        "threads": 3100,
+        "messages": 69800
+    },
+    {
+        "name": "LG Optimus G (International)",
+        "path": "/f/lg-optimus-g-international.1838/",
+        "threads": 3900,
+        "messages": 71500
+    },
+    {
+        "name": "LG Optimus 4X HD",
+        "path": "/f/lg-optimus-4x-hd.1649/",
+        "threads": 4200,
+        "messages": 95100
+    },
+    {
+        "name": "LG Nitro HD",
+        "path": "/f/lg-nitro-hd.1445/",
+        "threads": 1900,
+        "messages": 34000
+    },
+    {
+        "name": "LG Thrill 4G",
+        "path": "/f/lg-thrill-4g.1265/",
+        "threads": 1400,
+        "messages": 17500
+    },
+    {
+        "name": "LG Optimus Black",
+        "path": "/f/lg-optimus-black.1187/",
+        "threads": 4900,
+        "messages": 110000
+    },
+    {
+        "name": "LG Revolution",
+        "path": "/f/lg-revolution.1177/",
+        "threads": 1500,
+        "messages": 24400
+    },
+    {
+        "name": "T-Mobile LG G2x",
+        "path": "/f/t-mobile-lg-g2x.1114/",
+        "threads": 9200,
+        "messages": 188800
+    },
+    {
+        "name": "LG Optimus 3D",
+        "path": "/f/lg-optimus-3d.1073/",
+        "threads": 4900,
+        "messages": 78800
+    },
+    {
+        "name": "LG Optimus 2x",
+        "path": "/f/lg-optimus-2x.999/",
+        "threads": 8400,
+        "messages": 268700
+    },
+    {
+        "name": "LG Optimus One, P500, V",
+        "path": "/c/lg-optimus-one-p500-v.836/",
+        "threads": 9600,
+        "messages": 242100
+    },
+    {
+        "name": "LG Optimus 7",
+        "path": "/c/lg-optimus-7.825/",
+        "threads": 561,
+        "messages": 4000
+    }
+]

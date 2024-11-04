@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Karbonn Titanium S5",
+        "path": "/c/karbonn-titanium-s5.5940/",
+        "threads": 56,
+        "messages": 632
+    },
+    {
+        "name": "Karbonn Sparkle V",
+        "path": "/f/karbonn-sparkle-v.3616/",
+        "threads": 151,
+        "messages": 591
+    },
+    {
+        "name": "Karbonn A21",
+        "path": "/f/karbonn-a21.2799/",
+        "threads": 46,
+        "messages": 1800
+    }
+]

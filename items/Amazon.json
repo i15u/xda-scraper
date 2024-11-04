@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Amazon Fire",
+        "path": "/c/amazon-fire.4716/",
+        "threads": 1600,
+        "messages": 38800
+    },
+    {
+        "name": "Amazon Fire HD 8 and HD 10",
+        "path": "/c/amazon-fire-hd-8-and-hd-10.4709/",
+        "threads": 1900,
+        "messages": 48800
+    },
+    {
+        "name": "Amazon Fire HD 6 and 7",
+        "path": "/c/amazon-fire-hd-6-and-7.3638/",
+        "threads": 559,
+        "messages": 5900
+    },
+    {
+        "name": "Amazon Fire Phone",
+        "path": "/f/amazon-fire-phone.3237/",
+        "threads": 1000,
+        "messages": 13600
+    },
+    {
+        "name": "Amazon Fire TV",
+        "path": "/c/amazon-fire-tv.3078/",
+        "threads": 6000,
+        "messages": 72500
+    },
+    {
+        "name": "Amazon Kindle Fire HDX 7\" & 8.9\"",
+        "path": "/c/amazon-kindle-fire-hdx-7-8-9.2540/",
+        "threads": 2000,
+        "messages": 33100
+    },
+    {
+        "name": "Amazon 7\" Kindle Fire HD, 8.9\" Kindle Fire HD, Kin",
+        "path": "/c/amazon-7-kindle-fire-hd-8-9-kindle-fire-hd-kin.1782/",
+        "threads": 5200,
+        "messages": 59800
+    },
+    {
+        "name": "Amazon Kindle Fire",
+        "path": "/c/amazon-kindle-fire.1306/",
+        "threads": 7800,
+        "messages": 114800
+    }
+]

@@ -1,0 +1,470 @@
+[
+    {
+        "name": "Huawei Mate X2",
+        "path": "/f/huawei-mate-x2.12103/",
+        "threads": 47,
+        "messages": 743
+    },
+    {
+        "name": "Huawei P50",
+        "path": "/f/huawei-p50.12331/",
+        "threads": 15,
+        "messages": 40
+    },
+    {
+        "name": "Huawei MatePad Pro (2021)",
+        "path": "/f/huawei-matepad-pro-2021.12337/",
+        "threads": 27,
+        "messages": 86
+    },
+    {
+        "name": "Huawei P50 Pro",
+        "path": "/f/huawei-p50-pro.12417/",
+        "threads": 75,
+        "messages": 975
+    },
+    {
+        "name": "Huawei P50 Pocket",
+        "path": "/f/huawei-p50-pocket.12489/",
+        "threads": 12,
+        "messages": 27
+    },
+    {
+        "name": "Huawei mate 50 / 50 Pro",
+        "path": "/f/huawei-mate-50-50-pro.12685/",
+        "threads": 28,
+        "messages": 378
+    },
+    {
+        "name": "Huawei Pocket 2",
+        "path": "/f/huawei-pocket-2.12837/",
+        "threads": 1,
+        "messages": 1
+    },
+    {
+        "name": "Huawei Pura 70 Ultra",
+        "path": "/f/huawei-pura-70-ultra.12845/",
+        "threads": 13,
+        "messages": 40
+    },
+    {
+        "name": "Huawei Mate XT Ultimate",
+        "path": "/f/huawei-mate-xt-ultimate.12887/",
+        "threads": 4,
+        "messages": 17
+    },
+    {
+        "name": "Huawei P40",
+        "path": "/c/huawei-p40.10321/",
+        "threads": 181,
+        "messages": 949
+    },
+    {
+        "name": "Huawei P40 Pro",
+        "path": "/c/huawei-p40-pro.10263/",
+        "threads": 947,
+        "messages": 14200
+    },
+    {
+        "name": "Huawei Mate 40 Pro",
+        "path": "/c/huawei-mate-40-pro.11747/",
+        "threads": 180,
+        "messages": 1600
+    },
+    {
+        "name": "Huawei Nova 2i (Mate 10 Lite / Honor 9i)",
+        "path": "/c/huawei-nova-2i-mate-10-lite-honor-9i.10787/",
+        "threads": 219,
+        "messages": 4000
+    },
+    {
+        "name": "Huawei Y3",
+        "path": "/c/huawei-y3.10717/",
+        "threads": 91,
+        "messages": 296
+    },
+    {
+        "name": "Huawei Nova 3i",
+        "path": "/c/huawei-nova-3i.10703/",
+        "threads": 111,
+        "messages": 445
+    },
+    {
+        "name": "Huawei P40 Pro+",
+        "path": "/c/huawei-p40-pro.10335/",
+        "threads": 123,
+        "messages": 629
+    },
+    {
+        "name": "Huawei MatePad Pro",
+        "path": "/c/huawei-matepad-pro.10103/",
+        "threads": 114,
+        "messages": 520
+    },
+    {
+        "name": "Huawei Mate XS",
+        "path": "/c/huawei-mate-xs.10005/",
+        "threads": 107,
+        "messages": 743
+    },
+    {
+        "name": "Huawei Mate 30 Lite",
+        "path": "/c/huawei-mate-30-lite.9305/",
+        "threads": 41,
+        "messages": 43
+    },
+    {
+        "name": "Huawei Mate 30 Pro",
+        "path": "/c/huawei-mate-30-pro.9298/",
+        "threads": 475,
+        "messages": 5200
+    },
+    {
+        "name": "Huawei Mate 30",
+        "path": "/c/huawei-mate-30.9207/",
+        "threads": 63,
+        "messages": 202
+    },
+    {
+        "name": "Huawei Y7 (2017)",
+        "path": "/c/huawei-y7-2017.8965/",
+        "threads": 102,
+        "messages": 473
+    },
+    {
+        "name": "Huawei P30 Pro",
+        "path": "/c/huawei-p30-pro.8791/",
+        "threads": 1600,
+        "messages": 26600
+    },
+    {
+        "name": "Huawei P30",
+        "path": "/c/huawei-p30.8784/",
+        "threads": 452,
+        "messages": 2700
+    },
+    {
+        "name": "Huawei Y7 2019",
+        "path": "/c/huawei-y7-2019.8756/",
+        "threads": 61,
+        "messages": 110
+    },
+    {
+        "name": "Huawei P Smart+ 2019",
+        "path": "/c/huawei-p-smart-2019.8749/",
+        "threads": 76,
+        "messages": 148
+    },
+    {
+        "name": "Huawei Mate X",
+        "path": "/c/huawei-mate-x.8630/",
+        "threads": 48,
+        "messages": 67
+    },
+    {
+        "name": "Huawei Nova 4",
+        "path": "/c/huawei-nova-4.8451/",
+        "threads": 45,
+        "messages": 55
+    },
+    {
+        "name": "Huawei MediaPad M5 Lite",
+        "path": "/c/huawei-mediapad-m5-lite.8370/",
+        "threads": 118,
+        "messages": 733
+    },
+    {
+        "name": "Huawei MediaPad T5",
+        "path": "/c/huawei-mediapad-t5.8363/",
+        "threads": 134,
+        "messages": 858
+    },
+    {
+        "name": "Huawei Mate 20 X",
+        "path": "/c/huawei-mate-20-x.8340/",
+        "threads": 1200,
+        "messages": 16300
+    },
+    {
+        "name": "Huawei Mate 20 Pro",
+        "path": "/c/huawei-mate-20-pro.8194/",
+        "threads": 1800,
+        "messages": 34900
+    },
+    {
+        "name": "Huawei Mate 20",
+        "path": "/c/huawei-mate-20.8187/",
+        "threads": 290,
+        "messages": 2400
+    },
+    {
+        "name": "Huawei Mate 20 Lite",
+        "path": "/c/huawei-mate-20-lite.8180/",
+        "threads": 208,
+        "messages": 1600
+    },
+    {
+        "name": "Huawei P Smart",
+        "path": "/c/huawei-p-smart.8061/",
+        "threads": 391,
+        "messages": 3000
+    },
+    {
+        "name": "Huawei Nova 3",
+        "path": "/c/huawei-nova-3.7977/",
+        "threads": 135,
+        "messages": 289
+    },
+    {
+        "name": "Huawei Y5 (2017)",
+        "path": "/c/huawei-y5-2017.7684/",
+        "threads": 183,
+        "messages": 1000
+    },
+    {
+        "name": "Huawei P20 Lite",
+        "path": "/c/huawei-p20-lite.7616/",
+        "threads": 1000,
+        "messages": 13500
+    },
+    {
+        "name": "Huawei P20 Pro",
+        "path": "/c/huawei-p20-pro.7595/",
+        "threads": 2600,
+        "messages": 37000
+    },
+    {
+        "name": "Huawei P20",
+        "path": "/c/huawei-p20.7588/",
+        "threads": 656,
+        "messages": 5500
+    },
+    {
+        "name": "Huawei MediaPad M5",
+        "path": "/c/huawei-mediapad-m5.7537/",
+        "threads": 587,
+        "messages": 6100
+    },
+    {
+        "name": "Huawei Honor Note 8",
+        "path": "/c/huawei-honor-note-8.7357/",
+        "threads": 114,
+        "messages": 4200
+    },
+    {
+        "name": "Huawei Y625",
+        "path": "/c/huawei-y625.7159/",
+        "threads": 103,
+        "messages": 382
+    },
+    {
+        "name": "Huawei Mate 10",
+        "path": "/c/huawei-mate-10.7107/",
+        "threads": 2800,
+        "messages": 40900
+    },
+    {
+        "name": "Huawei P10 Lite",
+        "path": "/c/huawei-p10-lite.7093/",
+        "threads": 801,
+        "messages": 8100
+    },
+    {
+        "name": "Huawei Ascend XT",
+        "path": "/c/huawei-ascend-xt.6825/",
+        "threads": 174,
+        "messages": 5700
+    },
+    {
+        "name": "Huawei Mate 9 Pro",
+        "path": "/c/huawei-mate-9-pro.6818/",
+        "threads": 169,
+        "messages": 988
+    },
+    {
+        "name": "Huawei Y6",
+        "path": "/c/huawei-y6.6517/",
+        "threads": 393,
+        "messages": 5900
+    },
+    {
+        "name": "Huawei Nova 2 Plus",
+        "path": "/c/huawei-nova-2-plus.6498/",
+        "threads": 80,
+        "messages": 250
+    },
+    {
+        "name": "Huawei Nova 2",
+        "path": "/c/huawei-nova-2.6492/",
+        "threads": 80,
+        "messages": 240
+    },
+    {
+        "name": "Huawei P10 Plus",
+        "path": "/c/huawei-p10-plus.6191/",
+        "threads": 600,
+        "messages": 6700
+    },
+    {
+        "name": "Huawei P10",
+        "path": "/c/huawei-p10.6185/",
+        "threads": 1400,
+        "messages": 12700
+    },
+    {
+        "name": "Huawei Mate 9 Porsche Design",
+        "path": "/c/huawei-mate-9-porsche-design.6004/",
+        "threads": 96,
+        "messages": 580
+    },
+    {
+        "name": "Huawei Mate 9",
+        "path": "/c/huawei-mate-9.5987/",
+        "threads": 2900,
+        "messages": 42700
+    },
+    {
+        "name": "Huawei Mediapad M3",
+        "path": "/c/huawei-mediapad-m3.5890/",
+        "threads": 570,
+        "messages": 9800
+    },
+    {
+        "name": "Huawei Nova/Nova Plus",
+        "path": "/c/huawei-nova-nova-plus.5817/",
+        "threads": 504,
+        "messages": 5000
+    },
+    {
+        "name": "Huawei Ascend G7",
+        "path": "/c/huawei-ascend-g7.5695/",
+        "threads": 195,
+        "messages": 5400
+    },
+    {
+        "name": "Huawei P9 Lite",
+        "path": "/c/huawei-p9-lite.5593/",
+        "threads": 2800,
+        "messages": 39400
+    },
+    {
+        "name": "Huawei P8",
+        "path": "/c/huawei-p8.5481/",
+        "threads": 772,
+        "messages": 12700
+    },
+    {
+        "name": "Huawei P9 Plus",
+        "path": "/c/huawei-p9-plus.5355/",
+        "threads": 703,
+        "messages": 8800
+    },
+    {
+        "name": "Huawei P9",
+        "path": "/c/huawei-p9.5349/",
+        "threads": 2900,
+        "messages": 39900
+    },
+    {
+        "name": "Huawei GX8",
+        "path": "/f/huawei-gx8.5067/",
+        "threads": 292,
+        "messages": 5300
+    },
+    {
+        "name": "Huawei MediaPad M2",
+        "path": "/f/huawei-mediapad-m2.5061/",
+        "threads": 243,
+        "messages": 1600
+    },
+    {
+        "name": "Huawei Mate 8",
+        "path": "/c/huawei-mate-8.4967/",
+        "threads": 2400,
+        "messages": 42100
+    },
+    {
+        "name": "Huawei Nexus 6P",
+        "path": "/c/huawei-nexus-6p.4744/",
+        "threads": 10400,
+        "messages": 384100
+    },
+    {
+        "name": "Huawei Ascend P1",
+        "path": "/f/huawei-ascend-p1.4688/",
+        "threads": 131,
+        "messages": 4400
+    },
+    {
+        "name": "Huawei P8lite",
+        "path": "/c/huawei-p8lite.4625/",
+        "threads": 3500,
+        "messages": 64300
+    },
+    {
+        "name": "Huawei P8max",
+        "path": "/f/huawei-p8max.4618/",
+        "threads": 304,
+        "messages": 3500
+    },
+    {
+        "name": "Huawei Mate S",
+        "path": "/f/huawei-mate-s.4586/",
+        "threads": 359,
+        "messages": 2100
+    },
+    {
+        "name": "Huawei MediaPad X2",
+        "path": "/f/huawei-mediapad-x2.4523/",
+        "threads": 520,
+        "messages": 11500
+    },
+    {
+        "name": "Huawei Ascend G6",
+        "path": "/f/huawei-ascend-g6.3999/",
+        "threads": 200,
+        "messages": 952
+    },
+    {
+        "name": "Huawei Ascend Mate 7",
+        "path": "/c/huawei-ascend-mate-7.3579/",
+        "threads": 2100,
+        "messages": 27900
+    },
+    {
+        "name": "Huawei Ascend Mate 2",
+        "path": "/f/huawei-ascend-mate-2.3447/",
+        "threads": 614,
+        "messages": 12800
+    },
+    {
+        "name": "Huawei Ascend P7",
+        "path": "/f/huawei-ascend-p7.3425/",
+        "threads": 1300,
+        "messages": 16700
+    },
+    {
+        "name": "Huawei Ascend P6, Mate",
+        "path": "/f/huawei-ascend-p6-mate.2426/",
+        "threads": 2400,
+        "messages": 38300
+    },
+    {
+        "name": "Huawei MediaPad, T-Mobile SpringBoard",
+        "path": "/f/huawei-mediapad-t-mobile-springboard.1523/",
+        "threads": 930,
+        "messages": 12100
+    },
+    {
+        "name": "Huawei Ideos X6",
+        "path": "/f/huawei-ideos-x6.1289/",
+        "threads": 750,
+        "messages": 17900
+    },
+    {
+        "name": "Huawei Ideos X5 U8800",
+        "path": "/f/huawei-ideos-x5-u8800.1120/",
+        "threads": 3400,
+        "messages": 85200
+    }
+]

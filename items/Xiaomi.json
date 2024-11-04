@@ -1,0 +1,1010 @@
+[
+    {
+        "name": "Redmi 9 Power / 9T",
+        "path": "/f/redmi-9-power-9t.12055/",
+        "threads": 341,
+        "messages": 2700
+    },
+    {
+        "name": "Xiaomi Mi 11",
+        "path": "/f/xiaomi-mi-11.12057/",
+        "threads": 756,
+        "messages": 11800
+    },
+    {
+        "name": "Xiaomi Mi 10i",
+        "path": "/f/xiaomi-mi-10i.12065/",
+        "threads": 55,
+        "messages": 477
+    },
+    {
+        "name": "Redmi Note 9T",
+        "path": "/f/redmi-note-9t.12075/",
+        "threads": 87,
+        "messages": 857
+    },
+    {
+        "name": "Redmi Note 10 Pro",
+        "path": "/f/redmi-note-10-pro.12117/",
+        "threads": 1700,
+        "messages": 30600
+    },
+    {
+        "name": "Xiaomi Mi 11 Ultra",
+        "path": "/f/xiaomi-mi-11-ultra.12139/",
+        "threads": 920,
+        "messages": 12900
+    },
+    {
+        "name": "Xiaomi Poco F3 / Xiaomi Mi 11X / Redmi K40",
+        "path": "/f/xiaomi-poco-f3-xiaomi-mi-11x-redmi-k40.12161/",
+        "threads": 2200,
+        "messages": 46300
+    },
+    {
+        "name": "Xiaomi Poco X3 Pro",
+        "path": "/f/xiaomi-poco-x3-pro.12163/",
+        "threads": 1500,
+        "messages": 22000
+    },
+    {
+        "name": "Black Shark 4",
+        "path": "/f/black-shark-4.12167/",
+        "threads": 114,
+        "messages": 758
+    },
+    {
+        "name": "Black Shark 4 Pro",
+        "path": "/f/black-shark-4-pro.12185/",
+        "threads": 47,
+        "messages": 193
+    },
+    {
+        "name": "Xiaomi Mi 11 Lite 4G",
+        "path": "/f/xiaomi-mi-11-lite-4g.12187/",
+        "threads": 193,
+        "messages": 2500
+    },
+    {
+        "name": "Xiaomi Mi 11 Lite 5G",
+        "path": "/f/xiaomi-mi-11-lite-5g.12189/",
+        "threads": 305,
+        "messages": 4500
+    },
+    {
+        "name": "Xiaomi Mi 11i / 11X Pro / Redmi K40 Pro+",
+        "path": "/f/xiaomi-mi-11i-11x-pro-redmi-k40-pro.12191/",
+        "threads": 182,
+        "messages": 1700
+    },
+    {
+        "name": "Redmi Note 10",
+        "path": "/f/redmi-note-10.12197/",
+        "threads": 555,
+        "messages": 12200
+    },
+    {
+        "name": "Xiaomi Mi MIX Fold",
+        "path": "/f/xiaomi-mi-mix-fold.12201/",
+        "threads": 42,
+        "messages": 274
+    },
+    {
+        "name": "Xiaomi Redmi Note 8 (2021)",
+        "path": "/f/xiaomi-redmi-note-8-2021.12305/",
+        "threads": 75,
+        "messages": 394
+    },
+    {
+        "name": "POCO M3 Pro 5G / Redmi Note 10 5G / 10T 5G",
+        "path": "/f/poco-m3-pro-5g-redmi-note-10-5g-10t-5g.12315/",
+        "threads": 473,
+        "messages": 6200
+    },
+    {
+        "name": "Redmi Note 10S",
+        "path": "/f/redmi-note-10s.12317/",
+        "threads": 418,
+        "messages": 3800
+    },
+    {
+        "name": "Poco X3 GT (Redmi Note 10 Pro 5G)",
+        "path": "/f/poco-x3-gt-redmi-note-10-pro-5g.12411/",
+        "threads": 140,
+        "messages": 1200
+    },
+    {
+        "name": "Xiaomi Mi MIX 4",
+        "path": "/f/xiaomi-mi-mix-4.12425/",
+        "threads": 72,
+        "messages": 1200
+    },
+    {
+        "name": "Xiaomi Mi Pad 5",
+        "path": "/f/xiaomi-mi-pad-5.12427/",
+        "threads": 411,
+        "messages": 6400
+    },
+    {
+        "name": "Xiaomi Mi Pad 5 Pro",
+        "path": "/f/xiaomi-mi-pad-5-pro.12429/",
+        "threads": 115,
+        "messages": 1300
+    },
+    {
+        "name": "Xiaomi 11T Pro",
+        "path": "/f/xiaomi-11t-pro.12447/",
+        "threads": 525,
+        "messages": 6900
+    },
+    {
+        "name": "POCO M4 Pro 5G, Redmi Note 11S (Opal), 11T (India)",
+        "path": "/f/poco-m4-pro-5g-redmi-note-11s-opal-11t-india.12467/",
+        "threads": 150,
+        "messages": 1000
+    },
+    {
+        "name": "Xiaomi 12 (Global)",
+        "path": "/f/xiaomi-12-global.12491/",
+        "threads": 280,
+        "messages": 4400
+    },
+    {
+        "name": "Xiaomi 12 Pro",
+        "path": "/f/xiaomi-12-pro.12493/",
+        "threads": 199,
+        "messages": 4900
+    },
+    {
+        "name": "Xiaomi 11 Lite 5G NE",
+        "path": "/f/xiaomi-11-lite-5g-ne.12519/",
+        "threads": 278,
+        "messages": 6400
+    },
+    {
+        "name": "Redmi Note 11 Pro+ 5G (peux)/POCO X4 Pro 5G (veux)",
+        "path": "/f/redmi-note-11-pro-5g-peux-poco-x4-pro-5g-veux.12555/",
+        "threads": 501,
+        "messages": 4800
+    },
+    {
+        "name": "Redmi Note 11 Pro 4G (viva/vida)",
+        "path": "/f/redmi-note-11-pro-4g-viva-vida.12557/",
+        "threads": 95,
+        "messages": 543
+    },
+    {
+        "name": "Xiaomi Poco F3 GT /  Redmi K40 Gaming",
+        "path": "/f/xiaomi-poco-f3-gt-redmi-k40-gaming.12567/",
+        "threads": 57,
+        "messages": 294
+    },
+    {
+        "name": "Redmi Note 11S 4G / POCO M4 Pro 4G (fleur)",
+        "path": "/f/redmi-note-11s-4g-poco-m4-pro-4g-fleur.12591/",
+        "threads": 277,
+        "messages": 2800
+    },
+    {
+        "name": "Xiaomi 12X",
+        "path": "/f/xiaomi-12x.12615/",
+        "threads": 68,
+        "messages": 1500
+    },
+    {
+        "name": "Redmi Note 11 (spes/spesn)",
+        "path": "/f/redmi-note-11-spes-spesn.12617/",
+        "threads": 539,
+        "messages": 6600
+    },
+    {
+        "name": "Xiaomi 12S Ultra",
+        "path": "/f/xiaomi-12s-ultra.12643/",
+        "threads": 143,
+        "messages": 2300
+    },
+    {
+        "name": "Xiaomi 12S Pro",
+        "path": "/f/xiaomi-12s-pro.12645/",
+        "threads": 35,
+        "messages": 513
+    },
+    {
+        "name": "Xiaomi 12S",
+        "path": "/f/xiaomi-12s.12647/",
+        "threads": 21,
+        "messages": 189
+    },
+    {
+        "name": "Xiaomi Poco F4 (Munch) / Redmi K40S",
+        "path": "/f/xiaomi-poco-f4-munch-redmi-k40s.12661/",
+        "threads": 168,
+        "messages": 2500
+    },
+    {
+        "name": "Xiaomi Mix Fold 2",
+        "path": "/f/xiaomi-mix-fold-2.12665/",
+        "threads": 171,
+        "messages": 2400
+    },
+    {
+        "name": "Xiaomi 11T",
+        "path": "/f/xiaomi-11t.12671/",
+        "threads": 144,
+        "messages": 1600
+    },
+    {
+        "name": "Xiaomi 12T Pro / Redmi K50 Ultra",
+        "path": "/f/xiaomi-12t-pro-redmi-k50-ultra.12673/",
+        "threads": 163,
+        "messages": 2300
+    },
+    {
+        "name": "Xiaomi 13",
+        "path": "/f/xiaomi-13.12681/",
+        "threads": 203,
+        "messages": 4300
+    },
+    {
+        "name": "Xiaomi 13 Pro",
+        "path": "/f/xiaomi-13-pro.12683/",
+        "threads": 106,
+        "messages": 1600
+    },
+    {
+        "name": "Redmi Note 12 5G / Xiaomi Poco X5",
+        "path": "/f/redmi-note-12-5g-xiaomi-poco-x5.12689/",
+        "threads": 130,
+        "messages": 941
+    },
+    {
+        "name": "Redmi Note 12 Pro / Pro Plus 5G",
+        "path": "/f/redmi-note-12-pro-pro-plus-5g.12691/",
+        "threads": 276,
+        "messages": 3200
+    },
+    {
+        "name": "Xiaomi Poco F4 GT /  Redmi K50 Gaming",
+        "path": "/f/xiaomi-poco-f4-gt-redmi-k50-gaming.12699/",
+        "threads": 56,
+        "messages": 492
+    },
+    {
+        "name": "Xiaomi Poco X5 Pro",
+        "path": "/f/xiaomi-poco-x5-pro.12721/",
+        "threads": 153,
+        "messages": 1400
+    },
+    {
+        "name": "Poco M4 5G / Redmi Note 11 E / 10 Prime+ 5G",
+        "path": "/f/poco-m4-5g-redmi-note-11-e-10-prime-5g.12723/",
+        "threads": 33,
+        "messages": 298
+    },
+    {
+        "name": "Xiaomi Poco F5 / Redmi Note 12 Turbo (China)",
+        "path": "/f/xiaomi-poco-f5-redmi-note-12-turbo-china.12733/",
+        "threads": 327,
+        "messages": 8600
+    },
+    {
+        "name": "Poco F5 Pro / Redmi K60 (China)",
+        "path": "/f/poco-f5-pro-redmi-k60-china.12741/",
+        "threads": 128,
+        "messages": 5000
+    },
+    {
+        "name": "Redmi Note 12 4G",
+        "path": "/f/redmi-note-12-4g.12753/",
+        "threads": 417,
+        "messages": 4700
+    },
+    {
+        "name": "Xiaomi Pad 6",
+        "path": "/f/xiaomi-pad-6.12759/",
+        "threads": 265,
+        "messages": 2900
+    },
+    {
+        "name": "Redmi K50i / Note 11T Pro (+) / Poco X4 GT [xaga]",
+        "path": "/f/redmi-k50i-note-11t-pro-poco-x4-gt-xaga.12775/",
+        "threads": 64,
+        "messages": 480
+    },
+    {
+        "name": "Xiaomi Mix Fold 3",
+        "path": "/f/xiaomi-mix-fold-3.12805/",
+        "threads": 71,
+        "messages": 1000
+    },
+    {
+        "name": "Xiaomi 13 Ultra",
+        "path": "/f/xiaomi-13-ultra.12814/",
+        "threads": 95,
+        "messages": 1300
+    },
+    {
+        "name": "Xiaomi Redmi Note 12S",
+        "path": "/f/xiaomi-redmi-note-12s.12815/",
+        "threads": 28,
+        "messages": 164
+    },
+    {
+        "name": "Xiaomi 14",
+        "path": "/f/xiaomi-14.12834/",
+        "threads": 86,
+        "messages": 961
+    },
+    {
+        "name": "Xiaomi 14 Pro",
+        "path": "/f/xiaomi-14-pro.12835/",
+        "threads": 15,
+        "messages": 114
+    },
+    {
+        "name": "Xiaomi 14 Ultra",
+        "path": "/f/xiaomi-14-ultra.12836/",
+        "threads": 97,
+        "messages": 1100
+    },
+    {
+        "name": "Xiaomi Poco X6 Neo",
+        "path": "/f/xiaomi-poco-x6-neo.12841/",
+        "threads": 4,
+        "messages": 9
+    },
+    {
+        "name": "Xiaomi Poco X6 Pro / Redmi K70E",
+        "path": "/f/xiaomi-poco-x6-pro-redmi-k70e.12844/",
+        "threads": 76,
+        "messages": 445
+    },
+    {
+        "name": "Xiaomi Poco F6 / Redmi Turbo 3",
+        "path": "/f/xiaomi-poco-f6-redmi-turbo-3.12852/",
+        "threads": 71,
+        "messages": 1100
+    },
+    {
+        "name": "Xiaomi Poco F6 Pro / Redmi K70",
+        "path": "/f/xiaomi-poco-f6-pro-redmi-k70.12853/",
+        "threads": 43,
+        "messages": 491
+    },
+    {
+        "name": "Xiaomi Redmi 13C (4G) / Poco C65",
+        "path": "/f/xiaomi-redmi-13c-4g-poco-c65.12854/",
+        "threads": 90,
+        "messages": 890
+    },
+    {
+        "name": "Xiaomi Redmi Note 13 Pro 5G / Poco X6 5G",
+        "path": "/f/xiaomi-redmi-note-13-pro-5g-poco-x6-5g.12860/",
+        "threads": 71,
+        "messages": 1600
+    },
+    {
+        "name": "Xiaomi Mix Fold 4",
+        "path": "/f/xiaomi-mix-fold-4.12873/",
+        "threads": 3,
+        "messages": 4
+    },
+    {
+        "name": "Xiaomi Mix Flip",
+        "path": "/f/xiaomi-mix-flip.12874/",
+        "threads": 2,
+        "messages": 2
+    },
+    {
+        "name": "Xiaomi Poco M6 Plus",
+        "path": "/f/xiaomi-poco-m6-plus.12883/",
+        "threads": 3,
+        "messages": 4
+    },
+    {
+        "name": "Xiaomi Redmi Note 14 Pro / Pro+",
+        "path": "/f/xiaomi-redmi-note-14-pro-pro.12888/",
+        "threads": 4,
+        "messages": 6
+    },
+    {
+        "name": "Xiaomi Redmi Note 13 4G (Saphire)",
+        "path": "/f/xiaomi-redmi-note-13-4g-saphire.12889/",
+        "threads": 28,
+        "messages": 173
+    },
+    {
+        "name": "Xiaomi Mi 10 Pro",
+        "path": "/c/xiaomi-mi-10-pro.10293/",
+        "threads": 226,
+        "messages": 1700
+    },
+    {
+        "name": "Xiaomi Mi 10T Lite",
+        "path": "/c/xiaomi-mi-10t-lite.11635/",
+        "threads": 310,
+        "messages": 4400
+    },
+    {
+        "name": "Xiaomi Redmi 8A Dual",
+        "path": "/f/xiaomi-redmi-8a-dual.11217/",
+        "threads": 76,
+        "messages": 478
+    },
+    {
+        "name": "Xiaomi Mi 10T / 10T Pro",
+        "path": "/c/xiaomi-mi-10t-10t-pro.11621/",
+        "threads": 709,
+        "messages": 8500
+    },
+    {
+        "name": "Xiaomi Poco X3 NFC",
+        "path": "/c/xiaomi-poco-x3-nfc.11523/",
+        "threads": 1500,
+        "messages": 32000
+    },
+    {
+        "name": "Xiaomi Mi 10 Ultra",
+        "path": "/c/xiaomi-mi-10-ultra.11277/",
+        "threads": 259,
+        "messages": 2300
+    },
+    {
+        "name": "Xiaomi Mi Note 10 Lite",
+        "path": "/c/xiaomi-mi-note-10-lite.11153/",
+        "threads": 307,
+        "messages": 5500
+    },
+    {
+        "name": "POCO M3",
+        "path": "/c/poco-m3.11961/",
+        "threads": 423,
+        "messages": 4700
+    },
+    {
+        "name": "Xiaomi Mi Mix 3 5g",
+        "path": "/c/xiaomi-mi-mix-3-5g.11123/",
+        "threads": 154,
+        "messages": 1900
+    },
+    {
+        "name": "Xiaomi Poco F2 Pro (Redmi K30 Pro)",
+        "path": "/c/xiaomi-poco-f2-pro-redmi-k30-pro.10675/",
+        "threads": 985,
+        "messages": 22800
+    },
+    {
+        "name": "Xiaomi Mi 10 Lite",
+        "path": "/c/xiaomi-mi-10-lite.10307/",
+        "threads": 205,
+        "messages": 2200
+    },
+    {
+        "name": "Xiaomi Black Shark 3 Pro",
+        "path": "/c/xiaomi-black-shark-3-pro.10147/",
+        "threads": 140,
+        "messages": 1200
+    },
+    {
+        "name": "Xiaomi Black Shark 3",
+        "path": "/c/xiaomi-black-shark-3.10119/",
+        "threads": 219,
+        "messages": 1500
+    },
+    {
+        "name": "Xiaomi Mi 10",
+        "path": "/c/xiaomi-mi-10.9949/",
+        "threads": 533,
+        "messages": 7200
+    },
+    {
+        "name": "Xiaomi Poco X2",
+        "path": "/c/xiaomi-poco-x2.9865/",
+        "threads": 470,
+        "messages": 6100
+    },
+    {
+        "name": "Xiaomi Redmi 8A",
+        "path": "/c/xiaomi-redmi-8a.9623/",
+        "threads": 226,
+        "messages": 1800
+    },
+    {
+        "name": "Xiaomi Redmi 8",
+        "path": "/c/xiaomi-redmi-8.9609/",
+        "threads": 326,
+        "messages": 3500
+    },
+    {
+        "name": "Xiaomi Mi Note 10",
+        "path": "/c/xiaomi-mi-note-10.9595/",
+        "threads": 541,
+        "messages": 9600
+    },
+    {
+        "name": "Xiaomi Mi Mix Alpha",
+        "path": "/c/xiaomi-mi-mix-alpha.9313/",
+        "threads": 43,
+        "messages": 60
+    },
+    {
+        "name": "Xiaomi Mi Band 4",
+        "path": "/c/xiaomi-mi-band-4.9112/",
+        "threads": 147,
+        "messages": 637
+    },
+    {
+        "name": "Xiaomi Mi CC9e",
+        "path": "/c/xiaomi-mi-cc9e.9105/",
+        "threads": 53,
+        "messages": 192
+    },
+    {
+        "name": "Xiaomi Mi CC9 / Mi 9 Lite",
+        "path": "/c/xiaomi-mi-cc9-mi-9-lite.9098/",
+        "threads": 466,
+        "messages": 7200
+    },
+    {
+        "name": "Xiaomi Mi A3",
+        "path": "/c/xiaomi-mi-a3.9049/",
+        "threads": 1400,
+        "messages": 22200
+    },
+    {
+        "name": "Redmi 9 / Poco M2",
+        "path": "/c/redmi-9-poco-m2.11167/",
+        "threads": 733,
+        "messages": 5900
+    },
+    {
+        "name": "Redmi K20 Pro / Xiaomi Mi 9T Pro",
+        "path": "/c/redmi-k20-pro-xiaomi-mi-9t-pro.8953/",
+        "threads": 3100,
+        "messages": 75900
+    },
+    {
+        "name": "POCO M2 Pro",
+        "path": "/c/poco-m2-pro.11067/",
+        "threads": 162,
+        "messages": 970
+    },
+    {
+        "name": "Redmi K20 / Xiaomi Mi 9T",
+        "path": "/c/redmi-k20-xiaomi-mi-9t.8946/",
+        "threads": 2100,
+        "messages": 38200
+    },
+    {
+        "name": "Xiaomi Redmi 7",
+        "path": "/c/xiaomi-redmi-7.8777/",
+        "threads": 478,
+        "messages": 6200
+    },
+    {
+        "name": "Redmi 9C",
+        "path": "/c/redmi-9c.10999/",
+        "threads": 280,
+        "messages": 2900
+    },
+    {
+        "name": "Xiaomi Black Shark 2",
+        "path": "/c/xiaomi-black-shark-2.8770/",
+        "threads": 340,
+        "messages": 2300
+    },
+    {
+        "name": "Redmi 9A",
+        "path": "/c/redmi-9a.10997/",
+        "threads": 347,
+        "messages": 4000
+    },
+    {
+        "name": "Xiaomi Redmi Note 7 Pro",
+        "path": "/c/xiaomi-redmi-note-7-pro.8735/",
+        "threads": 1100,
+        "messages": 16900
+    },
+    {
+        "name": "Redmi Note 9",
+        "path": "/c/redmi-note-9.10955/",
+        "threads": 821,
+        "messages": 8300
+    },
+    {
+        "name": "Xiaomi Mi 9 SE",
+        "path": "/c/xiaomi-mi-9-se.8595/",
+        "threads": 553,
+        "messages": 11100
+    },
+    {
+        "name": "Xiaomi Mi 9",
+        "path": "/c/xiaomi-mi-9.8588/",
+        "threads": 1900,
+        "messages": 43700
+    },
+    {
+        "name": "Xiaomi Redmi Note 7",
+        "path": "/c/xiaomi-redmi-note-7.8500/",
+        "threads": 2400,
+        "messages": 46700
+    },
+    {
+        "name": "Xiaomi Mi 8 Lite",
+        "path": "/c/xiaomi-mi-8-lite.8493/",
+        "threads": 435,
+        "messages": 6700
+    },
+    {
+        "name": "Xiaomi Mi Play",
+        "path": "/c/xiaomi-mi-play.8486/",
+        "threads": 67,
+        "messages": 170
+    },
+    {
+        "name": "Xiaomi Redmi Note 6 Pro",
+        "path": "/c/xiaomi-redmi-note-6-pro.8406/",
+        "threads": 632,
+        "messages": 9000
+    },
+    {
+        "name": "Redmi 10X / 10X Pro",
+        "path": "/c/redmi-10x-10x-pro.10535/",
+        "threads": 150,
+        "messages": 1400
+    },
+    {
+        "name": "Xiaomi Mi 8 Pro",
+        "path": "/c/xiaomi-mi-8-pro.8384/",
+        "threads": 150,
+        "messages": 1100
+    },
+    {
+        "name": "Xiaomi Black Shark Helo",
+        "path": "/c/xiaomi-black-shark-helo.8347/",
+        "threads": 75,
+        "messages": 212
+    },
+    {
+        "name": "Xiaomi Redmi 6 Pro",
+        "path": "/c/xiaomi-redmi-6-pro.8222/",
+        "threads": 339,
+        "messages": 4200
+    },
+    {
+        "name": "Xiaomi Mi Mix 3",
+        "path": "/c/xiaomi-mi-mix-3.8145/",
+        "threads": 760,
+        "messages": 12100
+    },
+    {
+        "name": "Xiaomi Poco F1",
+        "path": "/c/xiaomi-poco-f1.8089/",
+        "threads": 5200,
+        "messages": 171800
+    },
+    {
+        "name": "Xiaomi Mi 8 SE",
+        "path": "/c/xiaomi-mi-8-se.8075/",
+        "threads": 270,
+        "messages": 4600
+    },
+    {
+        "name": "Redmi Note 9 Pro Max",
+        "path": "/c/redmi-note-9-pro-max.10221/",
+        "threads": 127,
+        "messages": 463
+    },
+    {
+        "name": "Xiaomi Mi Pad 4 Plus",
+        "path": "/c/xiaomi-mi-pad-4-plus.8068/",
+        "threads": 141,
+        "messages": 3100
+    },
+    {
+        "name": "Redmi Note 9S / Note 9 Pro (Indian Model)",
+        "path": "/c/redmi-note-9s-note-9-pro-indian-model.10207/",
+        "threads": 1200,
+        "messages": 20400
+    },
+    {
+        "name": "Xiaomi Mi A2 Lite",
+        "path": "/c/xiaomi-mi-a2-lite.8005/",
+        "threads": 2000,
+        "messages": 33600
+    },
+    {
+        "name": "Xiaomi Mi A2 / Mi 6X",
+        "path": "/c/xiaomi-mi-a2-mi-6x.7963/",
+        "threads": 2500,
+        "messages": 45200
+    },
+    {
+        "name": "Xiaomi Mi Max 3",
+        "path": "/c/xiaomi-mi-max-3.7955/",
+        "threads": 754,
+        "messages": 11600
+    },
+    {
+        "name": "Xiaomi Redmi Note 5A",
+        "path": "/c/xiaomi-redmi-note-5a.7932/",
+        "threads": 205,
+        "messages": 1600
+    },
+    {
+        "name": "Xiaomi Mi Pad 4",
+        "path": "/c/xiaomi-mi-pad-4.7904/",
+        "threads": 461,
+        "messages": 12400
+    },
+    {
+        "name": "Xiaomi Redmi 6A",
+        "path": "/c/xiaomi-redmi-6a.7881/",
+        "threads": 249,
+        "messages": 1700
+    },
+    {
+        "name": "Xiaomi Redmi 6",
+        "path": "/c/xiaomi-redmi-6.7874/",
+        "threads": 219,
+        "messages": 1500
+    },
+    {
+        "name": "Xiaomi Mi 8",
+        "path": "/c/xiaomi-mi-8.7845/",
+        "threads": 1800,
+        "messages": 56700
+    },
+    {
+        "name": "Redmi K30 5G",
+        "path": "/c/redmi-k30-5g.9879/",
+        "threads": 159,
+        "messages": 1800
+    },
+    {
+        "name": "Xiaomi Redmi S2",
+        "path": "/c/xiaomi-redmi-s2.7712/",
+        "threads": 342,
+        "messages": 3700
+    },
+    {
+        "name": "Xiaomi Redmi 5",
+        "path": "/c/xiaomi-redmi-5.7705/",
+        "threads": 427,
+        "messages": 9800
+    },
+    {
+        "name": "Xiaomi Redmi 5A",
+        "path": "/c/xiaomi-redmi-5a.7677/",
+        "threads": 370,
+        "messages": 5700
+    },
+    {
+        "name": "Xiaomi Mi Mix 2S",
+        "path": "/c/xiaomi-mi-mix-2s.7602/",
+        "threads": 911,
+        "messages": 22200
+    },
+    {
+        "name": "Xiaomi Mi Note 3",
+        "path": "/c/xiaomi-mi-note-3.7428/",
+        "threads": 408,
+        "messages": 6200
+    },
+    {
+        "name": "Xiaomi Redmi Note 5 Pro",
+        "path": "/c/xiaomi-redmi-note-5-pro.7419/",
+        "threads": 3800,
+        "messages": 113400
+    },
+    {
+        "name": "Xiaomi Redmi Note 5 / 5 Plus",
+        "path": "/c/xiaomi-redmi-note-5-5-plus.7415/",
+        "threads": 1700,
+        "messages": 43100
+    },
+    {
+        "name": "Redmi Note 8 Pro",
+        "path": "/c/redmi-note-8-pro.9291/",
+        "threads": 1700,
+        "messages": 18900
+    },
+    {
+        "name": "Xiaomi Redmi 4a",
+        "path": "/c/xiaomi-redmi-4a.7300/",
+        "threads": 501,
+        "messages": 8500
+    },
+    {
+        "name": "Xiaomi Mi A1",
+        "path": "/c/xiaomi-mi-a1.7044/",
+        "threads": 4700,
+        "messages": 125800
+    },
+    {
+        "name": "Xiaomi Redmi 4X",
+        "path": "/c/xiaomi-redmi-4x.6954/",
+        "threads": 1500,
+        "messages": 45500
+    },
+    {
+        "name": "Xiaomi Mi Mix 2",
+        "path": "/c/xiaomi-mi-mix-2.6931/",
+        "threads": 1000,
+        "messages": 24200
+    },
+    {
+        "name": "Redmi Note 8",
+        "path": "/c/redmi-note-8.9200/",
+        "threads": 1600,
+        "messages": 29300
+    },
+    {
+        "name": "Xiaomi Mi 5X",
+        "path": "/c/xiaomi-mi-5x.6790/",
+        "threads": 248,
+        "messages": 3100
+    },
+    {
+        "name": "Xiaomi Mi Max 2",
+        "path": "/c/xiaomi-mi-max-2.6541/",
+        "threads": 814,
+        "messages": 25200
+    },
+    {
+        "name": "Redmi 7A",
+        "path": "/c/redmi-7a.9077/",
+        "threads": 327,
+        "messages": 3100
+    },
+    {
+        "name": "Xiaomi Redmi 4 Prime",
+        "path": "/c/xiaomi-redmi-4-prime.6423/",
+        "threads": 490,
+        "messages": 16700
+    },
+    {
+        "name": "Xiaomi Mi 6",
+        "path": "/c/xiaomi-mi-6.6331/",
+        "threads": 982,
+        "messages": 37500
+    },
+    {
+        "name": "Xiaomi Mi 5s Plus",
+        "path": "/c/xiaomi-mi-5s-plus.6281/",
+        "threads": 310,
+        "messages": 9600
+    },
+    {
+        "name": "Xiaomi Mi 5c",
+        "path": "/c/xiaomi-mi-5c.6257/",
+        "threads": 57,
+        "messages": 182
+    },
+    {
+        "name": "Xiaomi Redmi 3s",
+        "path": "/c/xiaomi-redmi-3s.5976/",
+        "threads": 2000,
+        "messages": 91800
+    },
+    {
+        "name": "Xiaomi Mi MIX",
+        "path": "/c/xiaomi-mi-mix.5956/",
+        "threads": 1100,
+        "messages": 28600
+    },
+    {
+        "name": "Xiaomi Mi Note 2",
+        "path": "/c/xiaomi-mi-note-2.5950/",
+        "threads": 313,
+        "messages": 5900
+    },
+    {
+        "name": "Xiaomi Mi 5s",
+        "path": "/c/xiaomi-mi-5s.5928/",
+        "threads": 865,
+        "messages": 32900
+    },
+    {
+        "name": "Xiaomi Redmi Note 4",
+        "path": "/c/xiaomi-redmi-note-4.5781/",
+        "threads": 5000,
+        "messages": 209900
+    },
+    {
+        "name": "Xiaomi Redmi Pro",
+        "path": "/c/xiaomi-redmi-pro.5642/",
+        "threads": 241,
+        "messages": 1800
+    },
+    {
+        "name": "Xiaomi Mi Pad",
+        "path": "/c/xiaomi-mi-pad.5605/",
+        "threads": 341,
+        "messages": 9200
+    },
+    {
+        "name": "Xiaomi Mi Max",
+        "path": "/c/xiaomi-mi-max.5469/",
+        "threads": 1000,
+        "messages": 42700
+    },
+    {
+        "name": "Xiaomi Redmi Note 3",
+        "path": "/c/xiaomi-redmi-note-3.5319/",
+        "threads": 6400,
+        "messages": 294700
+    },
+    {
+        "name": "Xiaomi Mi 5",
+        "path": "/c/xiaomi-mi-5.5189/",
+        "threads": 2400,
+        "messages": 91000
+    },
+    {
+        "name": "Xiaomi Redmi 2",
+        "path": "/c/xiaomi-redmi-2.5103/",
+        "threads": 1300,
+        "messages": 49800
+    },
+    {
+        "name": "Xiaomi Redmi 3",
+        "path": "/c/xiaomi-redmi-3.5097/",
+        "threads": 718,
+        "messages": 20400
+    },
+    {
+        "name": "Xiaomi Mi 4C",
+        "path": "/f/xiaomi-mi-4c.4781/",
+        "threads": 655,
+        "messages": 24600
+    },
+    {
+        "name": "Xiaomi Redmi Note 2",
+        "path": "/c/xiaomi-redmi-note-2.4436/",
+        "threads": 953,
+        "messages": 27900
+    },
+    {
+        "name": "Xiaomi Mi Note Pro",
+        "path": "/f/xiaomi-mi-note-pro.4245/",
+        "threads": 255,
+        "messages": 3200
+    },
+    {
+        "name": "Xiaomi Mi 4i",
+        "path": "/f/xiaomi-mi-4i.4224/",
+        "threads": 771,
+        "messages": 20200
+    },
+    {
+        "name": "Xiaomi Redmi Note",
+        "path": "/c/xiaomi-redmi-note.3747/",
+        "threads": 660,
+        "messages": 13100
+    },
+    {
+        "name": "Xiaomi Redmi 1S",
+        "path": "/f/xiaomi-redmi-1s.3699/",
+        "threads": 1500,
+        "messages": 49800
+    },
+    {
+        "name": "Xiaomi Mi 2",
+        "path": "/f/xiaomi-mi-2.3601/",
+        "threads": 161,
+        "messages": 4100
+    },
+    {
+        "name": "Xiaomi Mi 4",
+        "path": "/f/xiaomi-mi-4.3483/",
+        "threads": 479,
+        "messages": 3400
+    },
+    {
+        "name": "Xiaomi Mi 3",
+        "path": "/c/xiaomi-mi-3.3432/",
+        "threads": 1500,
+        "messages": 72100
+    }
+]

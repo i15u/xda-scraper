@@ -1,0 +1,296 @@
+[
+    {
+        "name": "ASUS ROG Phone 5 / 5s",
+        "path": "/f/asus-rog-phone-5-5s.12119/",
+        "threads": 611,
+        "messages": 6000
+    },
+    {
+        "name": "ASUS ZenFone 8",
+        "path": "/f/asus-zenfone-8.12291/",
+        "threads": 373,
+        "messages": 4800
+    },
+    {
+        "name": "ASUS ZenFone 8 Flip",
+        "path": "/f/asus-zenfone-8-flip.12295/",
+        "threads": 40,
+        "messages": 187
+    },
+    {
+        "name": "Smartphone for Snapdragon Insiders",
+        "path": "/f/smartphone-for-snapdragon-insiders.12391/",
+        "threads": 9,
+        "messages": 51
+    },
+    {
+        "name": "Asus ROG Phone 6 / 6 Pro",
+        "path": "/f/asus-rog-phone-6-6-pro.12649/",
+        "threads": 251,
+        "messages": 2400
+    },
+    {
+        "name": "Asus Zenfone 9",
+        "path": "/f/asus-zenfone-9.12653/",
+        "threads": 169,
+        "messages": 2100
+    },
+    {
+        "name": "Asus ROG Phone 7 / 7 Ultimate",
+        "path": "/f/asus-rog-phone-7-7-ultimate.12729/",
+        "threads": 91,
+        "messages": 438
+    },
+    {
+        "name": "Asus Zenfone 10",
+        "path": "/f/asus-zenfone-10.12761/",
+        "threads": 35,
+        "messages": 554
+    },
+    {
+        "name": "Asus ROG Phone 8 / 8 Pro",
+        "path": "/f/asus-rog-phone-8-8-pro.12822/",
+        "threads": 28,
+        "messages": 157
+    },
+    {
+        "name": "Asus Zenfone 11 Ultra",
+        "path": "/f/asus-zenfone-11-ultra.12850/",
+        "threads": 3,
+        "messages": 5
+    },
+    {
+        "name": "Asus Zenfone 5 (2018, ZE620KL)",
+        "path": "/c/asus-zenfone-5-2018-ze620kl.10773/",
+        "threads": 127,
+        "messages": 1100
+    },
+    {
+        "name": "Asus ZenFone Max M1",
+        "path": "/c/asus-zenfone-max-m1.9963/",
+        "threads": 130,
+        "messages": 650
+    },
+    {
+        "name": "Asus Zenfone Max M2",
+        "path": "/c/asus-zenfone-max-m2.8472/",
+        "threads": 265,
+        "messages": 2300
+    },
+    {
+        "name": "Asus Zenfone Max Pro M2",
+        "path": "/c/asus-zenfone-max-pro-m2.8465/",
+        "threads": 619,
+        "messages": 11100
+    },
+    {
+        "name": "Asus Zenpad 8.0",
+        "path": "/c/asus-zenpad-8-0.8319/",
+        "threads": 124,
+        "messages": 1100
+    },
+    {
+        "name": "Asus ROG Phone",
+        "path": "/c/asus-rog-phone.7859/",
+        "threads": 225,
+        "messages": 2000
+    },
+    {
+        "name": "Asus ZenFone Max Pro M1",
+        "path": "/c/asus-zenfone-max-pro-m1.7656/",
+        "threads": 2300,
+        "messages": 58300
+    },
+    {
+        "name": "Asus Zenfone 5Z",
+        "path": "/c/asus-zenfone-5z.7546/",
+        "threads": 476,
+        "messages": 6400
+    },
+    {
+        "name": "Asus Zenfone Go",
+        "path": "/c/asus-zenfone-go.7363/",
+        "threads": 113,
+        "messages": 789
+    },
+    {
+        "name": "Asus Zenfone Selfie",
+        "path": "/c/asus-zenfone-selfie.7350/",
+        "threads": 117,
+        "messages": 813
+    },
+    {
+        "name": "Asus ZenPad 10",
+        "path": "/c/asus-zenpad-10.7173/",
+        "threads": 186,
+        "messages": 2300
+    },
+    {
+        "name": "Asus Zenfone Max",
+        "path": "/c/asus-zenfone-max.6977/",
+        "threads": 280,
+        "messages": 6100
+    },
+    {
+        "name": "Asus Zenfone 6",
+        "path": "/c/asus-zenfone-6.6964/",
+        "threads": 90,
+        "messages": 987
+    },
+    {
+        "name": "Asus ZenFone 4 Max",
+        "path": "/c/asus-zenfone-4-max.6884/",
+        "threads": 144,
+        "messages": 1100
+    },
+    {
+        "name": "Asus ZenFone 4 Selfie, Selfie Pro",
+        "path": "/c/asus-zenfone-4-selfie-selfie-pro.6877/",
+        "threads": 75,
+        "messages": 312
+    },
+    {
+        "name": "Asus ZenFone 4 Pro",
+        "path": "/c/asus-zenfone-4-pro.6870/",
+        "threads": 56,
+        "messages": 257
+    },
+    {
+        "name": "Asus Zenfone 4 (2017)",
+        "path": "/c/asus-zenfone-4-2017.6863/",
+        "threads": 106,
+        "messages": 425
+    },
+    {
+        "name": "Asus ZenFone 3 Zoom",
+        "path": "/c/asus-zenfone-3-zoom.6547/",
+        "threads": 170,
+        "messages": 973
+    },
+    {
+        "name": "ASUS ZenFone 7 / 7 Pro",
+        "path": "/c/asus-zenfone-7-7-pro.11393/",
+        "threads": 164,
+        "messages": 1400
+    },
+    {
+        "name": "Asus ZenFone AR",
+        "path": "/c/asus-zenfone-ar.6089/",
+        "threads": 90,
+        "messages": 496
+    },
+    {
+        "name": "Asus ZenFone 3 Ultra",
+        "path": "/c/asus-zenfone-3-ultra.5463/",
+        "threads": 120,
+        "messages": 790
+    },
+    {
+        "name": "Asus ZenFone 3 Deluxe",
+        "path": "/c/asus-zenfone-3-deluxe.5457/",
+        "threads": 202,
+        "messages": 2100
+    },
+    {
+        "name": "Asus ZenFone 3",
+        "path": "/c/asus-zenfone-3.5451/",
+        "threads": 934,
+        "messages": 13500
+    },
+    {
+        "name": "Asus Zenfone 5",
+        "path": "/c/asus-zenfone-5.5005/",
+        "threads": 1000,
+        "messages": 49800
+    },
+    {
+        "name": "ASUS ROG Phone 3",
+        "path": "/c/asus-rog-phone-3.11025/",
+        "threads": 524,
+        "messages": 4600
+    },
+    {
+        "name": "Asus Zenfone 2 Laser",
+        "path": "/c/asus-zenfone-2-laser.4907/",
+        "threads": 1500,
+        "messages": 43200
+    },
+    {
+        "name": "Asus Zenfone 4",
+        "path": "/f/asus-zenfone-4.4816/",
+        "threads": 179,
+        "messages": 1200
+    },
+    {
+        "name": "Asus Fonepad 7",
+        "path": "/f/asus-fonepad-7.4751/",
+        "threads": 243,
+        "messages": 4100
+    },
+    {
+        "name": "Asus ZenFone Zoom",
+        "path": "/f/asus-zenfone-zoom.3892/",
+        "threads": 35,
+        "messages": 218
+    },
+    {
+        "name": "Asus ZenFone 2",
+        "path": "/c/asus-zenfone-2.3885/",
+        "threads": 5000,
+        "messages": 129500
+    },
+    {
+        "name": "Asus MeMO Pad 7",
+        "path": "/c/asus-memo-pad-7.3853/",
+        "threads": 488,
+        "messages": 12100
+    },
+    {
+        "name": "Asus Padfone X and S",
+        "path": "/f/asus-padfone-x-and-s.3268/",
+        "threads": 351,
+        "messages": 3700
+    },
+    {
+        "name": "Asus Transformer TF701",
+        "path": "/f/asus-transformer-tf701.2659/",
+        "threads": 693,
+        "messages": 11900
+    },
+    {
+        "name": "Asus Transformer TF700",
+        "path": "/f/asus-transformer-tf700.1661/",
+        "threads": 5700,
+        "messages": 128300
+    },
+    {
+        "name": "Asus Transformer TF300T",
+        "path": "/c/asus-transformer-tf300t.1578/",
+        "threads": 5900,
+        "messages": 100700
+    },
+    {
+        "name": "Asus  Eee Pad Transformer Prime",
+        "path": "/f/asus-eee-pad-transformer-prime.1411/",
+        "threads": 9800,
+        "messages": 183500
+    },
+    {
+        "name": "Asus Eee Pad Transformer TF101",
+        "path": "/c/asus-eee-pad-transformer-tf101.1104/",
+        "threads": 14400,
+        "messages": 262900
+    },
+    {
+        "name": "ASUS ROG Phone II",
+        "path": "/c/asus-rog-phone-ii.9056/",
+        "threads": 1300,
+        "messages": 14900
+    },
+    {
+        "name": "ASUS ZenFone 6 (2019)",
+        "path": "/c/asus-zenfone-6-2019.8903/",
+        "threads": 496,
+        "messages": 6200
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "BlackBerry Key2 LE",
+        "path": "/c/blackberry-key2-le.8131/",
+        "threads": 43,
+        "messages": 49
+    },
+    {
+        "name": "BlackBerry Evolve X",
+        "path": "/c/blackberry-evolve-x.8026/",
+        "threads": 34,
+        "messages": 37
+    },
+    {
+        "name": "BlackBerry Evolve",
+        "path": "/c/blackberry-evolve.8019/",
+        "threads": 37,
+        "messages": 42
+    },
+    {
+        "name": "BlackBerry Motion",
+        "path": "/c/blackberry-motion.7082/",
+        "threads": 41,
+        "messages": 74
+    },
+    {
+        "name": "BlackBerry KEYone",
+        "path": "/c/blackberry-keyone.6179/",
+        "threads": 84,
+        "messages": 261
+    },
+    {
+        "name": "BlackBerry DTEK50",
+        "path": "/c/blackberry-dtek50.5636/",
+        "threads": 46,
+        "messages": 107
+    },
+    {
+        "name": "BlackBerry Priv",
+        "path": "/f/blackberry-priv.4695/",
+        "threads": 344,
+        "messages": 3400
+    }
+]

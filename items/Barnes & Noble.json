@@ -1,0 +1,32 @@
+[
+    {
+        "name": "NOOK Tablet 7\"",
+        "path": "/c/nook-tablet-7.6022/",
+        "threads": 67,
+        "messages": 245
+    },
+    {
+        "name": "Barnes & Noble Nook HD, HD+",
+        "path": "/c/barnes-noble-nook-hd-hd.2034/",
+        "threads": 2600,
+        "messages": 40900
+    },
+    {
+        "name": "Barnes & Noble Nook Tablet",
+        "path": "/f/barnes-noble-nook-tablet.1394/",
+        "threads": 3900,
+        "messages": 50800
+    },
+    {
+        "name": "Barnes & Noble Nook Touch",
+        "path": "/c/barnes-noble-nook-touch.1198/",
+        "threads": 2300,
+        "messages": 26700
+    },
+    {
+        "name": "Barnes & Noble Nook Color",
+        "path": "/c/barnes-noble-nook-color.860/",
+        "threads": 10400,
+        "messages": 151500
+    }
+]

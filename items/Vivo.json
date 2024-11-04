@@ -1,0 +1,206 @@
+[
+    {
+        "name": "Vivo X60",
+        "path": "/f/vivo-x60.12061/",
+        "threads": 12,
+        "messages": 21
+    },
+    {
+        "name": "Vivo X60 Pro",
+        "path": "/f/vivo-x60-pro.12177/",
+        "threads": 13,
+        "messages": 23
+    },
+    {
+        "name": "Vivo X60 Pro+",
+        "path": "/f/vivo-x60-pro.12179/",
+        "threads": 111,
+        "messages": 835
+    },
+    {
+        "name": "iQOO 7",
+        "path": "/f/iqoo-7.12319/",
+        "threads": 56,
+        "messages": 317
+    },
+    {
+        "name": "iQOO 7 Legend",
+        "path": "/f/iqoo-7-legend.12321/",
+        "threads": 33,
+        "messages": 93
+    },
+    {
+        "name": "Vivo V21 5G",
+        "path": "/f/vivo-v21-5g.12323/",
+        "threads": 17,
+        "messages": 43
+    },
+    {
+        "name": "iQOO Z3",
+        "path": "/f/iqoo-z3.12365/",
+        "threads": 16,
+        "messages": 22
+    },
+    {
+        "name": "Vivo X70 Pro+",
+        "path": "/f/vivo-x70-pro.12455/",
+        "threads": 154,
+        "messages": 1700
+    },
+    {
+        "name": "Vivo V23 Pro",
+        "path": "/f/vivo-v23-pro.12499/",
+        "threads": 12,
+        "messages": 31
+    },
+    {
+        "name": "iQOO 9",
+        "path": "/f/iqoo-9.12501/",
+        "threads": 43,
+        "messages": 227
+    },
+    {
+        "name": "Vivo X80",
+        "path": "/f/vivo-x80.12601/",
+        "threads": 21,
+        "messages": 58
+    },
+    {
+        "name": "Vivo X80 Pro",
+        "path": "/f/vivo-x80-pro.12603/",
+        "threads": 138,
+        "messages": 1800
+    },
+    {
+        "name": "Vivo X Fold",
+        "path": "/f/vivo-x-fold.12651/",
+        "threads": 148,
+        "messages": 2600
+    },
+    {
+        "name": "Vivo X90 Pro Plus",
+        "path": "/f/vivo-x90-pro-plus.12701/",
+        "threads": 191,
+        "messages": 4000
+    },
+    {
+        "name": "vivo X100 Pro",
+        "path": "/f/vivo-x100-pro.12828/",
+        "threads": 56,
+        "messages": 251
+    },
+    {
+        "name": "Vivo X Fold3",
+        "path": "/f/vivo-x-fold3.12846/",
+        "threads": 7,
+        "messages": 32
+    },
+    {
+        "name": "Vivo X Fold3 Pro",
+        "path": "/f/vivo-x-fold3-pro.12847/",
+        "threads": 50,
+        "messages": 428
+    },
+    {
+        "name": "Vivo T3 Ultra",
+        "path": "/f/vivo-t3-ultra.12885/",
+        "threads": 2,
+        "messages": 2
+    },
+    {
+        "name": "Vivo V20 Pro",
+        "path": "/c/vivo-v20-pro.11677/",
+        "threads": 42,
+        "messages": 51
+    },
+    {
+        "name": "Vivo V20",
+        "path": "/c/vivo-v20.11663/",
+        "threads": 53,
+        "messages": 103
+    },
+    {
+        "name": "Vivo V20 SE",
+        "path": "/c/vivo-v20-se.11649/",
+        "threads": 49,
+        "messages": 63
+    },
+    {
+        "name": "Vivo Y51L",
+        "path": "/c/vivo-y51l.10731/",
+        "threads": 98,
+        "messages": 486
+    },
+    {
+        "name": "Vivo X50 Pro+",
+        "path": "/c/vivo-x50-pro.10633/",
+        "threads": 54,
+        "messages": 159
+    },
+    {
+        "name": "Vivo X50 Pro",
+        "path": "/c/vivo-x50-pro.10619/",
+        "threads": 52,
+        "messages": 106
+    },
+    {
+        "name": "Vivo X50",
+        "path": "/c/vivo-x50.10605/",
+        "threads": 39,
+        "messages": 43
+    },
+    {
+        "name": "Vivo Nex 3",
+        "path": "/c/vivo-nex-3.9214/",
+        "threads": 117,
+        "messages": 452
+    },
+    {
+        "name": "Vivo Z1 Pro",
+        "path": "/c/vivo-z1-pro.9084/",
+        "threads": 81,
+        "messages": 200
+    },
+    {
+        "name": "Vivo V15 Pro",
+        "path": "/c/vivo-v15-pro.8581/",
+        "threads": 75,
+        "messages": 417
+    },
+    {
+        "name": "Vivo V11",
+        "path": "/c/vivo-v11.8208/",
+        "threads": 94,
+        "messages": 444
+    },
+    {
+        "name": "Vivo Nex",
+        "path": "/c/vivo-nex.7867/",
+        "threads": 458,
+        "messages": 6200
+    },
+    {
+        "name": "Vivo V9",
+        "path": "/c/vivo-v9.7580/",
+        "threads": 105,
+        "messages": 351
+    },
+    {
+        "name": "Vivo X20 Plus UD",
+        "path": "/c/vivo-x20-plus-ud.7393/",
+        "threads": 77,
+        "messages": 176
+    },
+    {
+        "name": "iQOO Z1",
+        "path": "/c/iqoo-z1.10505/",
+        "threads": 48,
+        "messages": 55
+    },
+    {
+        "name": "iQOO 3",
+        "path": "/c/iqoo-3.10075/",
+        "threads": 83,
+        "messages": 217
+    }
+]

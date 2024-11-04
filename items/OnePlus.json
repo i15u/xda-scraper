@@ -1,0 +1,266 @@
+[
+    {
+        "name": "OnePlus 9",
+        "path": "/f/oneplus-9.12151/",
+        "threads": 926,
+        "messages": 14800
+    },
+    {
+        "name": "OnePlus 9 Pro",
+        "path": "/f/oneplus-9-pro.12153/",
+        "threads": 2200,
+        "messages": 51300
+    },
+    {
+        "name": "OnePlus 9R",
+        "path": "/f/oneplus-9r.12183/",
+        "threads": 184,
+        "messages": 1800
+    },
+    {
+        "name": "OnePlus Nord CE 5G",
+        "path": "/f/oneplus-nord-ce-5g.12343/",
+        "threads": 142,
+        "messages": 1000
+    },
+    {
+        "name": "OnePlus Nord N200 5G",
+        "path": "/f/oneplus-nord-n200-5g.12347/",
+        "threads": 322,
+        "messages": 3800
+    },
+    {
+        "name": "OnePlus Nord 2 5G",
+        "path": "/f/oneplus-nord-2-5g.12375/",
+        "threads": 513,
+        "messages": 4600
+    },
+    {
+        "name": "OnePlus 10 Pro",
+        "path": "/f/oneplus-10-pro.12503/",
+        "threads": 927,
+        "messages": 14600
+    },
+    {
+        "name": "OnePlus 9RT",
+        "path": "/f/oneplus-9rt.12505/",
+        "threads": 111,
+        "messages": 1100
+    },
+    {
+        "name": "OnePlus Nord CE 2",
+        "path": "/f/oneplus-nord-ce-2.12541/",
+        "threads": 85,
+        "messages": 883
+    },
+    {
+        "name": "OnePlus Nord N20 5G",
+        "path": "/f/oneplus-nord-n20-5g.12595/",
+        "threads": 160,
+        "messages": 1500
+    },
+    {
+        "name": "OnePlus 10R / Ace",
+        "path": "/f/oneplus-10r-ace.12597/",
+        "threads": 63,
+        "messages": 717
+    },
+    {
+        "name": "OnePlus Nord 2T",
+        "path": "/f/oneplus-nord-2t.12623/",
+        "threads": 64,
+        "messages": 606
+    },
+    {
+        "name": "OnePlus 10T 5G",
+        "path": "/f/oneplus-10t-5g.12625/",
+        "threads": 177,
+        "messages": 1900
+    },
+    {
+        "name": "OnePlus 11",
+        "path": "/f/oneplus-11.12687/",
+        "threads": 660,
+        "messages": 13100
+    },
+    {
+        "name": "OnePlus 11R (Ace 2)",
+        "path": "/f/oneplus-11r-ace-2.12717/",
+        "threads": 100,
+        "messages": 614
+    },
+    {
+        "name": "OnePlus Pad",
+        "path": "/f/oneplus-pad.12719/",
+        "threads": 66,
+        "messages": 473
+    },
+    {
+        "name": "OnePlus Nord 3 / Ace 2V",
+        "path": "/f/oneplus-nord-3-ace-2v.12781/",
+        "threads": 70,
+        "messages": 462
+    },
+    {
+        "name": "OnePlus Nord CE 3",
+        "path": "/f/oneplus-nord-ce-3.12783/",
+        "threads": 30,
+        "messages": 144
+    },
+    {
+        "name": "OnePlus Open",
+        "path": "/f/oneplus-open.12813/",
+        "threads": 133,
+        "messages": 1800
+    },
+    {
+        "name": "OnePlus 12",
+        "path": "/f/oneplus-12.12820/",
+        "threads": 696,
+        "messages": 11500
+    },
+    {
+        "name": "OnePlus 12R / OnePlus Ace 3",
+        "path": "/f/oneplus-12r-oneplus-ace-3.12829/",
+        "threads": 223,
+        "messages": 3600
+    },
+    {
+        "name": "OnePlus Ace 3 Pro",
+        "path": "/f/oneplus-ace-3-pro.12865/",
+        "threads": 10,
+        "messages": 52
+    },
+    {
+        "name": "OnePlus Nord 4 / Ace 3V",
+        "path": "/f/oneplus-nord-4-ace-3v.12866/",
+        "threads": 19,
+        "messages": 177
+    },
+    {
+        "name": "OnePlus Pad 2",
+        "path": "/f/oneplus-pad-2.12872/",
+        "threads": 41,
+        "messages": 259
+    },
+    {
+        "name": "OnePlus 7T",
+        "path": "/c/oneplus-7t.9249/",
+        "threads": 1800,
+        "messages": 32100
+    },
+    {
+        "name": "OnePlus 8T",
+        "path": "/c/oneplus-8t.11579/",
+        "threads": 1600,
+        "messages": 33700
+    },
+    {
+        "name": "OnePlus 6T",
+        "path": "/c/oneplus-6t.8257/",
+        "threads": 4000,
+        "messages": 106500
+    },
+    {
+        "name": "OnePlus 8 Pro",
+        "path": "/c/oneplus-8-pro.10363/",
+        "threads": 2000,
+        "messages": 39100
+    },
+    {
+        "name": "OnePlus 8",
+        "path": "/c/oneplus-8.10349/",
+        "threads": 1200,
+        "messages": 28900
+    },
+    {
+        "name": "OnePlus Nord",
+        "path": "/c/oneplus-nord.11081/",
+        "threads": 559,
+        "messages": 10400
+    },
+    {
+        "name": "OnePlus Nord N10 5G",
+        "path": "/c/oneplus-nord-n10-5g.11803/",
+        "threads": 372,
+        "messages": 4700
+    },
+    {
+        "name": "OnePlus Nord N100",
+        "path": "/c/oneplus-nord-n100.11817/",
+        "threads": 172,
+        "messages": 1200
+    },
+    {
+        "name": "OnePlus 7T Pro 5G McLaren",
+        "path": "/c/oneplus-7t-pro-5g-mclaren.9893/",
+        "threads": 377,
+        "messages": 5400
+    },
+    {
+        "name": "OnePlus 7T Pro (Regular & McLaren)",
+        "path": "/c/oneplus-7t-pro-regular-mclaren.9327/",
+        "threads": 689,
+        "messages": 14400
+    },
+    {
+        "name": "OnePlus 7 Pro",
+        "path": "/c/oneplus-7-pro.8847/",
+        "threads": 4900,
+        "messages": 114800
+    },
+    {
+        "name": "OnePlus 7",
+        "path": "/c/oneplus-7.8833/",
+        "threads": 809,
+        "messages": 20200
+    },
+    {
+        "name": "OnePlus 6",
+        "path": "/c/oneplus-6.7609/",
+        "threads": 4700,
+        "messages": 146600
+    },
+    {
+        "name": "OnePlus 5T",
+        "path": "/c/oneplus-5t.7252/",
+        "threads": 2900,
+        "messages": 102200
+    },
+    {
+        "name": "OnePlus 5",
+        "path": "/c/oneplus-5.6480/",
+        "threads": 3800,
+        "messages": 169500
+    },
+    {
+        "name": "OnePlus 3T",
+        "path": "/c/oneplus-3t.6010/",
+        "threads": 3900,
+        "messages": 83400
+    },
+    {
+        "name": "OnePlus 3",
+        "path": "/c/oneplus-3.5475/",
+        "threads": 7000,
+        "messages": 376300
+    },
+    {
+        "name": "OnePlus X",
+        "path": "/c/oneplus-x.4890/",
+        "threads": 2100,
+        "messages": 81500
+    },
+    {
+        "name": "OnePlus 2",
+        "path": "/c/oneplus-2.4305/",
+        "threads": 3600,
+        "messages": 177400
+    },
+    {
+        "name": "OnePlus One",
+        "path": "/c/oneplus-one.3130/",
+        "threads": 11200,
+        "messages": 612100
+    }
+]

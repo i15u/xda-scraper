@@ -1,0 +1,320 @@
+[
+    {
+        "name": "Realme X7",
+        "path": "/f/realme-x7.12121/",
+        "threads": 34,
+        "messages": 86
+    },
+    {
+        "name": "Realme X7 Pro",
+        "path": "/f/realme-x7-pro.12123/",
+        "threads": 13,
+        "messages": 38
+    },
+    {
+        "name": "Realme C2",
+        "path": "/f/realme-c2.12155/",
+        "threads": 69,
+        "messages": 439
+    },
+    {
+        "name": "Realme 8",
+        "path": "/f/realme-8.12169/",
+        "threads": 172,
+        "messages": 1300
+    },
+    {
+        "name": "Realme 8 Pro",
+        "path": "/f/realme-8-pro.12171/",
+        "threads": 116,
+        "messages": 930
+    },
+    {
+        "name": "Realme C25 / C25s",
+        "path": "/f/realme-c25-c25s.12205/",
+        "threads": 72,
+        "messages": 382
+    },
+    {
+        "name": "Realme C21",
+        "path": "/f/realme-c21.12207/",
+        "threads": 66,
+        "messages": 696
+    },
+    {
+        "name": "Realme C20",
+        "path": "/f/realme-c20.12209/",
+        "threads": 11,
+        "messages": 25
+    },
+    {
+        "name": "Realme GT",
+        "path": "/f/realme-gt.12339/",
+        "threads": 293,
+        "messages": 3000
+    },
+    {
+        "name": "Realme X7 Max 5G",
+        "path": "/f/realme-x7-max-5g.12341/",
+        "threads": 108,
+        "messages": 767
+    },
+    {
+        "name": "Realme Narzo 30 4G",
+        "path": "/f/realme-narzo-30-4g.12377/",
+        "threads": 8,
+        "messages": 27
+    },
+    {
+        "name": "Realme Narzo 30 5G (AKA  Realme 8 5G)",
+        "path": "/f/realme-narzo-30-5g-aka-realme-8-5g.12379/",
+        "threads": 49,
+        "messages": 213
+    },
+    {
+        "name": "Realme GT Neo 2",
+        "path": "/f/realme-gt-neo-2.12475/",
+        "threads": 288,
+        "messages": 2700
+    },
+    {
+        "name": "Realme 8i / Narzo 50",
+        "path": "/f/realme-8i-narzo-50.12481/",
+        "threads": 78,
+        "messages": 654
+    },
+    {
+        "name": "Realme GT Master Edition",
+        "path": "/f/realme-gt-master-edition.12487/",
+        "threads": 239,
+        "messages": 2300
+    },
+    {
+        "name": "Realme 9i",
+        "path": "/f/realme-9i.12509/",
+        "threads": 34,
+        "messages": 86
+    },
+    {
+        "name": "Realme GT 2",
+        "path": "/f/realme-gt-2.12545/",
+        "threads": 170,
+        "messages": 1900
+    },
+    {
+        "name": "Realme GT 2 Pro",
+        "path": "/f/realme-gt-2-pro.12549/",
+        "threads": 292,
+        "messages": 4800
+    },
+    {
+        "name": "Realme Narzo 30A / Narzo 20 / Realme Realme 7i EU",
+        "path": "/f/realme-narzo-30a-narzo-20-realme-realme-7i-eu.12565/",
+        "threads": 33,
+        "messages": 229
+    },
+    {
+        "name": "Realme 9 5G SE",
+        "path": "/f/realme-9-5g-se.12569/",
+        "threads": 39,
+        "messages": 306
+    },
+    {
+        "name": "Realme GT Neo 3",
+        "path": "/f/realme-gt-neo-3.12599/",
+        "threads": 114,
+        "messages": 1500
+    },
+    {
+        "name": "Realme 12 Pro",
+        "path": "/f/realme-12-pro.12825/",
+        "threads": 5,
+        "messages": 10
+    },
+    {
+        "name": "Realme 12 Pro+",
+        "path": "/f/realme-12-pro.12827/",
+        "threads": 15,
+        "messages": 146
+    },
+    {
+        "name": "Realme 12+ 5G",
+        "path": "/f/realme-12-5g.12832/",
+        "threads": 3,
+        "messages": 3
+    },
+    {
+        "name": "Realme 13 Pro",
+        "path": "/f/realme-13-pro.12875/",
+        "threads": 3,
+        "messages": 4
+    },
+    {
+        "name": "Realme 13 Pro+",
+        "path": "/f/realme-13-pro.12876/",
+        "threads": 3,
+        "messages": 14
+    },
+    {
+        "name": "Realme 7i",
+        "path": "/c/realme-7i.11719/",
+        "threads": 67,
+        "messages": 110
+    },
+    {
+        "name": "Realme 7 Pro",
+        "path": "/c/realme-7-pro.11489/",
+        "threads": 256,
+        "messages": 1300
+    },
+    {
+        "name": "Realme 7",
+        "path": "/c/realme-7.11475/",
+        "threads": 258,
+        "messages": 2900
+    },
+    {
+        "name": "Realme C15",
+        "path": "/c/realme-c15.11377/",
+        "threads": 64,
+        "messages": 135
+    },
+    {
+        "name": "Realme C12",
+        "path": "/c/realme-c12.11363/",
+        "threads": 71,
+        "messages": 513
+    },
+    {
+        "name": "Realme X3",
+        "path": "/c/realme-x3.11181/",
+        "threads": 84,
+        "messages": 254
+    },
+    {
+        "name": "Realme X50 5G",
+        "path": "/c/realme-x50-5g.11053/",
+        "threads": 72,
+        "messages": 230
+    },
+    {
+        "name": "Realme C11",
+        "path": "/c/realme-c11.10983/",
+        "threads": 90,
+        "messages": 386
+    },
+    {
+        "name": "Realme 6s",
+        "path": "/c/realme-6s.10563/",
+        "threads": 44,
+        "messages": 71
+    },
+    {
+        "name": "Realme 6i",
+        "path": "/c/realme-6i.10549/",
+        "threads": 78,
+        "messages": 192
+    },
+    {
+        "name": "Realme X3 SuperZoom",
+        "path": "/c/realme-x3-superzoom.10521/",
+        "threads": 97,
+        "messages": 384
+    },
+    {
+        "name": "Realme 6",
+        "path": "/c/realme-6.10189/",
+        "threads": 322,
+        "messages": 2700
+    },
+    {
+        "name": "Realme 6 Pro",
+        "path": "/c/realme-6-pro.10161/",
+        "threads": 227,
+        "messages": 2000
+    },
+    {
+        "name": "Realme X50 Pro",
+        "path": "/c/realme-x50-pro.9991/",
+        "threads": 200,
+        "messages": 1400
+    },
+    {
+        "name": "Realme C3",
+        "path": "/c/realme-c3.9977/",
+        "threads": 214,
+        "messages": 1100
+    },
+    {
+        "name": "Realme X2 Pro",
+        "path": "/c/realme-x2-pro.9435/",
+        "threads": 917,
+        "messages": 11000
+    },
+    {
+        "name": "Realme X2",
+        "path": "/c/realme-x2.9421/",
+        "threads": 396,
+        "messages": 2800
+    },
+    {
+        "name": "Realme XT",
+        "path": "/c/realme-xt.9407/",
+        "threads": 293,
+        "messages": 2700
+    },
+    {
+        "name": "Realme 5 Pro",
+        "path": "/c/realme-5-pro.9179/",
+        "threads": 567,
+        "messages": 5700
+    },
+    {
+        "name": "Realme 5",
+        "path": "/c/realme-5.9172/",
+        "threads": 315,
+        "messages": 1800
+    },
+    {
+        "name": "Realme 3i",
+        "path": "/c/realme-3i.9042/",
+        "threads": 44,
+        "messages": 62
+    },
+    {
+        "name": "Realme X",
+        "path": "/c/realme-x.9035/",
+        "threads": 317,
+        "messages": 2600
+    },
+    {
+        "name": "Realme 3 Pro",
+        "path": "/c/realme-3-pro.8826/",
+        "threads": 398,
+        "messages": 3100
+    },
+    {
+        "name": "Oppo Realme 3",
+        "path": "/c/oppo-realme-3.8728/",
+        "threads": 208,
+        "messages": 1500
+    },
+    {
+        "name": "Realme 2 pro",
+        "path": "/c/realme-2-pro.8399/",
+        "threads": 302,
+        "messages": 2600
+    },
+    {
+        "name": "Oppo Realme 2",
+        "path": "/c/oppo-realme-2.8096/",
+        "threads": 102,
+        "messages": 356
+    },
+    {
+        "name": "Oppo Realme 1",
+        "path": "/c/oppo-realme-1.7747/",
+        "threads": 270,
+        "messages": 2100
+    }
+]
